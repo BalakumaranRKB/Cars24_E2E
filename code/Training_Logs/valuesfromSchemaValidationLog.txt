@@ -1,0 +1,38 @@
+2022-07-16/12:16:28		pattern:: file9_semicleaned.csv	 lengthOfFile_Part1:: 5	lengthOfFile_Part2:: 11
+
+2022-07-16/12:20:17		pattern:: file9_semicleaned.csv	 lengthOfFile_Part1:: 5	lengthOfFile_Part2:: 11
+
+2022-07-16/12:35:48		pattern:: file9_semicleaned.csv	 lengthOfFile_Part1:: 5	lengthOfFile_Part2:: 11
+
+2022-07-16/12:36:52		pattern:: file9_semicleaned.csv	 lengthOfFile_Part1:: 5	lengthOfFile_Part2:: 11
+
+2022-07-16/12:57:09		pattern:: file9_semicleaned.csv	 lengthOfFile_Part1:: 5	lengthOfFile_Part2:: 11
+
+2022-07-16/13:08:12		pattern:: file9_semicleaned.csv	 lengthOfFile_Part1:: 5	lengthOfFile_Part2:: 11
+
+2022-07-16/13:39:12		pattern:: file9_semicleaned.csv	 lengthOfFile_Part1:: 5	lengthOfFile_Part2:: 11
+
+2022-07-16/13:43:58		pattern:: file9_semicleaned.csv	 lengthOfFile_Part1:: 5	lengthOfFile_Part2:: 11
+
+2022-07-16/13:52:39		pattern:: file9_semicleaned.csv	 lengthOfFile_Part1:: 5	lengthOfFile_Part2:: 11
+
+2022-07-16/13:56:45		pattern:: file9_semicleaned.csv	 lengthOfFile_Part1:: 5	lengthOfFile_Part2:: 11
+
+2022-07-16/13:57:08		pattern:: file9_semicleaned.csv	 lengthOfFile_Part1:: 5	lengthOfFile_Part2:: 11
+
+2022-07-16/13:59:32		pattern:: file9_semicleaned.csv	 lengthOfFile_Part1:: 5	lengthOfFile_Part2:: 11
+
+2022-07-16/14:02:27		pattern:: file9_semicleaned.csv	 lengthOfFile_Part1:: 5	lengthOfFile_Part2:: 11
+
+2022-07-16/14:07:07		pattern:: file9_semicleaned.csv	 lengthOfFile_Part1:: 5	lengthOfFile_Part2:: 11
+
+2022-07-16/14:08:06		pattern:: file9_semicleaned.csv	 lengthOfFile_Part1:: 5	lengthOfFile_Part2:: 11
+
+2022-07-17/11:25:46		pattern:: file9_semicleaned.csv	 lengthOfFile_Part1:: 5	lengthOfFile_Part2:: 11
+
+2022-07-17/22:12:27		pattern:: file9_semicleaned.csv	 lengthOfFile_Part1:: 5	lengthOfFile_Part2:: 11
+
+2022-07-18/17:17:02		pattern:: file9_semicleaned.csv	 lengthOfFile_Part1:: 5	lengthOfFile_Part2:: 11
+
+2022-07-18/17:40:04		pattern:: file9_semicleaned.csv	 lengthOfFile_Part1:: 5	lengthOfFile_Part2:: 11
+

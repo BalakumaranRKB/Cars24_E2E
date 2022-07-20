@@ -1,0 +1,19 @@
+{	"SampleFileName": "file9_semicleaned.csv",
+	"NumberofColumns" : 12,
+	"lengthOfFile_Part1" : 5,
+	"lengthOfFile_Part2" : 11,
+	"ColName": {
+		"Sl_No" : " integer",
+		"Transmission_Type": " char",
+		"Ownership": " varchar",
+		"Fuel_Used": " char",
+		"km_driven": " integer",
+		"Ex_Showroom_Price": " integer",
+		"On_road_Price": "char",
+		"selling_price": " integer",
+		"Place_of_Origin": " varchar",
+		"Complete_Info" : " varchar",
+		"Age": " integer",
+		"MRP": " integer"
+		}
+}

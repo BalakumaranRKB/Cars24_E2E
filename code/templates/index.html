@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+<title>Search Page</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+{% endblock %}
+
+{% block body %}
+<div class="content">
+    <h2 style="text-align: center">Welcome to the Car Prediction Page</h2>
+
+     <div class="buttons">
+
+            <div class="action_btn">
+
+            <button name="submit" class="action_btn submit" type="submit" value="Train data and then Predict"  onclick = "window.location.href='{{ url_for( 'trainRouteClient',) }}';" >Train data and then Predict</button>
+            <button name="submit" class="action_btn cancel" type="submit" value="Directly Proceed to Predict" onclick= "window.location.href='{{ url_for( 'predict',) }}';">Directly Proceed to Predict</button>
+
+            <p id="saved"></p>
+
+            </div>
+
+    </div>
+  <!--<a href = "train.html">
+      <button>Train data and then Predict </button>
+  </a>--!>
+
+</div>
+{% endblock %}
