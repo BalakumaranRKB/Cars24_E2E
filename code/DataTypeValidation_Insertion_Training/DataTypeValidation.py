@@ -11,7 +11,7 @@ class dBOperation:
     """
       This class shall be used for handling all the SQL operations.
 
-      Written By: iNeuron Intelligence
+
       Version: 1.0
       Revisions: None
 
@@ -31,7 +31,7 @@ class dBOperation:
                 Output: Connection to the DB
                 On Failure: Raise ConnectionError
 
-                 Written By: iNeuron Intelligence
+
                 Version: 1.0
                 Revisions: None
 
@@ -56,13 +56,13 @@ class dBOperation:
                         Output: None
                         On Failure: Raise Exception
 
-                         Written By: iNeuron Intelligence
+
                         Version: 1.0
                         Revisions: None
 
                         """
         try:
-            print(column_names)
+            #print(column_names)
             conn = self.dataBaseConnection(DatabaseName)
             c=conn.cursor()
             c.execute("SELECT count(name)  FROM sqlite_master WHERE type = 'table'AND name = 'Good_Raw_Data'")
@@ -120,7 +120,7 @@ class dBOperation:
                                Output: None
                                On Failure: Raise Exception
 
-                                Written By: iNeuron Intelligence
+
                                Version: 1.0
                                Revisions: None
 
@@ -169,7 +169,7 @@ class dBOperation:
                                Output: None
                                On Failure: Raise Exception
 
-                                Written By: iNeuron Intelligence
+
                                Version: 1.0
                                Revisions: None
 

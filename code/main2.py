@@ -20,8 +20,6 @@ CORS(app)
 @app.route("/")
 @cross_origin()
 def home():
-    #if request.method == "POST":
-        #user = request.form
     return render_template('index.html')
 
 
@@ -30,17 +28,14 @@ def trainRouteClient():
     try:
         if request.method == "POST":
             print('entering PoST')
-            path = request.form["csvfile"]
-            #request.form.to_dict()
-            print(path)
-
-            train_valObj = train_validation(path) #object initialization
-
-            train_valObj.train_validation()#calling the training_validation function
-
-
-            trainModelObj = trainModel() #object initialization
-            trainModelObj.trainingModel() #training the model for the files in the table
+            if request.form['filepath'] is not None:
+                print('This is a default file prediction')
+                path = request.form['filepath']
+                print(path)
+                train_valObj = train_validation(path) #object initialization
+                train_valObj.train_validation()#calling the training_validation function
+                trainModelObj = trainModel() #object initialization
+                trainModelObj.trainingModel() #training the model for the files in the table
             return redirect(url_for("predict"))
 
 
@@ -61,8 +56,15 @@ def trainRouteClient():
 @app.route("/predict", methods=['POST','GET'])
 def predict():
     try:
-        if request.method == "POST":
-            print('Entered POST')
+        if request.method is not None:
+            print(request.method)
+            #car_dict = request.form.to_dict()
+            #print(car_dict)
+            #test_predresult = prediction()
+            #final_result = test_predresult.predictionFromModel(car_dict)
+            #print(final_result)
+            #return render_template('predict.html')
+        if request.method == 'POST':
             car_dict = request.form.to_dict()
             print(car_dict)
             test_predresult = prediction()
@@ -70,18 +72,13 @@ def predict():
             print(final_result)
             return render_template('results.html', prediction=final_result[0])
 
-        elif request.method == "GET":
-            #print(request.form)
-            #age = request.form.get("Age")
-            print('entered GET')
-
     except ValueError:
         print('Valueerror')
         return Response("Error Occurred! %s" % ValueError)
-
     except KeyError:
         print('Keyerror')
         return Response("Error Occurred! %s" % KeyError)
+
     return render_template('predict.html')
 
 

@@ -68,3 +68,87 @@
 2022-07-18/17:48:48		Entered the save_model method of the File_Operation class
 2022-07-18/17:48:53		Model File XGBoost saved. Exited the save_model method of the Model_Finder class
 2022-07-18/17:48:53		Successful End of Training
+2022-07-20/16:06:33		Start of Training
+2022-07-20/16:06:33		Entered the get_data method of the Data_Getter class
+2022-07-20/16:06:33		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-07-20/16:06:33		Entered the remove_columns method of the Preprocessor class
+2022-07-20/16:06:33		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-07-20/16:06:33		Entered the one_hot_encoding method
+2022-07-20/16:06:33		Entered the separate_label_feature method of the Preprocessor class
+2022-07-20/16:06:33		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2022-07-20/16:06:33		Entered the get_best_model method of the Model_Finder class
+2022-07-20/16:06:33		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-07-20/16:28:28		XGBoost best params: {'subsample': 0.6, 'n_estimators': 1000, 'max_depth': 20, 'learning_rate': 0.2, 'colsample_bytree': 0.7, 'colsample_bylevel': 0.6}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-07-20/16:28:29		Entered the save_model method of the File_Operation class
+2022-07-20/16:28:35		Model File XGBoost saved. Exited the save_model method of the Model_Finder class
+2022-07-20/16:28:35		Successful End of Training
+2022-07-20/16:35:03		Start of Training
+2022-07-20/16:35:03		Entered the get_data method of the Data_Getter class
+2022-07-20/16:35:03		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-07-20/16:35:03		Entered the remove_columns method of the Preprocessor class
+2022-07-20/16:35:03		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-07-20/16:35:03		Entered the one_hot_encoding method
+2022-07-20/16:35:03		Entered the separate_label_feature method of the Preprocessor class
+2022-07-20/16:35:03		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2022-07-20/16:35:03		Entered the get_best_model method of the Model_Finder class
+2022-07-20/16:35:03		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-07-20/16:39:49		XGBoost best params: {'subsample': 0.8999999999999999, 'n_estimators': 1000, 'max_depth': 10, 'learning_rate': 0.01, 'colsample_bytree': 0.6, 'colsample_bylevel': 0.7999999999999999}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-07-20/16:39:49		Entered the save_model method of the File_Operation class
+2022-07-20/16:39:50		Model File XGBoost saved. Exited the save_model method of the Model_Finder class
+2022-07-20/16:39:50		Successful End of Training
+2022-07-20/22:34:47		Start of Training
+2022-07-20/22:34:47		Entered the get_data method of the Data_Getter class
+2022-07-20/22:34:47		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-07-20/22:34:47		Entered the remove_columns method of the Preprocessor class
+2022-07-20/22:34:47		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-07-20/22:34:47		Entered the one_hot_encoding method
+2022-07-20/22:34:47		Entered the separate_label_feature method of the Preprocessor class
+2022-07-20/22:34:47		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2022-07-20/22:34:47		Entered the get_best_model method of the Model_Finder class
+2022-07-20/22:34:47		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-07-20/22:44:40		XGBoost best params: {'subsample': 0.7999999999999999, 'n_estimators': 1000, 'max_depth': 15, 'learning_rate': 0.1, 'colsample_bytree': 0.7999999999999999, 'colsample_bylevel': 0.5}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-07-20/22:44:40		Entered the save_model method of the File_Operation class
+2022-07-20/22:44:44		Model File XGBoost saved. Exited the save_model method of the Model_Finder class
+2022-07-20/22:44:44		Successful End of Training
+2022-07-20/23:08:40		Start of Training
+2022-07-20/23:08:40		Entered the get_data method of the Data_Getter class
+2022-07-20/23:08:40		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-07-20/23:08:40		Entered the remove_columns method of the Preprocessor class
+2022-07-20/23:08:40		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-07-20/23:08:40		Entered the one_hot_encoding method
+2022-07-20/23:08:40		Entered the separate_label_feature method of the Preprocessor class
+2022-07-20/23:08:40		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2022-07-20/23:08:40		Entered the get_best_model method of the Model_Finder class
+2022-07-20/23:08:40		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-07-20/23:14:04		XGBoost best params: {'subsample': 0.7999999999999999, 'n_estimators': 500, 'max_depth': 10, 'learning_rate': 0.1, 'colsample_bytree': 0.8999999999999999, 'colsample_bylevel': 0.6}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-07-20/23:14:04		Entered the save_model method of the File_Operation class
+2022-07-20/23:14:04		Model File XGBoost saved. Exited the save_model method of the Model_Finder class
+2022-07-20/23:14:04		Successful End of Training
+2022-07-21/12:33:16		Start of Training
+2022-07-21/12:33:16		Entered the get_data method of the Data_Getter class
+2022-07-21/12:33:16		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-07-21/12:33:16		Entered the remove_columns method of the Preprocessor class
+2022-07-21/12:33:16		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-07-21/12:33:16		Entered the one_hot_encoding method
+2022-07-21/12:33:16		Entered the separate_label_feature method of the Preprocessor class
+2022-07-21/12:33:16		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2022-07-21/12:33:16		Entered the get_best_model method of the Model_Finder class
+2022-07-21/12:33:16		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-07-21/12:42:07		XGBoost best params: {'subsample': 0.6, 'n_estimators': 500, 'max_depth': 15, 'learning_rate': 0.01, 'colsample_bytree': 0.8999999999999999, 'colsample_bylevel': 0.7}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-07-21/12:42:07		Entered the save_model method of the File_Operation class
+2022-07-21/12:42:09		Model File XGBoost saved. Exited the save_model method of the Model_Finder class
+2022-07-21/12:42:09		Successful End of Training
+2022-07-21/13:08:39		Start of Training
+2022-07-21/13:08:39		Entered the get_data method of the Data_Getter class
+2022-07-21/13:08:39		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-07-21/13:08:39		Entered the remove_columns method of the Preprocessor class
+2022-07-21/13:08:39		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-07-21/13:08:39		Entered the one_hot_encoding method
+2022-07-21/13:08:39		Entered the separate_label_feature method of the Preprocessor class
+2022-07-21/13:08:39		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2022-07-21/13:08:39		Entered the get_best_model method of the Model_Finder class
+2022-07-21/13:08:39		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-07-21/13:17:41		XGBoost best params: {'subsample': 0.8999999999999999, 'n_estimators': 1000, 'max_depth': 10, 'learning_rate': 0.1, 'colsample_bytree': 0.8999999999999999, 'colsample_bylevel': 0.8999999999999999}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-07-21/13:17:41		Entered the save_model method of the File_Operation class
+2022-07-21/13:17:43		Model File XGBoost saved. Exited the save_model method of the Model_Finder class
+2022-07-21/13:17:43		Successful End of Training

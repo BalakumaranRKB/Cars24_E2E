@@ -10,7 +10,7 @@ class dataTransform:
      """
                This class shall be used for transforming the Good Raw Training Data before loading it in Database!!.
 
-               Written By: iNeuron Intelligence
+
                Version: 1.0
                Revisions: None
 
@@ -29,7 +29,7 @@ class dataTransform:
                                                         keep only "Integer" data for ease up the loading.
                                                         This column is anyways going to be removed during training.
 
-                                            Written By: iNeuron Intelligence
+
                                            Version: 1.0
                                            Revisions: None
 
