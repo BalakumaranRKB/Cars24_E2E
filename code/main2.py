@@ -28,18 +28,15 @@ def trainRouteClient():
     try:
         if request.method == "POST":
             print('entering PoST')
-            if request.form['filepath'] is not None:
+            if request.form['csvfile'] is not None:
                 print('This is a default file prediction')
-                path = request.form['filepath']
+                path = request.form['csvfile']
                 print(path)
                 train_valObj = train_validation(path) #object initialization
                 train_valObj.train_validation()#calling the training_validation function
                 trainModelObj = trainModel() #object initialization
                 trainModelObj.trainingModel() #training the model for the files in the table
-            return redirect(url_for("predict"))
-
-
-
+                return redirect(url_for("predict",))
 
     except ValueError:
 
@@ -55,15 +52,18 @@ def trainRouteClient():
 
 @app.route("/predict", methods=['POST','GET'])
 def predict():
+    if request.method == 'GET':
+        print(request.method)
+        return render_template('predict.html')
+    else:
+        return render_template('predict.html')
+
+@app.route("/results",methods = ['POST','GET'])
+def results():
     try:
         if request.method is not None:
             print(request.method)
-            #car_dict = request.form.to_dict()
-            #print(car_dict)
-            #test_predresult = prediction()
-            #final_result = test_predresult.predictionFromModel(car_dict)
-            #print(final_result)
-            #return render_template('predict.html')
+
         if request.method == 'POST':
             car_dict = request.form.to_dict()
             print(car_dict)
@@ -75,11 +75,12 @@ def predict():
     except ValueError:
         print('Valueerror')
         return Response("Error Occurred! %s" % ValueError)
+
     except KeyError:
         print('Keyerror')
         return Response("Error Occurred! %s" % KeyError)
 
-    return render_template('predict.html')
+
 
 
 if __name__ == "__main__":

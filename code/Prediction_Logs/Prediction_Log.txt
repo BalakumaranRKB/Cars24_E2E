@@ -128,3 +128,61 @@
 2022-07-21/23:32:32		Start of Prediction
 2022-07-21/23:32:32		Entered the load_model method of the File_Operation class
 2022-07-21/23:32:32		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2022-07-25/23:43:09		Start of Prediction
+2022-07-25/23:43:09		Entered the load_model method of the File_Operation class
+2022-07-25/23:43:09		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2022-07-25/23:43:10		Start of Prediction
+2022-07-25/23:43:10		Entered the load_model method of the File_Operation class
+2022-07-25/23:43:10		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2022-07-25/23:59:33		Start of Prediction
+2022-07-25/23:59:33		Entered the load_model method of the File_Operation class
+2022-07-25/23:59:33		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2022-07-26/00:01:54		Start of Prediction
+2022-07-26/00:01:54		Entered the load_model method of the File_Operation class
+2022-07-26/00:01:54		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2022-07-26/00:17:24		Start of Prediction
+2022-07-26/00:17:24		Entered the load_model method of the File_Operation class
+2022-07-26/00:17:24		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2022-07-26/16:53:01		Start of Prediction
+2022-07-26/16:53:07		Start of Prediction
+2022-07-26/16:54:43		Start of Prediction
+2022-07-26/16:59:42		Start of Prediction
+2022-07-26/17:00:53		Start of Prediction
+2022-07-26/17:04:57		Start of Prediction
+2022-07-26/17:19:56		Start of Prediction
+2022-07-26/17:30:15		Start of Prediction
+2022-07-26/17:30:15		Entered the load_model method of the File_Operation class
+2022-07-26/17:30:15		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2022-07-26/17:44:23		Start of Prediction
+2022-07-26/17:44:23		Entered the load_model method of the File_Operation class
+2022-07-26/17:44:23		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2022-07-26/17:48:36		Start of Prediction
+2022-07-26/17:48:36		Entered the load_model method of the File_Operation class
+2022-07-26/17:48:36		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2022-07-26/18:00:46		Start of Prediction
+2022-07-26/18:00:46		Entered the load_model method of the File_Operation class
+2022-07-26/18:00:46		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2022-07-26/18:02:12		Start of Prediction
+2022-07-26/18:02:12		Entered the load_model method of the File_Operation class
+2022-07-26/18:02:12		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2022-07-26/18:24:49		Start of Prediction
+2022-07-26/18:24:49		Entered the load_model method of the File_Operation class
+2022-07-26/18:24:49		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2022-07-26/19:14:46		Start of Prediction
+2022-07-26/19:14:46		Entered the load_model method of the File_Operation class
+2022-07-26/19:14:46		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2022-07-27/10:30:00		Start of Prediction
+2022-07-27/10:30:00		Entered the load_model method of the File_Operation class
+2022-07-27/10:30:00		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2022-07-27/12:06:15		Start of Prediction
+2022-07-27/12:06:15		Entered the load_model method of the File_Operation class
+2022-07-27/12:06:15		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2022-07-28/11:44:08		Start of Prediction
+2022-07-28/11:44:08		Entered the load_model method of the File_Operation class
+2022-07-28/11:44:08		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2022-07-28/12:34:37		Start of Prediction
+2022-07-28/12:34:37		Entered the load_model method of the File_Operation class
+2022-07-28/12:34:37		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2022-07-28/14:36:15		Start of Prediction
+2022-07-28/14:36:15		Entered the load_model method of the File_Operation class
+2022-07-28/14:36:15		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class

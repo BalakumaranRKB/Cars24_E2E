@@ -100,3 +100,60 @@
 2022-07-21/13:06:43		Invalid File Name!! File moved to Bad Raw Folder :: dummy.csv
 2022-07-21/13:06:43		Invalid File Name!! File moved to Bad Raw Folder :: file55_semicleaned.xlsx
 2022-07-21/13:06:43		Valid File name!! File moved to GoodRaw Folder :: file5_semicleaned.csv
+2022-07-25/23:44:58		Invalid File Name!! File moved to Bad Raw Folder :: dummy.csv
+2022-07-25/23:44:58		Invalid File Name!! File moved to Bad Raw Folder :: file55_semicleaned.xlsx
+2022-07-25/23:44:58		Valid File name!! File moved to GoodRaw Folder :: file5_semicleaned.csv
+2022-07-26/00:03:24		Invalid File Name!! File moved to Bad Raw Folder :: dummy.csv
+2022-07-26/00:03:24		Invalid File Name!! File moved to Bad Raw Folder :: file55_semicleaned.xlsx
+2022-07-26/00:03:24		Valid File name!! File moved to GoodRaw Folder :: file5_semicleaned.csv
+2022-07-26/00:18:30		Invalid File Name!! File moved to Bad Raw Folder :: dummy.csv
+2022-07-26/00:18:30		Invalid File Name!! File moved to Bad Raw Folder :: file55_semicleaned.xlsx
+2022-07-26/00:18:30		Valid File name!! File moved to GoodRaw Folder :: file5_semicleaned.csv
+2022-07-26/17:10:32		Invalid File Name!! File moved to Bad Raw Folder :: dummy.csv
+2022-07-26/17:10:32		Invalid File Name!! File moved to Bad Raw Folder :: file55_semicleaned.xlsx
+2022-07-26/17:10:32		Valid File name!! File moved to GoodRaw Folder :: file5_semicleaned.csv
+2022-07-26/17:35:41		Invalid File Name!! File moved to Bad Raw Folder :: dummy.csv
+2022-07-26/17:35:41		Invalid File Name!! File moved to Bad Raw Folder :: file55_semicleaned.xlsx
+2022-07-26/17:35:41		Valid File name!! File moved to GoodRaw Folder :: file5_semicleaned.csv
+2022-07-26/17:49:56		Invalid File Name!! File moved to Bad Raw Folder :: dummy.csv
+2022-07-26/17:49:56		Invalid File Name!! File moved to Bad Raw Folder :: file55_semicleaned.xlsx
+2022-07-26/17:49:56		Valid File name!! File moved to GoodRaw Folder :: file5_semicleaned.csv
+2022-07-26/18:03:31		Invalid File Name!! File moved to Bad Raw Folder :: dummy.csv
+2022-07-26/18:03:31		Invalid File Name!! File moved to Bad Raw Folder :: file55_semicleaned.xlsx
+2022-07-26/18:03:31		Valid File name!! File moved to GoodRaw Folder :: file5_semicleaned.csv
+2022-07-26/18:25:20		Invalid File Name!! File moved to Bad Raw Folder :: dummy.csv
+2022-07-26/18:25:20		Invalid File Name!! File moved to Bad Raw Folder :: file55_semicleaned.xlsx
+2022-07-26/18:25:20		Valid File name!! File moved to GoodRaw Folder :: file5_semicleaned.csv
+2022-07-26/18:47:06		Invalid File Name!! File moved to Bad Raw Folder :: dummy.csv
+2022-07-26/18:47:06		Invalid File Name!! File moved to Bad Raw Folder :: file55_semicleaned.xlsx
+2022-07-26/18:47:06		Valid File name!! File moved to GoodRaw Folder :: file5_semicleaned.csv
+2022-07-27/10:19:57		Invalid File Name!! File moved to Bad Raw Folder :: dummy.csv
+2022-07-27/10:19:57		Invalid File Name!! File moved to Bad Raw Folder :: file55_semicleaned.xlsx
+2022-07-27/10:19:57		Valid File name!! File moved to GoodRaw Folder :: file5_semicleaned.csv
+2022-07-27/10:44:04		Invalid File Name!! File moved to Bad Raw Folder :: dummy.csv
+2022-07-27/10:44:04		Invalid File Name!! File moved to Bad Raw Folder :: file55_semicleaned.xlsx
+2022-07-27/10:44:04		Valid File name!! File moved to GoodRaw Folder :: file5_semicleaned.csv
+2022-07-27/11:55:12		Invalid File Name!! File moved to Bad Raw Folder :: dummy.csv
+2022-07-27/11:55:12		Invalid File Name!! File moved to Bad Raw Folder :: file55_semicleaned.xlsx
+2022-07-27/11:55:12		Valid File name!! File moved to GoodRaw Folder :: file5_semicleaned.csv
+2022-07-27/12:23:08		Invalid File Name!! File moved to Bad Raw Folder :: dummy.csv
+2022-07-27/12:23:08		Invalid File Name!! File moved to Bad Raw Folder :: file55_semicleaned.xlsx
+2022-07-27/12:23:08		Valid File name!! File moved to GoodRaw Folder :: file5_semicleaned.csv
+2022-07-27/12:49:05		Invalid File Name!! File moved to Bad Raw Folder :: dummy.csv
+2022-07-27/12:49:05		Invalid File Name!! File moved to Bad Raw Folder :: file55_semicleaned.xlsx
+2022-07-27/12:49:05		Valid File name!! File moved to GoodRaw Folder :: file5_semicleaned.csv
+2022-07-27/13:08:26		Invalid File Name!! File moved to Bad Raw Folder :: dummy.csv
+2022-07-27/13:08:26		Invalid File Name!! File moved to Bad Raw Folder :: file55_semicleaned.xlsx
+2022-07-27/13:08:26		Valid File name!! File moved to GoodRaw Folder :: file5_semicleaned.csv
+2022-07-27/13:16:39		Invalid File Name!! File moved to Bad Raw Folder :: dummy.csv
+2022-07-27/13:16:39		Invalid File Name!! File moved to Bad Raw Folder :: file55_semicleaned.xlsx
+2022-07-27/13:16:39		Valid File name!! File moved to GoodRaw Folder :: file5_semicleaned.csv
+2022-07-27/13:45:58		Invalid File Name!! File moved to Bad Raw Folder :: dummy.csv
+2022-07-27/13:45:58		Invalid File Name!! File moved to Bad Raw Folder :: file55_semicleaned.xlsx
+2022-07-27/13:45:58		Valid File name!! File moved to GoodRaw Folder :: file5_semicleaned.csv
+2022-07-28/11:59:01		Invalid File Name!! File moved to Bad Raw Folder :: dummy.csv
+2022-07-28/11:59:01		Invalid File Name!! File moved to Bad Raw Folder :: file55_semicleaned.xlsx
+2022-07-28/11:59:01		Valid File name!! File moved to GoodRaw Folder :: file5_semicleaned.csv
+2022-07-28/12:22:50		Invalid File Name!! File moved to Bad Raw Folder :: dummy.csv
+2022-07-28/12:22:50		Invalid File Name!! File moved to Bad Raw Folder :: file55_semicleaned.xlsx
+2022-07-28/12:22:50		Valid File name!! File moved to GoodRaw Folder :: file5_semicleaned.csv
