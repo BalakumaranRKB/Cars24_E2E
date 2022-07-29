@@ -1,0 +1,618 @@
+,Transimission_Type,Ownership,Fuel_Used,km_driven,selling_price,Place of Origin,Complete_Info,Age
+0,Manual,1st Owner,Diesel,10141,2115299,Noida,2021 Tata Harrier XZ 2.0L Kryotec Manual,1
+1,Manual,1st Owner,Petrol,11399,783699,Noida,2020 Skoda Rapid ACTIVE 1.0 TSI Manual,2
+2,Manual,1st Owner,Diesel,46400,2019999,Noida,2019 Jeep Compass 2.0 LIMITED Manual,3
+3,Manual,2nd Owner,Petrol,65856,396399,Noida,2014 Volkswagen Polo HIGHLINE1.2L PETROL Manual,8
+4,Manual,1st Owner,Diesel,76959,1239499,Noida,2017 Jeep Compass 2.0 LIMITED Manual,5
+5,Manual,1st Owner,Petrol,45765,420999,Noida,2014 Volkswagen Polo HIGHLINE1.2L PETROL Manual,8
+6,Automatic,1st Owner,Petrol,46437,1897599,Noida,2017 Skoda Superb 1.8 TSI LK AT Automatic,5
+7,Automatic,1st Owner,Diesel,53102,510199,Noida,2015 Skoda Rapid 1.5 TDI AT ELEGANCE Automatic,7
+8,Manual,2nd Owner,Petrol,12981,1155299,Noida,2020 KIA SELTOS HTK PLUS 1.5 PETROL Manual,2
+9,Automatic,1st Owner,Petrol,17811,496899,Noida,2018 Tata Tiago XTA 1.2 PETROL Automatic,4
+10,Manual,2nd Owner,Petrol,23733,612599,Noida,2018 Honda Jazz 1.2 SV MT Manual,4
+11,Manual,2nd Owner,Petrol,66782,286199,Noida,2011 Hyundai i10 SPORTZ 1.2 KAPPA2 Manual,11
+12,Automatic,1st Owner,Petrol,84205,1409199,Noida,2017 Toyota Innova Crysta 2.7 ZX AT 7 STR Automatic,5
+13,Manual,1st Owner,Petrol,21886,687199,Noida,2020 Volkswagen Polo COMFORTLINE 1.0 PETROL Manual,2
+14,Automatic,1st Owner,Petrol,23622,674599,Noida,2017 Honda Jazz 1.2 V AT Automatic,5
+15,Manual,1st Owner,Petrol,80631,981699,Noida,2019 Hyundai Verna 1.6 SX VTVT (O) Manual,3
+16,Automatic,2nd Owner,Diesel,30382,1619599,Noida,2016 BMW X1 SDRIVE 20D Automatic,6
+17,Automatic,1st Owner,Petrol,58533,975899,Noida,2014 Toyota Corolla Altis VL AT Automatic,8
+18,Manual,1st Owner,Petrol,37816,346399,Noida,2015 Hyundai i10 SPORTZ 1.1 IRDE2 Manual,7
+19,Automatic,2nd Owner,Diesel,91557,1402899,Noida,2014 Audi A3 35TDI PREMIUM Automatic,8
+20,Manual,1st Owner,Petrol,10350,342699,Noida,2014 Maruti Wagon R 1.0 LXI Manual,8
+21,Manual,2nd Owner,Petrol,55218,350399,Noida,2017 Maruti Wagon R 1.0 LXI Manual,5
+22,Automatic,1st Owner,Diesel,51934,1291799,Noida,2014 Audi A3 2.0 TDI  PREMIUM Automatic,8
+23,Automatic,2nd Owner,Petrol,52354,522699,Noida,2015 Honda Jazz 1.2 V AT Automatic,7
+24,Manual,1st Owner,Petrol,58639,1274699,Noida,2017 Toyota Corolla Altis GL Manual,5
+25,Manual,1st Owner,Petrol,67923,486499,Noida,2011 Toyota Corolla Altis 1.8 G Manual,11
+26,Manual,1st Owner,Petrol,62798,333199,Noida,2014 Maruti Wagon R 1.0 LXI Manual,8
+27,Automatic,1st Owner,Petrol,35362,550499,Noida,2015 Honda Jazz 1.2 V AT Automatic,7
+28,Manual,1st Owner,Petrol,25138,414099,Noida,2017 Maruti Wagon R 1.0 VXI Manual,5
+29,Manual,1st Owner,Petrol,62113,358999,Noida,2015 Maruti Wagon R 1.0 LXI Manual,7
+30,Manual,1st Owner,Diesel,49413,1572699,Noida,2019 MG HECTOR SHARP 2.0 DIESEL Manual,3
+31,Manual,3rd Owner,Petrol,11731,453999,Noida,2020 Maruti New  Wagon-R LXI 1.0 L Manual,2
+32,Manual,1st Owner,Petrol,60584,235099,Noida,2010 Hyundai i10 MAGNA 1.1 IRDE2 Manual,12
+33,Manual,2nd Owner,Petrol,62171,614799,Noida,2017 Honda WR-V 1.2 i-VTEC S MT Manual,5
+34,Manual,2nd Owner,Petrol,49537,337299,Noida,2015 Maruti Wagon R 1.0 LXI Manual,7
+35,Manual,2nd Owner,Diesel,52447,1613299,Noida,2019 MG HECTOR SUPER DIESEL Manual,3
+36,Manual,3rd Owner,Petrol,12761,371599,Noida,2012 Maruti Swift ZXI Manual,10
+37,Manual,1st Owner,Petrol,41575,323699,Noida,2018 Maruti Alto 800 LXI Manual,4
+38,Manual,1st Owner,Petrol,44319,204199,Noida,2009 Hyundai i10 ERA 1.1 IRDE Manual,13
+39,Manual,1st Owner,Petrol,12225,488499,Noida,2018 Maruti Celerio VXI Manual,4
+40,Manual,1st Owner,Diesel,71745,1270999,Noida,2018 Jeep Compass 2.0 LONGITUDE Manual,4
+41,Manual,1st Owner,Diesel,62837,560499,Noida,2017 Honda Jazz 1.5 VX I DTEC Manual,5
+42,Manual,1st Owner,Diesel,89851,392899,Noida,2015 Maruti Swift VDI ABS Manual,7
+43,Manual,1st Owner,Petrol,116661,691999,Noida,2014 Toyota Corolla Altis G Manual,8
+44,Automatic,1st Owner,Diesel,90501,1190899,Noida,2017 Mahindra XUV500 W8 FWD AT Automatic,5
+45,Automatic,1st Owner,Petrol,7760,556499,Noida,2021 Renault Kwid 1.0 CLIMBER OPT AMT Automatic,1
+46,Manual,1st Owner,Petrol,65307,364099,Noida,2013 Maruti Swift LXI Manual,9
+47,Manual,2nd Owner,Petrol,48915,244099,Noida,2010 Maruti Wagon R 1.0 LXI Manual,12
+48,Manual,1st Owner,Petrol,9596,390299,Noida,2019 Renault Kwid RXL Manual,3
+49,Automatic,1st Owner,Petrol,41411,1060999,Noida,2013 Honda CRV 2.0 2WD AT Automatic,9
+50,Manual,1st Owner,Petrol,23859,693299,Noida,2018 Honda Amaze 1.2 VXMT I VTEC Manual,4
+51,Automatic,1st Owner,Petrol,41253,684299,Noida,2016 Ford Ecosport 1.5 TITANIUM TI VCT AT Automatic,6
+52,Manual,1st Owner,Petrol,23791,432699,Noida,2016 Honda Brio 1.2 S MT I VTEC Manual,6
+53,Manual,1st Owner,Diesel,37503,1408299,Noida,2019 Mahindra XUV500 W9 Manual,3
+54,Manual,1st Owner,Petrol,34566,423899,Noida,2010 Honda City S MT PETROL Manual,12
+55,Manual,1st Owner,Petrol,26236,778999,Noida,2017 Honda City V MT PETROL Manual,5
+56,Manual,1st Owner,Diesel,48031,1261499,Noida,2018 Mahindra XUV500 W11 (O) Manual,4
+57,Automatic,1st Owner,Petrol,12855,622699,Noida,2017 Hyundai Grand i10 SPORTZ (O) 1.2 AT VTVT Automatic,5
+58,Manual,1st Owner,Diesel,27478,1177299,Noida,2017 Mahindra XUV500 W8 FWD Manual,5
+59,Manual,1st Owner,Petrol,24964,366199,Noida,2017 Renault Kwid RXT Manual,5
+60,Manual,1st Owner,Petrol,26841,566599,Noida,2018 Honda Amaze 1.2 S (O) MT I VTEC Manual,4
+61,Manual,1st Owner,Petrol,48794,627899,Noida,2019 Maruti Dzire VXI Manual,3
+62,Manual,1st Owner,Petrol,4782,390099,Noida,2019 Renault Kwid RXL Manual,3
+63,Automatic,1st Owner,Petrol,33228,464499,Noida,2014 Honda Amaze 1.2 SAT I VTEC Automatic,8
+64,Manual,1st Owner,Petrol,17682,739999,Noida,2017 Honda WR-V 1.2 i-VTEC VX MT Manual,5
+65,Manual,1st Owner,Diesel,91792,505199,Noida,2016 Maruti Swift Dzire VDI ABS Manual,6
+66,Manual,2nd Owner,Petrol,19063,642499,Noida,2018 Maruti Dzire VXI Manual,4
+67,Manual,1st Owner,Diesel,48278,1033899,Noida,2018 Hyundai Verna 1.6 SX (O) CRDI MT Manual,4
+68,Manual,1st Owner,Petrol,14186,399099,Noida,2019 Renault Kwid 1.0 RXT Opt Manual,3
+69,Automatic,2nd Owner,Diesel,34424,1561899,Noida,2020 Mahindra XUV500 W9 AT Automatic,2
+70,Manual,2nd Owner,Petrol,11042,645799,Noida,2017 Hyundai Elite i20 ASTA 1.2 DUAL TONE Manual,5
+71,Manual,2nd Owner,Diesel,78295,1642299,Noida,2016 Ford Endeavour 2.2l 4X4 MT Trend Manual,6
+72,Manual,2nd Owner,Petrol,29761,616599,Noida,2017 Hyundai Elite i20 ASTA 1.2 Manual,5
+73,Manual,2nd Owner,Petrol,16641,371399,Noida,2019 Renault Kwid RXL Manual,3
+74,Manual,1st Owner,Petrol,28416,597899,Noida,2017 Hyundai Elite i20 SPORTZ 1.2 Manual,5
+75,Manual,1st Owner,Diesel,78203,855999,Noida,2017 Hyundai Creta 1.4 E PLUS CRDI Manual,5
+76,Manual,1st Owner,Petrol,40661,862599,Noida,2015 Hyundai Creta 1.6 S Manual,7
+77,Manual,2nd Owner,Petrol,39298,231499,Noida,2010 Hyundai i10 MAGNA 1.1 IRDE2 Manual,12
+78,Manual,1st Owner,Petrol + CNG,80843,473499,Noida,2018 Maruti Celerio VXI CNG Manual,4
+79,Manual,2nd Owner,Petrol,13223,592299,Noida,2020 Hyundai Grand i10 MAGNA 1.2 VTVT Manual,2
+80,Automatic,1st Owner,Petrol,12267,1774199,Noida,2019 MG HECTOR SHARP DCT PETROL Automatic,3
+81,Manual,1st Owner,Petrol,49566,861599,Noida,2015 Hyundai Creta 1.6 S Manual,7
+82,Manual,1st Owner,Petrol,34586,563399,Noida,2015 Hyundai Elite i20 ASTA 1.2 Manual,7
+83,Manual,1st Owner,Petrol,13554,1169399,Noida,2021 Maruti Ciaz ALPHA 1.5 MT VTVT SHVS Manual,1
+84,Automatic,1st Owner,Diesel,79766,2732599,Noida,2017 Toyota Fortuner 2.8 4x2 AT Automatic,5
+85,Manual,1st Owner,Petrol,9370,1213599,Noida,2021 Maruti Ciaz ALPHA 1.5 MT VTVT SHVS Manual,1
+86,Manual,1st Owner,Diesel,2213,1213499,Noida,2021 Hyundai VENUE 1.5 SX CRDI MT Manual,1
+87,Automatic,1st Owner,Petrol,92132,661999,Noida,2014 Honda City VX CVT PETROL Automatic,8
+88,Automatic,1st Owner,Petrol,46611,353899,Noida,2017 Renault Kwid RXT 1.0 EASY-R AT OPTION Automatic,5
+89,Manual,1st Owner,Petrol,19360,487899,Noida,2016 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,6
+90,Manual,1st Owner,Diesel,27650,651699,Noida,2017 Mahindra TUV300 T6+ Manual,5
+91,Manual,1st Owner,Petrol,40193,917099,Noida,2019 Hyundai Creta 1.6 E + VTVT Manual,3
+92,Manual,1st Owner,Petrol,95779,383499,Noida,2012 Maruti Swift ZXI Manual,10
+93,Manual,1st Owner,Petrol,19738,354799,Noida,2018 Renault Kwid RXL Manual,4
+94,Automatic,1st Owner,Petrol,72578,406199,Noida,2015 Maruti Celerio ZXI AMT Automatic,7
+95,Manual,1st Owner,Petrol,15202,522899,Noida,2017 Hyundai Grand i10 Sportz(O) 1.2 MT Manual,5
+96,Manual,1st Owner,Petrol,75860,405799,Noida,2015 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,7
+97,Manual,1st Owner,Petrol,7212,1310699,Noida,2020 Honda City VX MT PETROL Manual,2
+98,Manual,1st Owner,Petrol,18150,914399,Noida,2019 Honda City 1.5 V MT Manual,3
+99,Manual,1st Owner,Petrol,23319,641899,Noida,2017 Maruti Dzire VXI Manual,5
+100,Manual,1st Owner,Petrol,28267,693899,Noida,2015 Maruti Ciaz ZXI PLUS Manual,7
+101,Automatic,1st Owner,Petrol,6344,821699,Noida,2021 Renault Kiger RXT 1.0 AMT Automatic,1
+102,Manual,1st Owner,Petrol,45930,534399,Noida,2018 Honda Amaze 1.2 S (O) MT I VTEC Manual,4
+103,Manual,1st Owner,Petrol,41091,907299,Noida,2019 Honda City V MT PETROL Manual,3
+104,Manual,2nd Owner,Petrol,25018,509799,Noida,2017 Hyundai Grand i10 ASTA 1.2 KAPPA VTVT Manual,5
+105,Manual,2nd Owner,Petrol,44857,428499,Noida,2016 Hyundai Grand i10 MAGNA 1.2 VTVT Manual,6
+106,Automatic,1st Owner,Petrol,31686,1293499,Noida,2020 Honda City VX CVT PETROL Automatic,2
+107,Manual,1st Owner,Petrol,8153,651599,Noida,2019 Maruti IGNIS ALPHA 1.2 K12 Manual,3
+108,Automatic,1st Owner,Petrol,17961,1596799,Noida,2019 Honda Civic VX CVT i-VTEC Automatic,3
+109,Manual,1st Owner,Petrol + CNG,59544,573699,Noida,2017 Maruti Dzire VXI Manual,5
+110,Manual,2nd Owner,Diesel,83356,1011199,Noida,2017 Mahindra XUV500 W8 FWD Manual,5
+111,Manual,1st Owner,Diesel,28998,646599,Noida,2016 Maruti Vitara Brezza LDI OPT Manual,6
+112,Manual,1st Owner,Petrol,30876,341099,Noida,2017 Renault Kwid RXT Manual,5
+113,Manual,2nd Owner,Petrol,96034,395299,Noida,2012 Hyundai Verna FLUIDIC 1.6 EX VTVT Manual,10
+114,Automatic,1st Owner,Petrol,16947,1421699,Noida,2019 Hyundai Creta 1.6 VTVT SX AUTO Automatic,3
+115,Manual,1st Owner,Petrol,29857,414199,Noida,2014 Hyundai Grand i10 SPORTS 1.2 VTVT Manual,8
+116,Manual,1st Owner,Petrol,22955,356399,Noida,2018 Renault Kwid RXT Manual,4
+117,Automatic,1st Owner,Petrol,32309,926599,Noida,2018 Honda City V AT Automatic,4
+118,Manual,1st Owner,Petrol,37580,239999,Noida,2011 Maruti Alto K10 VXI Manual,11
+119,Manual,1st Owner,Petrol,7439,822499,Noida,2020 Tata ALTROZ XZ 1.2 Manual,2
+120,Manual,2nd Owner,Diesel,78933,877099,Noida,2016 Mahindra XUV500 W10 FWD Manual,6
+121,Manual,1st Owner,Petrol,21569,627399,Noida,2018 Maruti Baleno DELTA 1.2 K12 Manual,4
+122,Automatic,2nd Owner,Petrol,13776,872899,Noida,2019 Tata NEXON XZA + 1.2 PETROL A/T Automatic,3
+123,Automatic,1st Owner,Diesel,20483,1941199,Noida,2021 Mahindra XUV500 W9 AT Automatic,1
+124,Manual,1st Owner,Petrol,35880,150999,Noida,2009 Maruti Alto LXI Manual,13
+125,Manual,1st Owner,Petrol,11517,590199,Noida,2017 Maruti Baleno DELTA 1.2 K12 Manual,5
+126,Manual,1st Owner,Petrol,31525,624399,Noida,2017 Hyundai Elite i20 ASTA 1.2 Manual,5
+127,Manual,2nd Owner,Petrol,22505,322499,Noida,2018 Renault Kwid RXL Manual,4
+128,Manual,1st Owner,Diesel,46245,432499,Noida,2015 Maruti Swift VDI ABS Manual,7
+129,Manual,2nd Owner,Petrol,46533,658199,Noida,2016 Ford Ecosport 1.5 TITANIUM TI VCT Manual,6
+130,Manual,1st Owner,Petrol,24055,346699,Noida,2018 Renault Kwid RXT Manual,4
+131,Manual,1st Owner,Petrol,45293,585399,Noida,2015 Hyundai Elite i20 ASTA 1.2 Manual,7
+132,Manual,1st Owner,Petrol,7512,698499,Noida,2020 Maruti Baleno DELTA 1.2 K12 Manual,2
+133,Manual,1st Owner,Petrol,26035,680799,Noida,2019 Maruti Baleno DELTA 1.2 K12 Manual,3
+134,Automatic,1st Owner,Petrol,29009,1280199,Noida,2020 Honda City VX CVT PETROL Automatic,2
+135,Manual,2nd Owner,Petrol,84848,407799,Noida,2015 Honda Amaze 1.2 VXMT I VTEC Manual,7
+136,Manual,3rd Owner,Petrol,34900,419299,Noida,2016 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,6
+137,Manual,1st Owner,Diesel,115007,313999,Noida,2013 Maruti Swift VDI Manual,9
+138,Manual,1st Owner,Petrol,21925,406099,Noida,2015 Hyundai Grand i10 MAGNA 1.2 VTVT Manual,7
+139,Manual,1st Owner,Petrol,80447,432399,Noida,2016 Hyundai Grand i10 MAGNA 1.2 VTVT Manual,6
+140,Automatic,1st Owner,Petrol,36612,446099,Noida,2015 Hyundai Grand i10 ASTA AT 1.2 KAPPA VTVT Automatic,7
+141,Manual,1st Owner,Diesel,30545,669299,Noida,2018 Hyundai Elite i20 Magna Executive Diesel Manual,4
+142,Automatic,1st Owner,Diesel,18191,1104299,Noida,2020 Maruti Vitara Brezza ZDI + AMT Automatic,2
+143,Manual,1st Owner,Petrol,35674,357499,Noida,2019 Renault Kwid RXL Manual,3
+144,Automatic,1st Owner,Diesel,19362,1741699,Noida,2020 Mahindra XUV500 W9 AT Automatic,2
+145,Automatic,1st Owner,Petrol,6519,355599,Noida,2016 Maruti Alto K10 VXI AMT Automatic,6
+146,Manual,1st Owner,Diesel,89117,616699,Noida,2014 Mahindra XUV500 W8 FWD Manual,8
+147,Manual,1st Owner,Diesel,23941,989599,Noida,2019 Hyundai Creta 1.4 E PLUS CRDI Manual,3
+148,Manual,1st Owner,Diesel,57061,620799,Noida,2018 Maruti Dzire VDI Manual,4
+149,Manual,1st Owner,Petrol,61115,586199,Noida,2016 Hyundai Elite i20 ASTA 1.2 Manual,6
+150,Manual,1st Owner,Petrol,26475,235499,Noida,2011 Maruti Alto K10 VXI Manual,11
+151,Manual,1st Owner,Petrol,36243,468899,Noida,2017 Hyundai Grand i10 SPORTS 1.2 VTVT Manual,5
+152,Automatic,2nd Owner,Petrol,103602,1122199,Noida,2016 Honda CRV 2.4 AWD AT Automatic,6
+153,Manual,1st Owner,Petrol,69746,456799,Noida,2019 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,3
+154,Manual,1st Owner,Diesel,65694,845299,Noida,2018 Hyundai Creta 1.4 E PLUS CRDI Manual,4
+155,Automatic,2nd Owner,Petrol,28711,1230599,Noida,2018 Hyundai Creta 1.6 VTVT SX AUTO Automatic,4
+156,Manual,1st Owner,Diesel,195904,756399,Noida,2017 Mahindra XUV500 W6 4X2 Manual,5
+157,Manual,1st Owner,Petrol,21304,529199,Noida,2018 Maruti Swift LXI Manual,4
+158,Automatic,1st Owner,Petrol,9928,1477399,Noida,2020 Honda City ZX CVT Automatic,2
+159,Automatic,1st Owner,Petrol,12934,1306399,Noida,2020 Honda City ZX CVT Automatic,2
+160,Manual,1st Owner,Diesel,31379,580999,Noida,2016 Maruti Ciaz SHVS VDI Manual,6
+161,Manual,1st Owner,Petrol,35853,486499,Noida,2017 Hyundai Grand i10 SPORTS 1.2 VTVT Manual,5
+162,Manual,1st Owner,Diesel,21031,1200399,Noida,2020 Hyundai Creta E Manual,2
+163,Manual,1st Owner,Petrol,54106,408499,Noida,2015 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,7
+164,Manual,2nd Owner,Petrol,10385,612499,Noida,2018 Maruti Baleno ZETA 1.2 K12 Manual,4
+165,Manual,1st Owner,Diesel,105711,641699,Noida,2014 Toyota Corolla Altis D 4D J Manual,8
+166,Manual,1st Owner,Petrol,40743,451899,Noida,2017 Hyundai Grand i10 MAGNA 1.2 VTVT Manual,5
+167,Manual,1st Owner,Diesel,33302,477499,Noida,2013 Hyundai Verna FLUIDIC 1.6 SX CRDI Manual,9
+168,Manual,2nd Owner,Petrol,31729,337399,Noida,2012 Toyota Etios Liva G SP Manual,10
+169,Manual,2nd Owner,Petrol,42422,270399,Noida,2010 Hyundai i20 MAGNA O 1.2 Manual,12
+170,Manual,1st Owner,Petrol,16529,693999,Noida,2016 Ford Ecosport 1.5 TITANIUM TI VCT Manual,6
+171,Manual,1st Owner,Petrol,36011,367999,Noida,2013 Toyota Etios Liva G SP Manual,9
+172,Manual,1st Owner,Diesel,53468,862599,Noida,2015 Hyundai Creta 1.6 SX (O) CRDI Manual,7
+173,Manual,1st Owner,Diesel,39585,666599,Noida,2016 Maruti Ciaz ZDI+ SHVS Manual,6
+174,Manual,1st Owner,Petrol,25920,677399,Noida,2019 Maruti Baleno DELTA 1.2 K12 Manual,3
+175,Automatic,1st Owner,Petrol,23364,521299,Noida,2017 Hyundai Grand i10 Magna 1.2 AT  VTVT Automatic,5
+176,Manual,1st Owner,Petrol,35255,610399,Noida,2017 Hyundai Elite i20 ASTA 1.2 Manual,5
+177,Manual,1st Owner,Petrol,16076,614599,Noida,2018 Maruti Baleno DELTA 1.2 K12 Manual,4
+178,Manual,1st Owner,Petrol + CNG,10875,540399,Noida,2021 Maruti S PRESSO VXI CNG Manual,1
+179,Automatic,2nd Owner,Diesel,42881,1455599,Noida,2013 Mercedes Benz E Class E 250 CDI AVANTGARDE Automatic,9
+180,Automatic,1st Owner,Petrol,53293,570099,Noida,2017 Maruti Baleno ZETA 1.2 K12 AMT Automatic,5
+181,Manual,1st Owner,Petrol,20068,451899,Noida,2017 Hyundai Grand i10 MAGNA 1.2 VTVT Manual,5
+182,Manual,1st Owner,Petrol,87251,429999,Noida,2016 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,6
+183,Manual,1st Owner,Petrol,18462,437999,Noida,2014 Maruti Swift VXI Manual,8
+184,Manual,1st Owner,Petrol,32251,560399,Noida,2019 Maruti Swift VXI Manual,3
+185,Manual,1st Owner,Petrol,52334,593199,Noida,2016 Maruti Baleno ZETA 1.2 K12 Manual,6
+186,Manual,3rd Owner,Petrol,30697,522799,Noida,2017 Hyundai Elite i20 SPORTZ 1.2 Manual,5
+187,Manual,1st Owner,Diesel,19544,673399,Noida,2018 Maruti Baleno ZETA DDIS 190 Manual,4
+188,Automatic,1st Owner,Petrol,44374,489199,Noida,2015 Hyundai Grand i10 ASTA 1.2 AT VTVT Automatic,7
+189,Manual,2nd Owner,Diesel,66578,442799,Noida,2015 Hyundai Elite i20 SPORTZ 1.4 Manual,7
+190,Manual,2nd Owner,Petrol,51635,497099,Noida,2015 Ford Ecosport 1.5AMBIENTE TI VCT Manual,7
+191,Manual,1st Owner,Petrol,10325,822499,Noida,2020 Tata ALTROZ XZ 1.2 Manual,2
+192,Automatic,1st Owner,Petrol,7978,969299,Noida,2019 Ford Ecosport 1.5 TITANIUM PLUS TI VCT AT Automatic,3
+193,Manual,1st Owner,Petrol,29095,519499,Noida,2017 Maruti IGNIS ZETA 1.2 K12 Manual,5
+194,Manual,1st Owner,Petrol,22380,681699,Noida,2019 Maruti Baleno DELTA 1.2 K12 Manual,3
+195,Manual,1st Owner,Petrol + CNG,24111,374799,Noida,2017 Maruti Eeco 5 STR CNG WITH AC PLUSHTR Manual,5
+196,Manual,1st Owner,Petrol,20135,667799,Noida,2019 Maruti Baleno DELTA 1.2 K12 Manual,3
+197,Manual,2nd Owner,Petrol,21902,345399,Noida,2019 Renault Kwid RXL Manual,3
+198,Manual,1st Owner,Petrol,57510,493299,Noida,2015 Maruti Baleno DELTA 1.2 K12 Manual,7
+199,Manual,1st Owner,Petrol,23604,1093299,Noida,2019 Maruti XL6 ALPHA SHVS  MT Manual,3
+200,Manual,1st Owner,Petrol,42263,566199,Noida,2016 Maruti Baleno DELTA 1.2 K12 Manual,6
+201,Manual,1st Owner,Petrol,51332,832699,Noida,2018 Ford Ecosport TITANIUM PLUS 1.5 TI VCT MT Manual,4
+202,Manual,1st Owner,Diesel,63907,700699,Noida,2014 Toyota Corolla Altis D 4D J Manual,8
+203,Manual,2nd Owner,Diesel,45022,907899,Noida,2017 Mahindra Scorpio S4+Intelli Hybrid 2WD Manual,5
+204,Manual,2nd Owner,Petrol,31263,412499,Noida,2014 Maruti Swift VXI Manual,8
+205,Automatic,2nd Owner,Diesel,90086,1577799,Noida,2015 Toyota Fortuner 3.0 AT 4X2 Automatic,7
+206,Automatic,2nd Owner,Petrol,12159,374099,Noida,2017 Maruti Alto K10 VXI (O) AMT Automatic,5
+207,Manual,1st Owner,Petrol,49130,447599,Noida,2017 Hyundai Grand i10 MAGNA 1.2 VTVT Manual,5
+208,Manual,1st Owner,Petrol,27418,344699,Noida,2017 Maruti Alto K10 VXI Manual,5
+209,Manual,1st Owner,Petrol,98363,569299,Noida,2016 Maruti Ciaz VXI PLUS Manual,6
+210,Automatic,1st Owner,Diesel,58995,1083799,Noida,2017 Hyundai Creta 1.6 CRDI SX PLUS AUTO Automatic,5
+211,Manual,1st Owner,Petrol,5116,429299,Noida,2021 Maruti Alto LXI OPT Manual,1
+212,Manual,1st Owner,Petrol,45605,494099,Noida,2016 Hyundai Grand i10 ASTA 1.2 KAPPA VTVT Manual,6
+213,Automatic,1st Owner,Petrol,4437,1095199,Noida,2020 Ford Ecosport 1.5 TITANIUM PLUS TI VCT AT Automatic,2
+214,Manual,1st Owner,Petrol,16228,713999,Noida,2016 Ford Ecosport 1.5 TITANIUM TI VCT Manual,6
+215,Manual,1st Owner,Diesel,60651,435199,Noida,2013 Hyundai Verna FLUIDIC 1.6 CRDI SX OPT Manual,9
+216,Manual,1st Owner,Petrol,22733,451899,Noida,2017 Hyundai Grand i10 MAGNA 1.2 VTVT Manual,5
+217,Manual,1st Owner,Diesel,39473,1083799,Noida,2018 Hyundai Creta 1.6 SX CRDI Manual,4
+218,Manual,1st Owner,Petrol,71903,478399,Noida,2014 Ford Ecosport 1.5AMBIENTE TI VCT Manual,8
+219,Manual,1st Owner,Petrol,28648,815999,Noida,2018 Ford Ecosport 1.5 TITANIUM TI VCT Manual,4
+220,Manual,1st Owner,Diesel,12456,1874599,Noida,2021 Tata Safari XM 2.0 KRYOTEC Manual,1
+221,Manual,2nd Owner,Petrol,24693,558999,Noida,2019 Maruti Baleno SIGMA 1.2 K12 Manual,3
+222,Automatic,1st Owner,Petrol,11365,1277299,Noida,2020 Honda City VX CVT PETROL Automatic,2
+223,Manual,1st Owner,Diesel,48118,307499,Noida,2013 Honda Amaze 1.5 EMT I DTEC Manual,9
+224,Manual,1st Owner,Petrol,30809,546399,Noida,2016 Maruti Baleno DELTA 1.2 K12 Manual,6
+225,Manual,1st Owner,Petrol,36417,892499,Noida,2019 Hyundai VENUE 1.0L Turbo GDI SX MT Manual,3
+226,Manual,1st Owner,Petrol,38522,323499,Noida,2018 Maruti Alto 800 LXI Manual,4
+227,Manual,1st Owner,Petrol,41202,525699,Noida,2018 Ford Figo Aspire 1.2 TITANIUM PETROL Manual,4
+228,Automatic,1st Owner,Petrol,11741,1138399,Noida,2020 Ford Ecosport 1.5 TITANIUM TI VCT AT Automatic,2
+229,Manual,2nd Owner,Petrol,29335,414999,Noida,2014 Maruti Swift VXI Manual,8
+230,Manual,1st Owner,Petrol,78882,495899,Noida,2014 Ford Ecosport 1.5 TREND TI VCT Manual,8
+231,Manual,1st Owner,Petrol,20330,524799,Noida,2018 Maruti Baleno SIGMA 1.2 K12 Manual,4
+232,Manual,1st Owner,Diesel,27328,693199,Noida,2016 Maruti Ciaz ZDI+ SHVS Manual,6
+233,Manual,2nd Owner,Diesel,116379,783999,Noida,2015 Mahindra XUV500 W10 Manual,7
+234,Manual,2nd Owner,Petrol,63088,534699,Noida,2016 Nissan Terrano XL P Manual,6
+235,Manual,1st Owner,Petrol,31472,867899,Noida,2019 Hyundai VENUE S MT Turbo GDI 1.0L Manual,3
+236,Automatic,3rd Owner,Petrol,55089,566699,Noida,2017 Maruti Baleno DELTA 1.2 K12 AMT Automatic,5
+237,Manual,1st Owner,Petrol,19968,1038799,Noida,2019 Ford Ecosport 1.5 TITANIUM SIGNATURE TI VCT (SUNROOF) Manual,3
+238,Manual,1st Owner,Petrol,8137,577099,Noida,2019 Maruti Baleno SIGMA 1.2 K12 Manual,3
+239,Automatic,2nd Owner,Petrol,51657,636299,Noida,2016 Ford Ecosport 1.5 TITANIUM TI VCT AT Automatic,6
+240,Manual,2nd Owner,Petrol,33484,417299,Noida,2014 Maruti Swift Dzire VXI 1.2 BS IV Manual,8
+241,Manual,1st Owner,Petrol,2775,1837899,Noida,2020 MG HECTOR PLUS SHARP HYBRID PETROL Manual,2
+242,Manual,1st Owner,Diesel,14603,1249899,Noida,2020 Hyundai Creta EX CRDI MT Manual,2
+243,Manual,1st Owner,Petrol,65368,297799,Noida,2016 Maruti Alto K10 VXI Manual,6
+244,Manual,1st Owner,Petrol + CNG,39392,821399,Noida,2018 Ford Ecosport 1.5 TITANIUM TI VCT Manual,4
+245,Manual,1st Owner,Diesel,70976,554699,Noida,2015 Honda City S MT DIESEL Manual,7
+246,Manual,1st Owner,Diesel,26890,802299,Noida,2017 Ford Ecosport 1.5 TDCI TITANIUM PLUS Manual,5
+247,Manual,2nd Owner,Diesel,195015,475699,Noida,2015 Honda City V MT DIESEL Manual,7
+248,Manual,1st Owner,Petrol,24164,533699,Noida,2019 Maruti Swift LXI Manual,3
+249,Manual,1st Owner,Petrol,17923,389399,Noida,2018 Maruti Alto K10 VXI Manual,4
+250,Manual,1st Owner,Diesel,82295,964299,Noida,2014 Toyota Innova 2.5 VX 8 STR BS IV Manual,8
+251,Manual,2nd Owner,Petrol,61754,401299,Noida,2014 Maruti Swift VXI Manual,8
+252,Manual,2nd Owner,Petrol,22775,740399,Noida,2018 Ford Ecosport 1.5 TITANIUM TI VCT Manual,4
+253,Manual,1st Owner,Petrol,22464,692099,Noida,2016 Ford Ecosport 1.5 TITANIUM TI VCT Manual,6
+254,Manual,1st Owner,Petrol,37117,475199,Noida,2017 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,5
+255,Manual,2nd Owner,Petrol,30319,578099,Noida,2018 Maruti Baleno DELTA 1.2 K12 Manual,4
+256,Manual,1st Owner,Petrol,23054,672999,Noida,2017 Maruti Baleno ALPHA 1.2 K12 Manual,5
+257,Manual,1st Owner,Diesel,42616,898599,Noida,2017 Hyundai Creta 1.4 E PLUS CRDI Manual,5
+258,Automatic,2nd Owner,Diesel,79409,1111899,Noida,2018 Hyundai Creta 1.6 CRDI SX PLUS AUTO Automatic,4
+259,Manual,1st Owner,Petrol,23103,389899,Noida,2018 Maruti Alto K10 VXI Manual,4
+260,Manual,1st Owner,Diesel,167105,497299,Noida,2014 Mahindra XUV500 W6 4X2 Manual,8
+261,Manual,1st Owner,Diesel,44672,801399,Noida,2019 Maruti Vitara Brezza VDI Manual,3
+262,Manual,1st Owner,Petrol,11114,860999,Noida,2019 Ford Ecosport 1.5 TITANIUM TI VCT Manual,3
+263,Manual,1st Owner,Diesel,16042,1183099,Noida,2018 Mahindra Scorpio S7 140 BHP 2WD Manual,4
+264,Manual,1st Owner,Petrol,58015,442299,Noida,2015 Maruti Swift VXI Manual,7
+265,Manual,1st Owner,Petrol,59831,347199,Noida,2012 Maruti Swift Dzire VXI 1.2 BS IV Manual,10
+266,Manual,1st Owner,Petrol,3014,401899,Noida,2019 Maruti Alto VXI Manual,3
+267,Manual,1st Owner,Petrol,72644,507499,Noida,2016 Maruti Baleno DELTA 1.2 K12 Manual,6
+268,Automatic,2nd Owner,Diesel,40655,1113799,Noida,2018 Hyundai Creta 1.6 CRDI SX PLUS AUTO Automatic,4
+269,Automatic,1st Owner,Petrol,78713,638699,Noida,2017 Maruti Baleno ZETA 1.2 K12 AMT Automatic,5
+270,Manual,1st Owner,Petrol,42478,544899,Noida,2016 Maruti Baleno DELTA 1.2 K12 Manual,6
+271,Manual,1st Owner,Diesel,50089,313699,Noida,2013 Honda Amaze 1.5 SMT I DTEC Manual,9
+272,Manual,1st Owner,Petrol,76882,405399,Noida,2014 Maruti Swift VXI Manual,8
+273,Manual,1st Owner,Petrol,38771,502099,Noida,2017 Hyundai Grand i10 Sportz(O) 1.2 MT Manual,5
+274,Manual,1st Owner,Petrol,36183,499999,Noida,2018 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,4
+275,Manual,2nd Owner,Petrol,29252,649599,Noida,2020 Maruti Baleno DELTA 1.2 K12 Manual,2
+276,Manual,1st Owner,Diesel,75057,428699,Noida,2013 Hyundai Verna FLUIDIC 1.6 SX CRDI Manual,9
+277,Manual,1st Owner,Petrol,26212,689199,Noida,2019 Maruti Baleno DELTA 1.2 K12 Manual,3
+278,Manual,1st Owner,Petrol,4210,401899,Noida,2019 Maruti Alto VXI Manual,3
+279,Manual,2nd Owner,Diesel,137612,396099,Noida,2014 Honda City E MT DIESEL Manual,8
+280,Manual,1st Owner,Petrol,36637,326899,Noida,2018 Maruti Alto 800 LXI Manual,4
+281,Manual,1st Owner,Diesel,78433,483799,Noida,2014 Hyundai Verna FLUIDIC 1.4 EX CRDI Manual,8
+282,Manual,1st Owner,Diesel,50122,834399,Noida,2019 Ford Ecosport 1.5TITANIUM TDCI Manual,3
+283,Manual,1st Owner,Diesel,24379,818699,Noida,2018 Maruti Vitara Brezza ZDI Manual,4
+284,Manual,2nd Owner,Diesel,24501,799899,Noida,2019 Maruti Vitara Brezza VDI Manual,3
+285,Manual,1st Owner,Petrol + CNG,51330,559799,Noida,2017 Maruti Swift VXI OPT Manual,5
+286,Manual,1st Owner,Diesel,73241,326099,Noida,2013 Honda Amaze 1.5 SMT I DTEC Manual,9
+287,Manual,1st Owner,Petrol,19699,384599,Noida,2018 Maruti Alto K10 VXI Manual,4
+288,Manual,2nd Owner,Diesel,66530,1039599,Noida,2016 Mahindra Scorpio S10 Manual,6
+289,Manual,1st Owner,Diesel,85153,792799,Noida,2016 Hyundai Creta 1.6 SX CRDI Manual,6
+290,Manual,1st Owner,Petrol,31879,585599,Noida,2018 Maruti Baleno DELTA 1.2 K12 Manual,4
+291,Manual,1st Owner,Petrol,34777,509699,Noida,2018 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,4
+292,Automatic,1st Owner,Petrol,25322,387299,Noida,2017 Maruti Alto K10 VXI (O) AMT Automatic,5
+293,Manual,1st Owner,Diesel,74906,1151599,Noida,2016 Mahindra Scorpio S10 Manual,6
+294,Manual,1st Owner,Diesel,30594,793399,Noida,2019 Maruti Vitara Brezza VDI Manual,3
+295,Manual,1st Owner,Diesel,53689,874299,Noida,2019 Ford Ecosport 1.5TITANIUM TDCI Manual,3
+296,Manual,1st Owner,Petrol,7702,931299,Noida,2021 Maruti Vitara Brezza VXI Manual,1
+297,Manual,1st Owner,Diesel,28309,1358299,Noida,2015 Audi Q3 30 TDI MT S EDITION Manual,7
+298,Manual,1st Owner,Petrol,18960,450899,Noida,2020 Maruti S PRESSO VXI PLUS Manual,2
+299,Manual,1st Owner,Diesel,23879,803199,Noida,2019 Maruti Vitara Brezza VDI Manual,3
+300,Manual,1st Owner,Petrol,4055,505599,Noida,2021 Maruti S PRESSO VXI PLUS Manual,1
+301,Manual,1st Owner,Diesel,68298,1190399,Noida,2014 Audi Q3 2.0 TDI MT S EDITION Manual,8
+302,Manual,1st Owner,Petrol,15724,813199,Noida,2019 Ford Ecosport TITANIUM PLUS 1.5 TI VCT MT Manual,3
+303,Manual,1st Owner,Petrol,27217,349599,Noida,2017 Maruti Alto K10 VXI Manual,5
+304,Manual,1st Owner,Diesel,53954,856099,Noida,2019 Maruti Vitara Brezza ZDI PLUS Manual,3
+305,Manual,1st Owner,Petrol,14723,821399,Noida,2018 Ford Ecosport 1.5 TITANIUM TI VCT Manual,4
+306,Automatic,2nd Owner,Petrol,63337,594999,Noida,2017 Maruti Baleno ZETA 1.2 K12 AMT Automatic,5
+307,Manual,2nd Owner,Diesel,67255,618499,Noida,2017 Maruti Ciaz DELTA 1.3 DDIS SHVS Manual,5
+308,Automatic,1st Owner,Petrol,17557,1106099,Noida,2020 Maruti Vitara Brezza ZXI AT SHVS Automatic,2
+309,Manual,1st Owner,Petrol,6879,445499,Noida,2020 Maruti S PRESSO VXI Manual,2
+310,Manual,1st Owner,Petrol,38501,668299,Noida,2019 Maruti Baleno ZETA 1.2 K12 Manual,3
+311,Manual,3rd Owner,Petrol,23315,538399,Noida,2018 Maruti Baleno DELTA 1.2 K12 Manual,4
+312,Manual,2nd Owner,Diesel,24937,790799,Noida,2018 Ford Ecosport 1.5 TDCI TITANIUM PLUS Manual,4
+313,Manual,1st Owner,Diesel,48022,404499,Noida,2015 Hyundai Grand i10 SPORTZ 1.1 CRDI Manual,7
+314,Manual,1st Owner,Petrol,70395,498399,Noida,2017 Maruti Swift VXI OPT Manual,5
+315,Manual,2nd Owner,Petrol,18853,551799,Noida,2016 Maruti Baleno ZETA 1.2 K12 Manual,6
+316,Manual,1st Owner,Petrol,7166,415699,Noida,2019 Maruti Alto K10 VXI Manual,3
+317,Manual,1st Owner,Petrol,8513,381899,Noida,2020 Maruti Alto LXI Manual,2
+318,Manual,2nd Owner,Diesel,80062,417599,Noida,2014 Renault Duster RXL 110 PS ADVENTURE Manual,8
+319,Manual,1st Owner,Diesel,35941,663099,Noida,2016 Maruti Vitara Brezza ZDI PLUS Manual,6
+320,Manual,1st Owner,Petrol,87555,492399,Noida,2016 Maruti Baleno DELTA 1.2 K12 Manual,6
+321,Manual,1st Owner,Diesel,86299,474099,Noida,2014 Honda City SV MT DIESEL Manual,8
+322,Manual,1st Owner,Petrol,47808,350499,Noida,2017 Maruti Alto K10 VXI Manual,5
+323,Manual,1st Owner,Diesel,66221,757999,Noida,2019 Maruti Vitara Brezza VDI Manual,3
+324,Manual,1st Owner,Petrol,50045,544799,Noida,2017 Maruti Baleno DELTA 1.2 K12 Manual,5
+325,Manual,2nd Owner,Petrol,48434,531999,Noida,2017 Maruti Baleno DELTA 1.2 K12 Manual,5
+326,Manual,1st Owner,Diesel,37831,856899,Noida,2017 Maruti Vitara Brezza ZDI PLUS DUAL TONE Manual,5
+327,Automatic,1st Owner,Petrol,90438,613699,Noida,2017 Maruti Baleno ZETA 1.2 K12 AMT Automatic,5
+328,Manual,1st Owner,Diesel,35785,1058299,Noida,2019 Mahindra XUV 3OO W8(O) Manual,3
+329,Manual,1st Owner,Diesel,40129,922299,Noida,2017 Maruti S Cross ALPHA SHVS Manual,5
+330,Manual,1st Owner,Petrol,36944,623499,Noida,2019 Maruti Baleno DELTA 1.2 K12 Manual,3
+331,Manual,1st Owner,Diesel,58072,537099,Noida,2015 Hyundai i20 Active 1.4 SX Manual,7
+332,Manual,1st Owner,Petrol,63205,634899,Noida,2017 Maruti Baleno ALPHA 1.2 K12 Manual,5
+333,Manual,1st Owner,Diesel,85928,794399,Noida,2017 Hyundai Creta 1.4 S CRDI Manual,5
+334,Manual,1st Owner,Diesel,22037,757399,Noida,2017 Maruti Vitara Brezza ZDI Manual,5
+335,Manual,1st Owner,Petrol,64101,536499,Noida,2017 Maruti Baleno DELTA 1.2 K12 Manual,5
+336,Manual,1st Owner,Diesel,67786,437899,Noida,2014 Hyundai Elite i20 ASTA 1.4 CRDI Manual,8
+337,Manual,1st Owner,Petrol,14667,383999,Noida,2018 Maruti Alto K10 VXI Manual,4
+338,Automatic,1st Owner,Petrol,72192,645199,Noida,2017 Maruti Baleno ZETA 1.2 K12 AMT Automatic,5
+339,Manual,1st Owner,Diesel,37721,808499,Noida,2019 Maruti Vitara Brezza VDI Manual,3
+340,Manual,1st Owner,Petrol,4642,445199,Noida,2021 Maruti Alto VXI PLUS Manual,1
+341,Manual,2nd Owner,Diesel,28444,726399,Noida,2017 Maruti Vitara Brezza VDI OPT Manual,5
+342,Manual,1st Owner,Diesel,30704,875299,Noida,2019 Maruti Vitara Brezza ZDI Manual,3
+343,Manual,1st Owner,Petrol,44628,556499,Noida,2017 Maruti Baleno ZETA 1.2 K12 Manual,5
+344,Manual,2nd Owner,Diesel,8433,779999,Noida,2017 Ford Ecosport 1.5 TDCI TITANIUM PLUS Manual,5
+345,Manual,1st Owner,Diesel,64347,650599,Noida,2014 Mahindra Scorpio S4 Manual,8
+346,Manual,2nd Owner,Petrol,39430,524999,Noida,2017 Maruti Baleno DELTA 1.2 K12 Manual,5
+347,Manual,2nd Owner,Petrol,22607,311099,Noida,2017 Maruti Alto 800 LXI Manual,5
+348,Automatic,1st Owner,Petrol,29117,740899,Noida,2018 Maruti Baleno ALPHA 1.2 K12 AMT Automatic,4
+349,Manual,1st Owner,Petrol,20047,311099,Noida,2017 Maruti Alto 800 LXI Manual,5
+350,Manual,1st Owner,Diesel,59411,652499,Noida,2017 Maruti Ciaz VDI+ SHVS Manual,5
+351,Manual,1st Owner,Diesel,36642,735999,Noida,2016 Maruti Vitara Brezza ZDI PLUS Manual,6
+352,Automatic,1st Owner,Diesel,32976,1976899,Noida,2014 Audi Q5 30 TDI PREMIUM PLUS Automatic,8
+353,Manual,1st Owner,Diesel,72728,640199,Noida,2017 Maruti Ciaz VDI+ SHVS Manual,5
+354,Manual,1st Owner,Petrol,13665,436999,Noida,2020 Maruti S PRESSO VXI Manual,2
+355,Manual,1st Owner,Diesel,48513,503599,Noida,2014 Hyundai Verna FLUIDIC 1.6 SX CRDI Manual,8
+356,Manual,1st Owner,Diesel,60628,659199,Noida,2018 Ford Ecosport 1.5 TREND+ TDCI Manual,4
+357,Manual,1st Owner,Diesel,83316,399999,Noida,2013 Hyundai Verna FLUIDIC 1.6 SX CRDI Manual,9
+358,Manual,1st Owner,Diesel,40785,803199,Noida,2019 Maruti Vitara Brezza VDI Manual,3
+359,Manual,2nd Owner,Diesel,51197,599399,Noida,2017 Ford Ecosport 1.5TITANIUM TDCI Manual,5
+360,Manual,1st Owner,Petrol,15523,455499,Noida,2020 Maruti S PRESSO VXI Manual,2
+361,Manual,1st Owner,Diesel,35879,832799,Noida,2018 Ford Ecosport 1.5TITANIUM TDCI Manual,4
+362,Manual,1st Owner,Diesel,53046,831199,Noida,2018 Ford Ecosport 1.5 TDCI TITANIUM PLUS Manual,4
+363,Manual,1st Owner,Diesel,16964,508599,Noida,2015 Maruti Swift Dzire VDI ABS Manual,7
+364,Manual,1st Owner,Diesel,50601,757899,Noida,2019 Maruti Vitara Brezza VDI Manual,3
+365,Manual,1st Owner,Diesel,72470,483799,Noida,2014 Hyundai Elite i20 ASTA 1.4 CRDI Manual,8
+366,Manual,1st Owner,Diesel,53904,625899,Noida,2015 Maruti Ertiga ZDI Manual,7
+367,Manual,2nd Owner,Diesel,38538,871799,Noida,2017 Maruti S Cross ALPHA SHVS Manual,5
+368,Manual,1st Owner,Diesel,20960,797899,Noida,2019 Maruti Vitara Brezza VDI Manual,3
+369,Manual,1st Owner,Petrol,40758,324499,Noida,2017 Maruti Alto K10 VXI OPT Manual,5
+370,Manual,3rd Owner,Diesel,52410,615699,Noida,2018 Maruti Vitara Brezza LDI OPT Manual,4
+371,Manual,1st Owner,Diesel,39101,463499,Noida,2014 Hyundai Elite i20 MAGNA 1.4 CRDI Manual,8
+372,Manual,1st Owner,Petrol,13274,424299,Noida,2019 Maruti Alto K10 VXI Manual,3
+373,Manual,3rd Owner,Diesel,141436,465099,Noida,2015 Hyundai Elite i20 ASTA 1.4 CRDI Manual,7
+374,Manual,1st Owner,Diesel,26769,729799,Noida,2016 Maruti Vitara Brezza ZDI Manual,6
+375,Manual,1st Owner,Petrol,11396,456099,Noida,2020 Maruti S PRESSO VXI Manual,2
+376,Automatic,2nd Owner,Diesel,39292,1901999,Noida,2015 Audi A6 35 TDI S LINE Automatic,7
+377,Manual,1st Owner,Diesel,73886,397599,Noida,2015 Hyundai Grand i10 SPORTZ 1.1 CRDI Manual,7
+378,Manual,1st Owner,Diesel,29974,306299,Noida,2013 Hyundai i20 ERA 1.4 CRDI Manual,9
+379,Manual,1st Owner,Petrol,18150,377599,Noida,2018 Maruti Alto K10 VXI Manual,4
+380,Manual,2nd Owner,Diesel,30950,642399,Noida,2016 Maruti Vitara Brezza ZDI PLUS DUAL TONE Manual,6
+381,Manual,1st Owner,Petrol,38083,398199,Noida,2019 Maruti Alto K10 VXI Manual,3
+382,Manual,1st Owner,Diesel,83338,509699,Noida,2015 Hyundai i20 Active 1.4 SX Manual,7
+383,Manual,1st Owner,Diesel,77362,582899,Noida,2016 Ford Ecosport 1.5TITANIUM TDCI Manual,6
+384,Manual,2nd Owner,Diesel,53672,428399,Noida,2015 Hyundai Elite i20 MAGNA 1.4 CRDI Manual,7
+385,Manual,1st Owner,Petrol,39162,556699,Noida,2019 Maruti Baleno SIGMA 1.2 K12 Manual,3
+386,Manual,1st Owner,Diesel,31295,695199,Noida,2016 Maruti Vitara Brezza VDI OPT Manual,6
+387,Manual,2nd Owner,Petrol,35325,528099,Noida,2017 Maruti Baleno DELTA 1.2 K12 Manual,5
+388,Manual,1st Owner,Diesel,46911,629299,Noida,2015 Maruti S Cross ALPHA 1.3 Manual,7
+389,Manual,1st Owner,Diesel,78468,354299,Noida,2013 Hyundai i20 SPORTZ 1.4 CRDI Manual,9
+390,Automatic,1st Owner,Diesel,55470,883499,Noida,2018 Maruti Vitara Brezza ZDI + AMT Automatic,4
+391,Manual,1st Owner,Diesel,44837,473399,Noida,2014 Hyundai Elite i20 SPORTZ (O) 1.4 Manual,8
+392,Manual,1st Owner,Petrol,52027,371599,Noida,2019 Maruti Alto K10 VXI Manual,3
+393,Manual,1st Owner,Diesel,40453,834199,Noida,2018 Ford Ecosport 1.5 TDCI TITANIUM PLUS Manual,4
+394,Manual,1st Owner,Petrol,43335,345199,Noida,2018 Maruti Alto K10 VXI Manual,4
+395,Manual,2nd Owner,Diesel,55051,679499,Noida,2018 Maruti Vitara Brezza VDI Manual,4
+396,Manual,1st Owner,Diesel,42240,726199,Noida,2017 Ford Ecosport 1.5 TDCI TITANIUM PLUS Manual,5
+397,Manual,1st Owner,Diesel,27613,696999,Noida,2016 Maruti Vitara Brezza VDI Manual,6
+398,Manual,1st Owner,Diesel,32303,858399,Noida,2018 Ford Ecosport 1.5 TDCI TITANIUM PLUS Manual,4
+399,Manual,3rd Owner,Diesel,57654,732499,Noida,2018 Ford Ecosport 1.5 TDCI TITANIUM PLUS Manual,4
+400,Manual,1st Owner,Diesel,67285,601199,Noida,2016 Renault Duster 85 PS RXL Manual,6
+401,Manual,1st Owner,Diesel,73060,447899,Noida,2014 Hyundai Elite i20 SPORTZ (O) 1.4 Manual,8
+402,Manual,2nd Owner,Diesel,50837,357199,Noida,2013 Hyundai Grand i10 SPORTZ 1.1 CRDI Manual,9
+403,Manual,1st Owner,Petrol,12404,414699,Noida,2019 Maruti Alto K10 VXI Manual,3
+404,Manual,1st Owner,Diesel,79063,775199,Noida,2018 Ford Ecosport 1.5TITANIUM TDCI Manual,4
+405,Manual,1st Owner,Petrol + CNG,26369,515099,Noida,2021 Maruti Alto LXI CNG Manual,1
+406,Manual,1st Owner,Petrol,46300,524099,Noida,2017 Maruti Baleno DELTA 1.2 K12 Manual,5
+407,Automatic,1st Owner,Diesel,44694,1283299,Noida,2014 Audi A4 2.0 TDI 174BHP Automatic,8
+408,Manual,1st Owner,Petrol,5633,410799,Noida,2019 Maruti Alto K10 VXI Manual,3
+409,Manual,1st Owner,Diesel,68107,682199,Noida,2017 Renault Duster RXZ DIESEL 110 Manual,5
+410,Manual,2nd Owner,Diesel,46366,746699,Noida,2018 Ford Ecosport 1.5TITANIUM TDCI Manual,4
+411,Manual,1st Owner,Petrol,39431,201399,Noida,2009 Maruti Zen Estilo VXI Manual,13
+412,Manual,1st Owner,Diesel,47134,387699,Noida,2014 Hyundai i20 SPORTZ 1.4 CRDI Manual,8
+413,Manual,1st Owner,Diesel,118048,719299,Noida,2015 Hyundai Creta 1.6 SX CRDI Manual,7
+414,Manual,1st Owner,Diesel,39171,749299,Noida,2018 Ford Ecosport 1.5TITANIUM TDCI Manual,4
+415,Manual,1st Owner,Diesel,76733,564599,Noida,2015 Maruti Ciaz ZDI SHVS Manual,7
+416,Manual,1st Owner,Diesel,77777,549499,Noida,2016 Maruti Ciaz VDI+ SHVS Manual,6
+417,Manual,2nd Owner,Diesel,93680,469599,Noida,2015 Hyundai Elite i20 SPORTZ 1.4 Manual,7
+418,Manual,1st Owner,Diesel,59717,448499,Noida,2014 Ford Ecosport 1.5TITANIUM TDCI Manual,8
+419,Manual,1st Owner,Diesel,67443,557299,Noida,2016 Maruti Baleno ALPHA DDIS 190 Manual,6
+420,Manual,1st Owner,Diesel,53544,673899,Noida,2017 Ford Ecosport 1.5TITANIUM TDCI Manual,5
+421,Manual,1st Owner,Diesel,52655,782399,Noida,2018 Ford Ecosport 1.5TITANIUM TDCI Manual,4
+422,Manual,1st Owner,Diesel,90345,680599,Noida,2018 Renault Duster RXS 85 PS Manual,4
+423,Manual,1st Owner,Diesel,45710,505399,Noida,2015 Hyundai Elite i20 SPORTZ 1.4 Manual,7
+424,Manual,2nd Owner,Diesel,75956,616399,Noida,2016 Maruti Ciaz ZDI+ SHVS RS MT Manual,6
+425,Manual,1st Owner,Petrol,35008,319499,Noida,2018 Maruti Alto 800 LXI Manual,4
+426,Manual,1st Owner,Diesel,70806,397699,Noida,2013 Renault Duster 85 PS RXL OPT Manual,9
+427,Manual,1st Owner,Diesel,39714,907099,Noida,2018 Ford Ecosport 1.5 TDCI TITANIUM PLUS Manual,4
+428,Manual,2nd Owner,Diesel,87758,1022099,Noida,2016 Mahindra Scorpio S10 Manual,6
+429,Manual,1st Owner,Diesel,50839,391399,Noida,2014 Renault Duster 85 PS RXL Manual,8
+430,Manual,1st Owner,Diesel,36225,548799,Noida,2014 Maruti Ertiga ZDI Manual,8
+431,Manual,1st Owner,Diesel,41648,532299,Noida,2015 Ford Ecosport 1.5TITANIUM TDCI Manual,7
+432,Manual,4th Owner,Diesel,66021,498899,Noida,2015 Hyundai Elite i20 SPORTZ (O) 1.4 Manual,7
+433,Manual,1st Owner,Diesel,37191,696099,Noida,2016 Maruti Vitara Brezza ZDI PLUS Manual,6
+434,Manual,2nd Owner,Diesel,66181,624899,Noida,2016 Maruti Vitara Brezza VDI Manual,6
+435,Manual,1st Owner,Diesel,32690,777999,Noida,2019 Maruti Vitara Brezza VDI Manual,3
+436,Automatic,2nd Owner,Diesel,82138,1828399,Noida,2015 BMW 5 Series 520D LUXURY LINE Automatic,7
+437,Manual,2nd Owner,Diesel,79409,597699,Noida,2016 Maruti Vitara Brezza VDI Manual,6
+438,Manual,1st Owner,Diesel,57582,699699,Noida,2016 Maruti Vitara Brezza ZDI PLUS Manual,6
+439,Manual,1st Owner,Diesel,119092,297199,Noida,2013 Toyota Etios Liva GD Manual,9
+440,Manual,1st Owner,Diesel,32925,327599,Noida,2013 Hyundai i20 ERA 1.4 CRDI Manual,9
+441,Manual,1st Owner,Diesel,46960,785199,Noida,2017 Ford Ecosport 1.5 TDCI TITANIUM PLUS Manual,5
+442,Manual,1st Owner,Diesel,73865,599699,Noida,2016 Maruti S Cross ZETA 1.3 Manual,6
+443,Manual,1st Owner,Diesel,38144,692399,Noida,2016 Maruti Vitara Brezza VDI Manual,6
+444,Manual,2nd Owner,Diesel,67111,680299,Noida,2017 Maruti Vitara Brezza VDI OPT Manual,5
+445,Automatic,2nd Owner,Diesel,82670,1505599,Noida,2013 BMW 5 Series 520D LUXURY LINE Automatic,9
+446,Automatic,1st Owner,Diesel,53334,1245499,Noida,2013 Mercedes Benz E Class E 220 CDI ELEGANCE Automatic,9
+447,Manual,1st Owner,Diesel,23952,343099,Noida,2013 Maruti Swift VDI Manual,9
+448,Manual,1st Owner,Diesel,55327,738799,Noida,2017 Maruti Vitara Brezza ZDI Manual,5
+449,Manual,1st Owner,Diesel,95302,378899,Noida,2015 Ford Figo Aspire 1.5 AMBIENTE DIESEL Manual,7
+450,Manual,1st Owner,Diesel,97106,387899,Noida,2013 Renault Duster 85 PS RXL OPT Manual,9
+451,Manual,1st Owner,Diesel,54894,298299,Noida,2014 Maruti Ritz VDI Manual,8
+452,Manual,1st Owner,Diesel,24700,386199,Noida,2013 Maruti Swift ZDI Manual,9
+453,Manual,1st Owner,Diesel,59082,731799,Noida,2017 Maruti Vitara Brezza VDI OPT Manual,5
+454,Manual,1st Owner,Diesel,84717,414499,Noida,2014 Renault Duster 85 PS RXL OPT Manual,8
+455,Manual,2nd Owner,Diesel,76165,521399,Noida,2015 Maruti Baleno ALPHA DDIS 190 Manual,7
+456,Manual,1st Owner,Diesel,122636,498999,Noida,2015 Maruti Ciaz VDI (O) SHVS HYBIRD Manual,7
+457,Manual,2nd Owner,Diesel,75539,538499,Noida,2017 Ford Ecosport 1.5 AMBIENTE TDCI Manual,5
+458,Manual,1st Owner,Diesel,44409,706099,Noida,2016 Maruti Vitara Brezza ZDI Manual,6
+459,Manual,1st Owner,Petrol,32482,397199,Noida,2013 Maruti Swift Dzire VXI 1.2 BS IV Manual,9
+460,Manual,2nd Owner,Diesel,41765,491899,Noida,2017 Maruti Swift VDI Manual,5
+461,Manual,1st Owner,Diesel,108210,610899,Noida,2017 Maruti Ciaz VDI+ SHVS Manual,5
+462,Manual,1st Owner,Diesel,80189,351699,Noida,2014 Maruti Ritz VDI Manual,8
+463,Automatic,1st Owner,Diesel,75620,1226199,Noida,2013 Toyota Fortuner 3.0 AT 4X2 Automatic,9
+464,Manual,1st Owner,Diesel,63927,506599,Noida,2016 Maruti Baleno DELTA DDIS 190 Manual,6
+465,Manual,1st Owner,Diesel,49273,528899,Noida,2013 Maruti Ertiga VDI ABS Manual,9
+466,Manual,1st Owner,Diesel,53567,611799,Noida,2017 Maruti Vitara Brezza LDI Manual,5
+467,Manual,2nd Owner,Diesel,43375,754799,Noida,2018 Ford Ecosport 1.5TITANIUM TDCI Manual,4
+468,Manual,1st Owner,Diesel,62859,651699,Noida,2016 Maruti Vitara Brezza VDI OPT Manual,6
+469,Automatic,2nd Owner,Diesel,27955,879499,Noida,2019 Maruti Vitara Brezza ZDI AMT Automatic,3
+470,Manual,1st Owner,Diesel,65090,470599,Noida,2014 Renault Duster 85 PS RXE DIESEL ADVENTURE Manual,8
+471,Manual,1st Owner,Diesel,66837,699199,Noida,2018 Maruti Vitara Brezza VDI OPT Manual,4
+472,Manual,1st Owner,Diesel,42160,696999,Noida,2016 Maruti Vitara Brezza VDI Manual,6
+473,Manual,1st Owner,Diesel,47065,568099,Noida,2017 Maruti Swift VDI ABS Manual,5
+474,Manual,2nd Owner,Diesel,91458,822599,Noida,2017 Maruti S Cross ALPHA SHVS Manual,5
+475,Manual,1st Owner,Diesel,161023,465899,Noida,2013 Maruti Ertiga VDI ABS Manual,9
+476,Automatic,1st Owner,Diesel,197865,1150199,Noida,2013 Toyota Fortuner 3.0 AT 4X2 Automatic,9
+477,Manual,1st Owner,Diesel,46790,390899,Noida,2015 Maruti Swift LDI BS IV Manual,7
+478,Manual,1st Owner,Diesel,102593,389799,Noida,2014 Ford Ecosport 1.5 TREND TDCI Manual,8
+479,Manual,1st Owner,Diesel,35898,770499,Noida,2018 Ford Ecosport 1.5TITANIUM TDCI Manual,4
+480,Manual,1st Owner,Diesel,72145,707399,Noida,2016 Maruti Vitara Brezza ZDI PLUS Manual,6
+481,Manual,1st Owner,Petrol,33608,371999,Noida,2019 Maruti Alto K10 VXI Manual,3
+482,Manual,1st Owner,Diesel,65905,643799,Noida,2016 Maruti Vitara Brezza VDI OPT Manual,6
+483,Manual,1st Owner,Diesel,57235,651199,Noida,2016 Maruti Vitara Brezza VDI Manual,6
+484,Manual,1st Owner,Petrol,44809,203099,Noida,2009 Maruti Zen Estilo VXI Manual,13
+485,Manual,1st Owner,Diesel,43454,693899,Noida,2017 Maruti Vitara Brezza VDI Manual,5
+486,Manual,1st Owner,Diesel,39381,390799,Noida,2014 Maruti Swift VDI Manual,8
+487,Manual,2nd Owner,Diesel,96675,777099,Noida,2017 Maruti S Cross ALPHA SHVS Manual,5
+488,Manual,2nd Owner,Diesel,117699,1143599,Noida,2013 Toyota Fortuner 3.0 MT 4X2 Manual,9
+489,Manual,1st Owner,Diesel,79521,466199,Noida,2015 Ford Ecosport 1.5 TREND TDCI Manual,7
+490,Manual,1st Owner,Diesel,25744,470199,Noida,2014 Maruti Swift Dzire ZDI Manual,8
+491,Manual,1st Owner,Diesel,44171,388299,Noida,2015 Maruti Swift LDI O Manual,7
+492,Manual,1st Owner,Diesel,57003,495599,Noida,2015 Nissan Terrano XL OPT 85 PS Manual,7
+493,Manual,1st Owner,Diesel,55639,541199,Noida,2016 Maruti Baleno DELTA DDIS 190 Manual,6
+494,Manual,1st Owner,Diesel,77604,1168899,Noida,2013 Toyota Fortuner 3.0 MT 4X2 Manual,9
+495,Manual,1st Owner,Diesel,86466,573799,Noida,2016 Ford Ecosport 1.5TITANIUM TDCI Manual,6
+496,Manual,1st Owner,Diesel,100433,1181199,Noida,2013 Toyota Fortuner 3.0 MT 4X2 Manual,9
+497,Manual,1st Owner,Diesel,77213,386799,Noida,2015 Maruti Ritz VDI Manual,7
+498,Manual,1st Owner,Diesel,66066,681599,Noida,2017 Maruti Vitara Brezza VDI OPT Manual,5
+499,Manual,1st Owner,Diesel,38501,446399,Noida,2014 Ford Ecosport 1.5 TREND TDCI Manual,8
+500,Manual,1st Owner,Diesel,60014,603099,Noida,2016 Maruti Vitara Brezza VDI OPT Manual,6
+501,Manual,1st Owner,Diesel,81987,686299,Noida,2017 Maruti Vitara Brezza ZDI Manual,5
+502,Manual,1st Owner,Diesel,62296,679699,Noida,2017 Maruti Vitara Brezza VDI OPT Manual,5
+503,Manual,2nd Owner,Diesel,51966,461299,Noida,2017 Maruti Swift Dzire LDI BS IV Manual,5
+504,Manual,1st Owner,Diesel,82799,749099,Noida,2017 Maruti Vitara Brezza ZDI PLUS Manual,5
+505,Manual,1st Owner,Diesel,70807,390299,Noida,2013 Maruti Swift ZDI Manual,9
+506,Manual,1st Owner,Diesel,69864,432499,Noida,2015 Maruti Swift VDI ABS Manual,7
+507,Manual,1st Owner,Diesel,49562,389999,Noida,2015 Maruti Swift LDI BS IV Manual,7
+508,Manual,1st Owner,Diesel,50070,503899,Noida,2014 Ford Ecosport 1.5 TITANIUMTDCI OPT Manual,8
+509,Manual,1st Owner,Diesel,45298,399099,Noida,2015 Maruti Swift LDI BS IV Manual,7
+510,Manual,1st Owner,Diesel,64017,597699,Noida,2013 Toyota Innova 2.5 GX 7 STR BS IV Manual,9
+511,Manual,1st Owner,Diesel,28321,457399,Noida,2015 Maruti Swift VDI ABS Manual,7
+512,Manual,2nd Owner,Diesel,81167,424699,Noida,2013 Ford Ecosport 1.5 TITANIUMTDCI OPT Manual,9
+513,Manual,1st Owner,Diesel,93758,788399,Noida,2014 Toyota Innova 2.5 VX 7 STR BS IV Manual,8
+514,Manual,1st Owner,Diesel,85698,631299,Noida,2017 Ford Ecosport 1.5TITANIUM TDCI Manual,5
+515,Manual,1st Owner,Diesel,77849,493299,Noida,2015 Ford Ecosport 1.5TITANIUM TDCI Manual,7
+516,Manual,1st Owner,Diesel,72539,658799,Noida,2016 Maruti Vitara Brezza ZDI Manual,6
+517,Manual,2nd Owner,Diesel,53692,488699,Noida,2015 Maruti Swift ZDI Manual,7
+518,Manual,1st Owner,Diesel,151830,613199,Noida,2016 Maruti Vitara Brezza ZDI PLUS Manual,6
+519,Manual,1st Owner,Diesel,70240,480499,Noida,2015 Maruti Baleno ZETA DDIS 190 Manual,7
+520,Manual,2nd Owner,Diesel,73665,578799,Noida,2016 Maruti Vitara Brezza VDI OPT Manual,6
+521,Manual,1st Owner,Diesel,56499,518099,Noida,2017 Maruti Swift VDI ABS Manual,5
+522,Manual,2nd Owner,Diesel,61862,405799,Noida,2015 Maruti Swift VDI ABS Manual,7
+523,Manual,1st Owner,Diesel,89391,430399,Noida,2014 Ford Ecosport 1.5 TREND TDCI Manual,8
+524,Manual,1st Owner,Diesel,76136,442699,Noida,2013 Ford Ecosport 1.5 TITANIUMTDCI OPT Manual,9
+525,Manual,1st Owner,Diesel,38371,351499,Noida,2014 Maruti Swift VDI Manual,8
+526,Manual,1st Owner,Diesel,84028,626199,Noida,2017 Maruti Vitara Brezza VDI OPT Manual,5
+527,Manual,2nd Owner,Diesel,95490,475099,Noida,2014 Maruti Ertiga ZDI Manual,8
+528,Manual,1st Owner,Diesel,39364,490199,Noida,2016 Maruti Swift VDI OPT Manual,6
+529,Manual,1st Owner,Diesel,51904,482099,Noida,2014 Nissan Terrano XL 85 PS DEISEL Manual,8
+530,Manual,1st Owner,Diesel,56690,439099,Noida,2015 Maruti Swift VDI ABS Manual,7
+531,Manual,1st Owner,Diesel,45784,393399,Noida,2014 Maruti Swift VDI Manual,8
+532,Manual,1st Owner,Diesel,78344,431299,Noida,2014 Ford Ecosport 1.5TITANIUM TDCI Manual,8
+533,Manual,2nd Owner,Diesel,79688,501899,Noida,2016 Maruti Swift Dzire VDI ABS Manual,6
+534,Manual,1st Owner,Diesel,54880,649099,Noida,2016 Maruti Vitara Brezza ZDI Manual,6
+535,Manual,1st Owner,Diesel,85155,634499,Noida,2017 Ford Ecosport 1.5TITANIUM TDCI Manual,5
+536,Manual,1st Owner,Diesel,63631,462899,Noida,2015 Maruti Swift Dzire VDI BS IV Manual,7
+537,Manual,1st Owner,Diesel,63661,369899,Noida,2014 Maruti Swift VDI Manual,8
+538,Manual,2nd Owner,Diesel,82101,370199,Noida,2013 Ford Ecosport 1.5TITANIUM TDCI Manual,9
+539,Manual,1st Owner,Diesel,50020,458599,Noida,2015 Maruti Swift VDI ABS Manual,7
+540,Manual,1st Owner,Diesel,131211,295899,Noida,2013 Maruti Swift Dzire LDI BS IV Manual,9
+541,Manual,1st Owner,Diesel,35977,386299,Noida,2014 Maruti Swift VDI ABS Manual,8
+542,Manual,1st Owner,Diesel,42154,369099,Noida,2014 Maruti Swift VDI Manual,8
+543,Manual,1st Owner,Diesel,33489,380399,Noida,2014 Maruti Swift VDI Manual,8
+544,Manual,1st Owner,Diesel,45699,329499,Noida,2013 Maruti Swift VDI Manual,9
+545,Manual,1st Owner,Diesel,47583,335699,Noida,2013 Maruti Swift VDI Manual,9
+546,Manual,1st Owner,Diesel,123138,372899,Noida,2015 Maruti Swift VDI ABS Manual,7
+547,Manual,1st Owner,Diesel,51483,457699,Noida,2015 Maruti Swift Dzire VDI ABS Manual,7
+548,Manual,1st Owner,Diesel,75826,392799,Noida,2015 Maruti Swift Dzire LDI BS IV Manual,7
+549,Manual,1st Owner,Diesel,44096,347199,Noida,2013 Maruti Swift VDI Manual,9
+550,Manual,2nd Owner,Diesel,47127,464499,Noida,2015 Ford Ecosport 1.5 TREND TDCI Manual,7
+551,Manual,1st Owner,Diesel,30766,440299,Noida,2015 Maruti Swift VDI Manual,7
+552,Manual,1st Owner,Diesel,86812,436699,Noida,2015 Maruti Swift VDI ABS Manual,7
+553,Manual,2nd Owner,Diesel,85734,464699,Noida,2015 Ford Ecosport 1.5TITANIUM TDCI Manual,7
+554,Manual,1st Owner,Diesel,109227,304299,Noida,2012 Maruti Swift VDI Manual,10
+555,Manual,1st Owner,Diesel,107106,335799,Noida,2014 Maruti Swift VDI Manual,8
+556,Manual,1st Owner,Diesel,68967,327499,Noida,2013 Maruti Swift VDI Manual,9
+557,Manual,1st Owner,Diesel,89716,454499,Noida,2014 Nissan Terrano XV D THP PREMIUM 110 PS Manual,8
+558,Manual,1st Owner,Diesel,84962,413099,Noida,2015 Maruti Swift VDI ABS Manual,7
+559,Manual,1st Owner,Diesel,67242,329799,Noida,2013 Maruti Swift VDI Manual,9
+560,Manual,1st Owner,Diesel,65741,440199,Noida,2015 Maruti Swift VDI ABS Manual,7
+561,Manual,1st Owner,Diesel,69784,369299,Noida,2014 Maruti Swift VDI Manual,8
+562,Manual,1st Owner,Diesel,83576,446799,Noida,2015 Maruti Swift VDI ABS Manual,7
+563,Manual,1st Owner,Diesel,106422,426699,Noida,2016 Maruti Swift VDI ABS Manual,6
+564,Manual,1st Owner,Diesel,76369,394599,Noida,2015 Maruti Swift VDI ABS Manual,7
+565,Manual,1st Owner,Diesel,65801,315099,Noida,2013 Maruti Swift LDI BS IV Manual,9
+566,Manual,1st Owner,Diesel,39465,416099,Noida,2014 Maruti Swift Dzire VDI BS IV Manual,8
+567,Manual,1st Owner,Diesel,73782,506599,Noida,2015 Ford Ecosport 1.5TITANIUM TDCI Manual,7
+568,Manual,1st Owner,Diesel,53340,410099,Noida,2015 Maruti Swift VDI ABS Manual,7
+569,Manual,2nd Owner,Diesel,50331,303099,Noida,2013 Maruti Swift Dzire LDI BS IV Manual,9
+570,Manual,1st Owner,Diesel,66981,315099,Noida,2013 Maruti Swift VDI Manual,9
+571,Manual,1st Owner,Diesel,92528,384599,Noida,2015 Maruti Swift VDI ABS Manual,7
+572,Manual,1st Owner,Diesel,92143,393499,Noida,2014 Maruti Swift ZDI Manual,8
+573,Manual,1st Owner,Diesel,92507,427299,Noida,2015 Maruti Swift VDI ABS Manual,7
+574,Manual,1st Owner,Diesel,68478,352399,Noida,2014 Maruti Swift VDI Manual,8
+575,Manual,1st Owner,Diesel,102988,397399,Noida,2014 Maruti Swift VDI ABS Manual,8
+576,Manual,1st Owner,Diesel,238600,698699,Noida,2014 Toyota Innova 2.5 VX 7 STR BS IV Manual,8
+577,Manual,1st Owner,Diesel,40458,359499,Noida,2013 Maruti Swift Dzire VDI BS IV Manual,9
+578,Manual,1st Owner,Diesel,70007,989999,Noida,2014 Toyota Innova 2.5 VX 8 STR BS IV Manual,8
+579,Manual,1st Owner,Diesel,64646,349399,Noida,2014 Maruti Swift VDI Manual,8
+580,Manual,1st Owner,Diesel,104600,417699,Noida,2015 Maruti Swift VDI ABS Manual,7
+581,Manual,2nd Owner,Diesel,144580,309599,Noida,2013 Maruti Swift VDI Manual,9
+582,Manual,1st Owner,Diesel,47397,418499,Noida,2015 Maruti Swift VDI ABS Manual,7
+583,Manual,1st Owner,Diesel,59025,343199,Noida,2014 Maruti Swift VDI Manual,8
+584,Manual,1st Owner,Diesel,54354,404999,Noida,2014 Maruti Swift Dzire VDI BS IV Manual,8
+585,Manual,3rd Owner,Diesel,74369,837399,Noida,2015 Toyota Innova 2.5 VX 7 STR BS IV Manual,7
+586,Manual,1st Owner,Diesel,65552,660299,Noida,2016 Maruti Vitara Brezza ZDI Manual,6
+587,Manual,1st Owner,Diesel,97705,488699,Noida,2017 Maruti Swift VDI ABS Manual,5
+588,Manual,1st Owner,Diesel,102161,613399,Noida,2016 Maruti Vitara Brezza ZDI Manual,6
+589,Manual,1st Owner,Diesel,113124,595099,Noida,2017 Ford Ecosport 1.5 TREND+ TDCI Manual,5
+590,Manual,2nd Owner,Petrol,56671,367399,Noida,2012 Maruti Swift Dzire VXI 1.2 BS IV Manual,10
+591,Manual,1st Owner,Diesel,46556,395599,Noida,2015 Maruti Swift LDI O Manual,7
+592,Manual,1st Owner,Diesel,90318,685599,Noida,2016 Maruti Vitara Brezza ZDI PLUS DUAL TONE Manual,6
+593,Manual,1st Owner,Diesel,76094,456699,Noida,2015 Maruti Swift Dzire VDI ABS Manual,7
+594,Manual,1st Owner,Diesel,71940,351899,Noida,2014 Maruti Swift VDI Manual,8
+595,Manual,2nd Owner,Diesel,50969,448399,Noida,2014 Ford Ecosport 1.5TITANIUM TDCI Manual,8
+596,Manual,1st Owner,Diesel,77659,365499,Noida,2013 Maruti Swift ZDI Manual,9
+597,Manual,1st Owner,Diesel,97684,486599,Noida,2017 Maruti Swift VDI Manual,5
+598,Manual,1st Owner,Diesel,89564,333699,Noida,2014 Maruti Swift Dzire LDI BS IV Manual,8
+599,Manual,2nd Owner,Diesel,82438,330599,Noida,2014 Maruti Swift VDI Manual,8
+600,Manual,1st Owner,Diesel,76915,439299,Noida,2014 Maruti Swift Dzire ZDI Manual,8
+601,Manual,1st Owner,Diesel,61990,374699,Noida,2014 Maruti Swift VDI ABS Manual,8
+602,Automatic,2nd Owner,Diesel,35681,1526399,Noida,2015 BMW 3 Series 320D Automatic,7
+603,Manual,2nd Owner,Diesel,103732,333399,Noida,2013 Maruti Swift VDI Manual,9
+604,Manual,1st Owner,Diesel,64844,330599,Noida,2013 Maruti Swift VDI Manual,9
+605,Manual,2nd Owner,Diesel,121393,614599,Noida,2013 Toyota Innova 2.5 GX 7 STR BS IV Manual,9
+606,Manual,1st Owner,Diesel,122581,308899,Noida,2013 Maruti Swift VDI Manual,9
+607,Manual,2nd Owner,Diesel,49192,415099,Noida,2014 Ford Ecosport 1.5TITANIUM TDCI Manual,8
+608,Manual,2nd Owner,Diesel,83615,366399,Noida,2013 Maruti Swift ZDI Manual,9
+609,Manual,1st Owner,Diesel,82898,312499,Noida,2013 Maruti Swift VDI Manual,9
+610,Manual,1st Owner,Diesel,54963,377499,Noida,2014 Maruti Swift VDI ABS Manual,8
+611,Manual,1st Owner,Diesel,104680,408499,Noida,2015 Maruti Swift VDI ABS Manual,7
+612,Manual,1st Owner,Diesel,59099,315899,Noida,2013 Maruti Swift VDI Manual,9
+613,Manual,1st Owner,Diesel,84262,947799,Noida,2014 Toyota Innova 2.5 VX 8 STR BS IV Manual,8
+614,Manual,1st Owner,Diesel,73018,451799,Noida,2015 Maruti Swift Dzire VDI ABS Manual,7
+615,Manual,1st Owner,Diesel,68431,325299,Noida,2013 Maruti Swift VDI Manual,9
+616,Manual,1st Owner,Diesel,55011,365399,Noida,2014 Maruti Swift VDI Manual,8

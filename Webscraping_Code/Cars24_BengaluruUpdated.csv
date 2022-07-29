@@ -1,0 +1,477 @@
+,Transimission_Type,Ownership,Fuel_Used,km_driven,selling_price,Place of Origin,Complete_Info,Age
+0,Manual,1st Owner,Petrol,28638,298199,Bengaluru,2014 Datsun Go T Manual,8
+1,Automatic,1st Owner,Petrol,18967,1023199,Bengaluru,2019 Renault Duster RXS (O) CVT Automatic,3
+2,Automatic,1st Owner,Petrol,3156,769099,Bengaluru,2021 Maruti New  Wagon-R ZXI 1.2L AGS Automatic,1
+3,Manual,1st Owner,Petrol,11819,522199,Bengaluru,2019 Maruti Celerio ZXI Manual,3
+4,Manual,1st Owner,Petrol,38633,603499,Bengaluru,2016 Hyundai Elite i20 SPORTZ 1.2 Manual,6
+5,Automatic,2nd Owner,Petrol,31859,872299,Bengaluru,2017 Renault Duster RXS CVT 106 PS Automatic,5
+6,Manual,1st Owner,Petrol,9755,614799,Bengaluru,2016 Maruti Swift VXI OPT Manual,6
+7,Manual,2nd Owner,Petrol,57210,371199,Bengaluru,2010 Hyundai i20 ASTA 1.2 Manual,12
+8,Manual,1st Owner,Diesel,35242,1198599,Bengaluru,2018 Mahindra Scorpio S5 2WD Manual,4
+9,Manual,1st Owner,Petrol,17302,729099,Bengaluru,2019 Hyundai Elite i20 MAGNA+ VTVT Manual,3
+10,Manual,1st Owner,Diesel,71705,923999,Bengaluru,2017 Renault Duster RXZ 85 PS DIESEL Manual,5
+11,Manual,1st Owner,Petrol,38468,522999,Bengaluru,2015 Maruti Swift VXI Manual,7
+12,Automatic,1st Owner,Petrol,4834,950599,Bengaluru,2019 Hyundai Elite i20 1.2 SPORTS PLUS VTVT CVT Automatic,3
+13,Manual,1st Owner,Petrol,33425,742799,Bengaluru,2019 Ford FREESTYLE TITANIUM 1.2 TI-VCT MT Manual,3
+14,Manual,1st Owner,Petrol,51781,493499,Bengaluru,2014 Maruti Swift VXI Manual,8
+15,Manual,1st Owner,Petrol,31258,591599,Bengaluru,2014 Maruti Swift ZXI Manual,8
+16,Manual,2nd Owner,Petrol,59213,472599,Bengaluru,2013 Hyundai i20 ASTA 1.2 Manual,9
+17,Automatic,1st Owner,Petrol,13134,1450899,Bengaluru,2019 Hyundai Creta 1.6 VTVT SX AUTO Automatic,3
+18,Manual,2nd Owner,Petrol,11086,535899,Bengaluru,2017 Tata Tiago XZ 1.2 REVOTRON Manual,5
+19,Manual,1st Owner,Petrol,14417,1195899,Bengaluru,2020 Honda City V MT PETROL Manual,2
+20,Manual,2nd Owner,Petrol,39971,537599,Bengaluru,2012 Hyundai Verna FLUIDIC 1.6 SX VTVT Manual,10
+21,Manual,2nd Owner,Petrol,8102,922299,Bengaluru,2020 Tata NEXON XZ 1.2 Manual,2
+22,Manual,1st Owner,Petrol,41599,348799,Bengaluru,2016 Renault Kwid RXL Manual,6
+23,Automatic,1st Owner,Petrol,6005,826499,Bengaluru,2021 Maruti IGNIS ZETA 1.2 K12 AMT Automatic,1
+24,Manual,1st Owner,Petrol,33689,449699,Bengaluru,2015 Maruti Celerio VXI Manual,7
+25,Manual,1st Owner,Petrol,36689,675099,Bengaluru,2017 Maruti Swift ZXI Manual,5
+26,Manual,2nd Owner,Petrol,47686,491999,Bengaluru,2013 Honda Amaze 1.2 VXMT I VTEC Manual,9
+27,Manual,2nd Owner,Petrol,27780,562999,Bengaluru,2018 Tata Tiago XZ 1.2 REVOTRON Manual,4
+28,Automatic,2nd Owner,Petrol,50515,241199,Bengaluru,2015 Tata Nano TWIST XTA Automatic,7
+29,Manual,2nd Owner,Petrol,92484,274199,Bengaluru,2016 Datsun Redi Go T (O) Manual,6
+30,Manual,2nd Owner,Petrol,55334,275999,Bengaluru,2012 Maruti Alto K10 VXI Manual,10
+31,Manual,1st Owner,Petrol,4257,1989199,Bengaluru,2021 KIA SELTOS GTX 1.4 GDI PETROL Manual,1
+32,Manual,1st Owner,Petrol,57997,619499,Bengaluru,2014 Honda City S MT PETROL Manual,8
+33,Manual,2nd Owner,Petrol,38954,459999,Bengaluru,2016 Maruti Celerio VXI Manual,6
+34,Manual,1st Owner,Petrol,36398,597099,Bengaluru,2019 Hyundai NEW SANTRO ASTA 1.1 MT Manual,3
+35,Manual,2nd Owner,Petrol,56391,434599,Bengaluru,2012 Maruti Swift VXI Manual,10
+36,Manual,1st Owner,Petrol,55090,611999,Bengaluru,2017 Maruti Swift VXI OPT Manual,5
+37,Manual,1st Owner,Petrol,20246,640899,Bengaluru,2019 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,3
+38,Manual,1st Owner,Petrol,14065,1065599,Bengaluru,2020 Maruti Vitara Brezza ZXI + Manual,2
+39,Manual,1st Owner,Petrol,49885,299399,Bengaluru,2012 Maruti Alto K10 VXI Manual,10
+40,Manual,2nd Owner,Petrol,29114,863799,Bengaluru,2017 Honda City V MT PETROL Manual,5
+41,Manual,1st Owner,Petrol,40368,772899,Bengaluru,2016 Honda City V MT PETROL Manual,6
+42,Manual,2nd Owner,Diesel,57767,1134199,Bengaluru,2017 Hyundai Creta 1.6 SX CRDI Manual,5
+43,Manual,1st Owner,Petrol,42422,482599,Bengaluru,2018 Maruti Celerio ZXI Manual,4
+44,Manual,1st Owner,Petrol,40792,1075199,Bengaluru,2019 Ford Ecosport 1.5 TITANIUM SIGNATURE TI VCT (SUNROOF) Manual,3
+45,Manual,2nd Owner,Petrol,71077,851899,Bengaluru,2017 Honda City V MT PETROL Manual,5
+46,Automatic,2nd Owner,Petrol,48138,635699,Bengaluru,2016 Honda Jazz 1.2 S AT Automatic,6
+47,Manual,2nd Owner,Petrol,49527,599799,Bengaluru,2016 Hyundai Elite i20 SPORTZ 1.2 Manual,6
+48,Manual,1st Owner,Petrol,36498,823899,Bengaluru,2018 Toyota YARIS V MT Manual,4
+49,Automatic,1st Owner,Petrol,17854,1253599,Bengaluru,2020 Maruti XL6 ZETA AT SHVS Automatic,2
+50,Automatic,1st Owner,Petrol,44911,454799,Bengaluru,2017 Renault Kwid CLIMBER 1.0 AT Automatic,5
+51,Automatic,1st Owner,Petrol,2466,571499,Bengaluru,2018 Maruti Wagon R 1.0 VXI AMT Automatic,4
+52,Manual,1st Owner,Petrol,54944,375899,Bengaluru,2012 Ford Figo 1.2 TITANIUM DURATEC Manual,10
+53,Manual,2nd Owner,Petrol,46687,701199,Bengaluru,2016 Hyundai Elite i20 ASTA 1.2 Manual,6
+54,Manual,3rd Owner,Petrol,62549,510599,Bengaluru,2015 Maruti Ciaz VXI Manual,7
+55,Manual,2nd Owner,Petrol,18681,609199,Bengaluru,2019 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,3
+56,Manual,2nd Owner,Petrol,40600,855399,Bengaluru,2017 Honda City V MT PETROL Manual,5
+57,Manual,1st Owner,Petrol,27423,322899,Bengaluru,2010 Maruti Wagon R 1.0 VXI Manual,12
+58,Manual,1st Owner,Petrol,43234,625599,Bengaluru,2016 Maruti Baleno DELTA 1.2 K12 Manual,6
+59,Manual,2nd Owner,Petrol,59278,697999,Bengaluru,2017 Hyundai Elite i20 ASTA 1.2 (O) Manual,5
+60,Manual,2nd Owner,Petrol,38596,482499,Bengaluru,2014 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,8
+61,Automatic,1st Owner,Petrol,22316,1689399,Bengaluru,2017 Jeep Compass LIMITED 1.4 AT Automatic,5
+62,Manual,1st Owner,Petrol,11005,536399,Bengaluru,2019 Hyundai NEW SANTRO 1.1 MAGNA MT Manual,3
+63,Manual,1st Owner,Petrol,38180,481299,Bengaluru,2014 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,8
+64,Manual,1st Owner,Petrol,66941,629499,Bengaluru,2018 Ford FREESTYLE TITANIUM 1.2 TI-VCT MT Manual,4
+65,Automatic,1st Owner,Petrol,60090,748499,Bengaluru,2017 Maruti Dzire ZXI Plus AMT Automatic,5
+66,Manual,1st Owner,Petrol,36475,493499,Bengaluru,2014 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,8
+67,Manual,1st Owner,Petrol,27858,596999,Bengaluru,2017 Hyundai Grand i10 ASTA 1.2 VTVT Manual,5
+68,Manual,1st Owner,Petrol,95138,435899,Bengaluru,2015 Hyundai Grand i10 MAGNA 1.2 KAPPA VTVT Manual,7
+69,Manual,2nd Owner,Petrol,28310,917199,Bengaluru,2017 Honda City V MT PETROL Manual,5
+70,Manual,1st Owner,Petrol,20067,522999,Bengaluru,2015 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,7
+71,Manual,1st Owner,Petrol,48877,493499,Bengaluru,2014 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,8
+72,Manual,1st Owner,Petrol,47677,653299,Bengaluru,2018 Maruti Baleno DELTA 1.2 K12 Manual,4
+73,Manual,1st Owner,Petrol,46011,625599,Bengaluru,2016 Maruti Baleno DELTA 1.2 K12 Manual,6
+74,Manual,1st Owner,Petrol,79432,379699,Bengaluru,2019 Maruti Alto K10 VXI Manual,3
+75,Manual,1st Owner,Diesel,26225,1917599,Bengaluru,2019 MG HECTOR SHARP 2.0 DIESEL Manual,3
+76,Manual,2nd Owner,Petrol,18241,381299,Bengaluru,2017 Hyundai Eon MAGNA PLUS Manual,5
+77,Manual,1st Owner,Petrol,5306,490799,Bengaluru,2020 Maruti S PRESSO VXI PLUS Manual,2
+78,Manual,1st Owner,Petrol,40710,516099,Bengaluru,2015 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,7
+79,Manual,1st Owner,Diesel,30076,1917599,Bengaluru,2019 MG HECTOR SHARP 2.0 DIESEL Manual,3
+80,Manual,1st Owner,Petrol,32442,348099,Bengaluru,2017 Maruti Alto 800 VXI Manual,5
+81,Manual,1st Owner,Petrol,37215,360599,Bengaluru,2016 Maruti Alto K10 VXI Manual,6
+82,Manual,1st Owner,Petrol,77365,451499,Bengaluru,2015 Tata Zest XMS RT Manual,7
+83,Manual,3rd Owner,Petrol,44059,362899,Bengaluru,2014 Maruti Wagon R 1.0 VXI Manual,8
+84,Automatic,2nd Owner,Petrol,62360,674999,Bengaluru,2017 Maruti Baleno ZETA 1.2 K12 AMT Automatic,5
+85,Manual,1st Owner,Petrol,39493,520999,Bengaluru,2016 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,6
+86,Manual,1st Owner,Petrol,66021,345099,Bengaluru,2014 Maruti Alto K10 VXI Manual,8
+87,Manual,1st Owner,Petrol,14769,432599,Bengaluru,2018 Maruti Eeco 5 STR WITH AC PLUSHTR Manual,4
+88,Manual,1st Owner,Petrol,31304,422699,Bengaluru,2020 Maruti Alto LXI Manual,2
+89,Automatic,1st Owner,Petrol,14345,491899,Bengaluru,2019 Maruti Alto K10 VXI AMT Automatic,3
+90,Manual,1st Owner,Petrol,73271,402699,Bengaluru,2014 Maruti Wagon R 1.0 VXI Manual,8
+91,Automatic,2nd Owner,Petrol,34184,434599,Bengaluru,2018 Maruti Alto K10 VXI (O) AMT Automatic,4
+92,Manual,1st Owner,Petrol,31842,413799,Bengaluru,2018 Maruti Eeco 5 STR WITH AC PLUSHTR Manual,4
+93,Automatic,1st Owner,Petrol,26962,408299,Bengaluru,2018 Datsun Redi Go 1.0 S AT Automatic,4
+94,Automatic,1st Owner,Petrol,21562,473599,Bengaluru,2018 Maruti Alto K10 VXI (O) AMT Automatic,4
+95,Automatic,1st Owner,Petrol,11427,373299,Bengaluru,2012 Hyundai i10 SPORTZ 1.2 AT KAPPA2 Automatic,10
+96,Manual,1st Owner,Petrol,4696,664699,Bengaluru,2019 Tata Tiago XZ+ 1.2 Revotron Manual,3
+97,Manual,1st Owner,Petrol,17573,410299,Bengaluru,2012 Hyundai i10 ERA 1.1 IRDE Manual,10
+98,Manual,1st Owner,Petrol,4031,1210099,Bengaluru,2021 Renault Duster RXZ Manual,1
+99,Automatic,1st Owner,Diesel,23734,1472699,Bengaluru,2020 Mahindra XUV 3OO W8 (O) DIESEL  AT Automatic,2
+100,Manual,1st Owner,Petrol,33238,516099,Bengaluru,2017 Ford New Figo 1.2 TITANIUM Manual,5
+101,Manual,1st Owner,Petrol,31909,352499,Bengaluru,2016 Renault Kwid RXL Manual,6
+102,Manual,2nd Owner,Petrol,26677,568399,Bengaluru,2019 Ford New Figo 1.2 TITANIUM Manual,3
+103,Manual,1st Owner,Petrol,46373,400399,Bengaluru,2015 Maruti Celerio ZXI Manual,7
+104,Manual,1st Owner,Petrol,31383,411399,Bengaluru,2015 Hyundai i10 SPORTZ 1.1 IRDE2 Manual,7
+105,Manual,1st Owner,Petrol,14165,772099,Bengaluru,2018 Hyundai Elite i20 ASTA 1.2 Manual,4
+106,Manual,2nd Owner,Diesel,51360,1190899,Bengaluru,2017 Mahindra XUV500 W6 4X2 Manual,5
+107,Manual,2nd Owner,Petrol,25932,509999,Bengaluru,2016 Maruti Swift VXI Manual,6
+108,Manual,1st Owner,Petrol,26288,859999,Bengaluru,2019 Hyundai Elite i20 1.2 SPORTZ PLUS DUAL TONE VTVT Manual,3
+109,Automatic,1st Owner,Petrol,5132,845599,Bengaluru,2020 Hyundai GRAND I10 NIOS ASTA PETROL AMT Automatic,2
+110,Manual,1st Owner,Diesel,13146,1706299,Bengaluru,2019 MG HECTOR SHARP 2.0 DIESEL Manual,3
+111,Manual,1st Owner,Petrol,83096,298099,Bengaluru,2009 Hyundai i20 MAGNA 1.2 VTVT Manual,13
+112,Manual,1st Owner,Diesel,34657,812699,Bengaluru,2016 Maruti Vitara Brezza ZDI Manual,6
+113,Manual,3rd Owner,Petrol,28792,279299,Bengaluru,2013 Maruti Alto K10 VXI Manual,9
+114,Manual,1st Owner,Petrol,60141,387099,Bengaluru,2015 Hyundai i10 MAGNA 1.1 IRDE2 Manual,7
+115,Manual,2nd Owner,Petrol,17684,675699,Bengaluru,2016 Honda Jazz 1.2 V MT Manual,6
+116,Automatic,1st Owner,Diesel,38331,1920399,Bengaluru,2020 KIA SELTOS 1.5 GTX+ AT Automatic,2
+117,Manual,1st Owner,Petrol,47650,411399,Bengaluru,2015 Hyundai i10 SPORTZ 1.1 IRDE2 Manual,7
+118,Automatic,1st Owner,Petrol,20587,519699,Bengaluru,2019 Maruti Celerio VXI AMT Automatic,3
+119,Manual,1st Owner,Petrol,46643,531899,Bengaluru,2014 Maruti Swift Dzire ZXI 1.2 BS IV Manual,8
+120,Manual,1st Owner,Petrol,51334,291999,Bengaluru,2016 Datsun Redi Go T (O) Manual,6
+121,Manual,2nd Owner,Petrol,60268,360799,Bengaluru,2012 Maruti Ritz VXI BS IV Manual,10
+122,Automatic,2nd Owner,Petrol,36433,666399,Bengaluru,2014 Hyundai Verna FLUIDIC 1.6 VTVT SX AT Automatic,8
+123,Manual,1st Owner,Diesel,140025,1097099,Bengaluru,2015 Mahindra XUV500 W10 Manual,7
+124,Manual,1st Owner,Diesel,132162,784799,Bengaluru,2016 Mahindra Scorpio S2 Manual,6
+125,Manual,2nd Owner,Petrol,13101,1043299,Bengaluru,2020 Tata NEXON XZ+ 1.2 Manual,2
+126,Manual,1st Owner,Petrol,44146,562499,Bengaluru,2019 Maruti New  Wagon-R VXI 1.0 Manual,3
+127,Manual,2nd Owner,Petrol,43379,617199,Bengaluru,2019 Hyundai Grand i10 SPORTZ DUAL TONE 1.2 VTVT Manual,3
+128,Manual,1st Owner,Petrol,24938,484199,Bengaluru,2016 Maruti Celerio VXI Manual,6
+129,Manual,1st Owner,Petrol,11427,864399,Bengaluru,2021 Toyota Glanza G MT PETROL Manual,1
+130,Manual,2nd Owner,Petrol,21646,553499,Bengaluru,2019 Maruti Celerio ZXI OPT Manual,3
+131,Manual,1st Owner,Petrol,42712,574499,Bengaluru,2017 Ford Figo Aspire 1.2 TITANIUM PETROL Manual,5
+132,Manual,1st Owner,Petrol,90738,505199,Bengaluru,2013 Honda City S MT PETROL Manual,9
+133,Manual,2nd Owner,Petrol,42231,635499,Bengaluru,2015 Hyundai Elite i20 ASTA 1.2 Manual,7
+134,Manual,1st Owner,Petrol,48329,670999,Bengaluru,2016 Honda Jazz 1.2 V MT Manual,6
+135,Manual,3rd Owner,Petrol,14858,602499,Bengaluru,2019 Hyundai Grand i10 ASTA 1.2 VTVT Manual,3
+136,Manual,2nd Owner,Petrol,66655,319799,Bengaluru,2015 Renault Kwid RXT Manual,7
+137,Manual,2nd Owner,Petrol,28854,820999,Bengaluru,2017 Honda WR-V 1.2 i-VTEC VX MT Manual,5
+138,Manual,1st Owner,Petrol,41263,403599,Bengaluru,2013 Ford Figo 1.2 TITANIUM DURATEC Manual,9
+139,Manual,1st Owner,Petrol,70056,599799,Bengaluru,2016 Hyundai Elite i20 SPORTZ 1.2 Manual,6
+140,Manual,1st Owner,Diesel,37548,546599,Bengaluru,2015 Hyundai Xcent SX 1.1 CRDI Manual,7
+141,Manual,1st Owner,Petrol,62255,282999,Bengaluru,2014 Maruti Alto 800 LXI Manual,8
+142,Manual,3rd Owner,Petrol,53541,775499,Bengaluru,2017 Honda City V MT PETROL Manual,5
+143,Manual,2nd Owner,Petrol,25403,501599,Bengaluru,2016 Hyundai Grand i10 SPORTS 1.2 VTVT Manual,6
+144,Manual,1st Owner,Petrol,24977,552499,Bengaluru,2016 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,6
+145,Manual,1st Owner,Petrol,14212,710199,Bengaluru,2018 Maruti Dzire VXI Manual,4
+146,Manual,1st Owner,Petrol,68727,528299,Bengaluru,2019 Hyundai NEW SANTRO 1.1 MAGNA MT Manual,3
+147,Manual,2nd Owner,Petrol,34293,340199,Bengaluru,2016 Maruti Alto K10 VXI OPT Manual,6
+148,Manual,1st Owner,Petrol,42107,502699,Bengaluru,2015 Hyundai Xcent S 1.2 OPT Manual,7
+149,Manual,2nd Owner,Petrol,34437,330099,Bengaluru,2014 Maruti Alto K10 VXI Manual,8
+150,Manual,1st Owner,Petrol,24651,456399,Bengaluru,2019 Maruti Eeco 5 STR WITH AC PLUSHTR Manual,3
+151,Manual,2nd Owner,Petrol,20303,444199,Bengaluru,2016 Maruti Wagon R 1.0 VXI Manual,6
+152,Manual,1st Owner,Petrol,28306,710199,Bengaluru,2018 Maruti Dzire VXI Manual,4
+153,Manual,1st Owner,Petrol,37487,521399,Bengaluru,2014 Hyundai Grand i10 ASTA 1.2 KAPPA VTVT Manual,8
+154,Manual,1st Owner,Petrol,103073,556799,Bengaluru,2015 Hyundai Elite i20 ASTA 1.2 Manual,7
+155,Manual,1st Owner,Petrol,44931,354199,Bengaluru,2014 Maruti Alto K10 VXI Manual,8
+156,Manual,1st Owner,Petrol,41567,524499,Bengaluru,2016 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,6
+157,Manual,1st Owner,Petrol,1660,491499,Bengaluru,2021 Datsun Redi Go T (O) Manual,1
+158,Manual,1st Owner,Petrol,24742,429999,Bengaluru,2018 Hyundai Eon SPORTZ Manual,4
+159,Manual,1st Owner,Petrol,60056,493499,Bengaluru,2014 Maruti Swift VXI Manual,8
+160,Manual,2nd Owner,Petrol,16009,470899,Bengaluru,2019 Maruti Eeco 7 STR Manual,3
+161,Manual,2nd Owner,Petrol,72128,493299,Bengaluru,2016 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,6
+162,Manual,1st Owner,Petrol,8304,488599,Bengaluru,2020 Maruti S PRESSO VXI Manual,2
+163,Manual,1st Owner,Petrol,21740,1623199,Bengaluru,2020 MG HECTOR SMART HYBRID PETROL MT Manual,2
+164,Automatic,3rd Owner,Petrol,53871,667199,Bengaluru,2017 Maruti Baleno ZETA 1.2 K12 AMT Automatic,5
+165,Automatic,3rd Owner,Petrol,14116,516499,Bengaluru,2018 Maruti Wagon R 1.0 VXI AMT Automatic,4
+166,Manual,2nd Owner,Petrol,57052,445499,Bengaluru,2015 Maruti Wagon R 1.0 VXI Manual,7
+167,Manual,2nd Owner,Petrol,42699,410799,Bengaluru,2014 Maruti Wagon R 1.0 VXI Manual,8
+168,Manual,1st Owner,Petrol,9754,424999,Bengaluru,2017 Maruti Alto K10 VXI OPT Manual,5
+169,Manual,1st Owner,Petrol,24905,466599,Bengaluru,2019 Maruti Eeco 5 STR WITH AC PLUSHTR Manual,3
+170,Manual,2nd Owner,Petrol,47294,421399,Bengaluru,2014 Maruti Wagon R 1.0 VXI Manual,8
+171,Manual,1st Owner,Petrol,75304,445499,Bengaluru,2018 Maruti Wagon R 1.0 VXI Manual,4
+172,Automatic,2nd Owner,Diesel,58374,1980499,Bengaluru,2017 Hyundai Tucson New 4WD AT GLS DIESEL Automatic,5
+173,Manual,1st Owner,Diesel,20909,1861799,Bengaluru,2019 MG HECTOR SHARP 2.0 DIESEL Manual,3
+174,Manual,1st Owner,Petrol,80130,252199,Bengaluru,2010 Hyundai i10 MAGNA 1.2 Manual,12
+175,Manual,1st Owner,Petrol,58315,411499,Bengaluru,2011 Hyundai i20 ASTA 1.2 Manual,11
+176,Automatic,1st Owner,Petrol,3702,1323299,Bengaluru,2020 Tata NEXON XZA+ SUNROOF 1.2 RTN Automatic,2
+177,Manual,2nd Owner,Petrol,21844,435799,Bengaluru,2016 Hyundai i10 SPORTZ 1.1 IRDE2 Manual,6
+178,Manual,2nd Owner,Petrol,104409,251599,Bengaluru,2010 Maruti A Star VXI Manual,12
+179,Manual,1st Owner,Petrol,36619,411399,Bengaluru,2015 Hyundai i10 SPORTZ 1.1 IRDE2 Manual,7
+180,Manual,2nd Owner,Petrol,42516,595499,Bengaluru,2016 Maruti Swift Dzire VXI Manual,6
+181,Manual,1st Owner,Petrol,16977,385299,Bengaluru,2016 Renault Kwid RXL Manual,6
+182,Automatic,1st Owner,Petrol,33458,473799,Bengaluru,2013 Honda Brio 1.2 VX AT I VTEC Automatic,9
+183,Manual,1st Owner,Petrol,50033,388199,Bengaluru,2014 Hyundai i10 SPORTZ 1.1 IRDE2 Manual,8
+184,Manual,1st Owner,Petrol,16222,547499,Bengaluru,2017 Tata Tiago XZ 1.2 REVOTRON Manual,5
+185,Manual,2nd Owner,Petrol,64137,510999,Bengaluru,2016 Volkswagen Ameo COMFORTLINE 1.2 Manual,6
+186,Manual,1st Owner,Petrol,19389,523299,Bengaluru,2017 Tata Tiago XM 1.2 REVOTRON Manual,5
+187,Manual,2nd Owner,Petrol,14825,496999,Bengaluru,2017 Tata Tiago XM 1.2 REVOTRON Manual,5
+188,Automatic,2nd Owner,Petrol,28397,1204599,Bengaluru,2019 Hyundai VENUE 1.0 Turbo GDI DCT AT SX+ DT Automatic,3
+189,Manual,3rd Owner,Petrol,38078,300199,Bengaluru,2017 Maruti Alto 800 VXI Manual,5
+190,Manual,1st Owner,Petrol,89104,414499,Bengaluru,2010 Honda City S MT PETROL Manual,12
+191,Manual,2nd Owner,Petrol,41936,514199,Bengaluru,2017 Ford New Figo 1.2 TITANIUM Manual,5
+192,Automatic,1st Owner,Petrol,76006,737599,Bengaluru,2016 Hyundai Verna FLUIDIC 1.6 VTVT SX AT Automatic,6
+193,Manual,1st Owner,Petrol,13696,1058499,Bengaluru,2018 Ford Ecosport 1.5 TITANIUM SIGNATURE TI VCT (SUNROOF) Manual,4
+194,Manual,2nd Owner,Petrol,46716,266099,Bengaluru,2013 Maruti Alto 800 LXI Manual,9
+195,Manual,1st Owner,Diesel,52602,1103999,Bengaluru,2019 Hyundai VENUE SX(O) CRDi Manual,3
+196,Automatic,1st Owner,Petrol,33402,547099,Bengaluru,2016 Maruti Celerio VXI (O) AMT Automatic,6
+197,Automatic,1st Owner,Petrol,20465,469899,Bengaluru,2017 Renault Kwid CLIMBER 1.0 AT Automatic,5
+198,Manual,1st Owner,Petrol,40948,581899,Bengaluru,2017 Maruti Swift VXI Manual,5
+199,Manual,1st Owner,Petrol,60290,1214499,Bengaluru,2019 Hyundai Creta 1.6 SX (O) VTVT Manual,3
+200,Manual,1st Owner,Petrol,33735,873399,Bengaluru,2017 Honda City V MT PETROL Manual,5
+201,Manual,1st Owner,Petrol,62706,432499,Bengaluru,2014 Maruti Celerio VXI Manual,8
+202,Manual,1st Owner,Petrol,28575,432599,Bengaluru,2016 Maruti Wagon R 1.0 VXI Manual,6
+203,Manual,1st Owner,Petrol,18796,804399,Bengaluru,2018 Hyundai Elite i20 ASTA 1.2 Manual,4
+204,Manual,1st Owner,Petrol,30625,528299,Bengaluru,2015 Maruti Swift VXI Manual,7
+205,Manual,1st Owner,Petrol,46350,894899,Bengaluru,2019 Honda City V MT PETROL Manual,3
+206,Manual,1st Owner,Petrol,45622,493499,Bengaluru,2014 Maruti Swift VXI Manual,8
+207,Manual,1st Owner,Petrol,14298,1130599,Bengaluru,2021 Maruti S Cross ZETA SHVS PETROL Manual,1
+208,Manual,2nd Owner,Petrol,13956,714499,Bengaluru,2019 Hyundai Elite i20 1.2 MAGNA PLUS VTVT Manual,3
+209,Manual,2nd Owner,Petrol,42562,427799,Bengaluru,2015 Honda Brio 1.2 S MT I VTEC Manual,7
+210,Automatic,1st Owner,Petrol,151697,386699,Bengaluru,2014 Maruti Celerio VXI AMT Automatic,8
+211,Manual,2nd Owner,Petrol,44701,515599,Bengaluru,2015 Maruti Swift VXI Manual,7
+212,Manual,1st Owner,Petrol,36059,544499,Bengaluru,2016 Hyundai Grand i10 ASTA 1.2 (O) VTVT Manual,6
+213,Manual,1st Owner,Petrol,27053,506299,Bengaluru,2015 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,7
+214,Manual,1st Owner,Petrol,58464,358799,Bengaluru,2016 Renault Kwid RXT Opt Manual,6
+215,Manual,1st Owner,Petrol,37204,335699,Bengaluru,2016 Hyundai Eon ERA PLUS Manual,6
+216,Manual,1st Owner,Petrol,149311,591099,Bengaluru,2015 Ford Ecosport 1.0 ECOBOOST TITANIUM Manual,7
+217,Manual,4th Owner,Petrol,31555,410999,Bengaluru,2014 Hyundai Grand i10 SPORTS 1.2 VTVT Manual,8
+218,Manual,1st Owner,Petrol,20420,625599,Bengaluru,2016 Maruti Baleno DELTA 1.2 K12 Manual,6
+219,Manual,3rd Owner,Petrol,54775,311699,Bengaluru,2014 Hyundai Eon MAGNA PLUS Manual,8
+220,Manual,1st Owner,Petrol,56780,472799,Bengaluru,2014 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,8
+221,Manual,1st Owner,Petrol,32999,316799,Bengaluru,2016 Maruti Alto 800 LXI Manual,6
+222,Manual,2nd Owner,Petrol,93074,507999,Bengaluru,2015 Honda Jazz 1.2 V MT Manual,7
+223,Manual,1st Owner,Petrol,53628,349299,Bengaluru,2012 Maruti Wagon R 1.0 VXI Manual,10
+224,Manual,1st Owner,Petrol,42888,498999,Bengaluru,2013 Hyundai Grand i10 ASTA 1.2 KAPPA VTVT OPT Manual,9
+225,Manual,2nd Owner,Petrol,45873,625599,Bengaluru,2016 Maruti Baleno DELTA 1.2 K12 Manual,6
+226,Automatic,1st Owner,Diesel,69085,769599,Bengaluru,2017 Maruti Dzire ZDI Plus AMT Automatic,5
+227,Manual,1st Owner,Petrol,67054,691799,Bengaluru,2018 Maruti Ciaz DELTA 1.4 VVT Manual,4
+228,Manual,3rd Owner,Petrol,41966,399399,Bengaluru,2014 Honda Brio 1.2 VX MT I VTEC Manual,8
+229,Manual,1st Owner,Petrol,49833,491899,Bengaluru,2015 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,7
+230,Manual,1st Owner,Petrol,61558,583299,Bengaluru,2015 Maruti Baleno DELTA 1.2 K12 Manual,7
+231,Manual,2nd Owner,Petrol,66077,333399,Bengaluru,2014 Maruti Alto K10 VXI Manual,8
+232,Manual,1st Owner,Petrol,9227,484599,Bengaluru,2019 Maruti Eeco 5 STR WITH AC PLUSHTR Manual,3
+233,Manual,1st Owner,Petrol,48843,493499,Bengaluru,2014 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,8
+234,Manual,1st Owner,Petrol,102825,544399,Bengaluru,2017 Maruti IGNIS ALPHA 1.2 K12 DUAL TONE Manual,5
+235,Manual,1st Owner,Petrol,31126,658999,Bengaluru,2017 Maruti Baleno DELTA 1.2 K12 Manual,5
+236,Manual,1st Owner,Petrol,12831,480999,Bengaluru,2019 Maruti Eeco 5 STR WITH AC PLUSHTR Manual,3
+237,Manual,1st Owner,Petrol,81614,355199,Bengaluru,2012 Maruti Wagon R 1.0 VXI Manual,10
+238,Manual,1st Owner,Petrol,58449,400699,Bengaluru,2014 Maruti Wagon R 1.0 VXI Manual,8
+239,Manual,2nd Owner,Petrol,55458,556699,Bengaluru,2018 Hyundai NEW SANTRO ASTA 1.1 MT Manual,4
+240,Manual,1st Owner,Petrol,21214,456299,Bengaluru,2018 Maruti Eeco 5 STR WITH AC PLUSHTR Manual,4
+241,Manual,1st Owner,Petrol,29034,448299,Bengaluru,2018 Maruti Eeco 5 STR WITH AC PLUSHTR Manual,4
+242,Automatic,2nd Owner,Diesel,73825,1665399,Bengaluru,2018 Hyundai Tucson New 2WD AT GLS DIESEL Automatic,4
+243,Manual,1st Owner,Petrol,28255,503499,Bengaluru,2019 Maruti Eeco 5 STR WITH AC PLUSHTR Manual,3
+244,Manual,1st Owner,Petrol,20017,582299,Bengaluru,2019 Volkswagen Polo Trendline 1.0 L Petrol Manual,3
+245,Manual,2nd Owner,Petrol,47292,244999,Bengaluru,2009 Maruti Wagon R LXI Manual,13
+246,Manual,2nd Owner,Petrol,68882,277399,Bengaluru,2015 Datsun Go T Manual,7
+247,Manual,2nd Owner,Petrol,20745,599999,Bengaluru,2019 Maruti New  Wagon-R VXI 1.2L Manual,3
+248,Automatic,1st Owner,Diesel,25164,1366099,Bengaluru,2020 Mahindra XUV 3OO W8 (O) DIESEL  AT Automatic,2
+249,Manual,2nd Owner,Petrol,46558,208499,Bengaluru,2008 Maruti Alto LXI Manual,14
+250,Manual,1st Owner,Diesel,6179,1543999,Bengaluru,2021 KIA SELTOS HTK PLUS 1.5 DIESEL Manual,1
+251,Manual,1st Owner,Diesel,12115,1784699,Bengaluru,2020 Mahindra XUV500 W9 Manual,2
+252,Manual,2nd Owner,Petrol,20439,403899,Bengaluru,2015 Hyundai i10 MAGNA 1.1 IRDE2 Manual,7
+253,Manual,3rd Owner,Petrol,103737,359799,Bengaluru,2008 Toyota Corolla Altis 1.8 GL Manual,14
+254,Manual,2nd Owner,Petrol,40020,511399,Bengaluru,2013 Ford Ecosport 1.5AMBIENTE TI VCT Manual,9
+255,Manual,1st Owner,Petrol,2927,1077199,Bengaluru,2020 Skoda Rapid ACTIVE 1.0 TSI Manual,2
+256,Manual,1st Owner,Diesel,44793,961899,Bengaluru,2019 Renault Duster RXS 85 PS Manual,3
+257,Manual,3rd Owner,Petrol,50569,366199,Bengaluru,2012 Hyundai i20 MAGNA 1.2 VTVT Manual,10
+258,Automatic,1st Owner,Petrol,44061,853699,Bengaluru,2017 Volkswagen Polo GT TSI 1.2 PETROL AT Automatic,5
+259,Manual,1st Owner,Diesel,77654,694599,Bengaluru,2014 Maruti Ertiga VDI ABS Manual,8
+260,Manual,2nd Owner,Petrol,82792,511699,Bengaluru,2014 Volkswagen Polo HIGHLINE1.2L PETROL Manual,8
+261,Manual,2nd Owner,Petrol,30154,590599,Bengaluru,2013 Honda City S MT PETROL Manual,9
+262,Manual,1st Owner,Diesel,18078,1177999,Bengaluru,2019 Hyundai VENUE SX(O) CRDi Manual,3
+263,Manual,2nd Owner,Petrol,67892,652699,Bengaluru,2016 Hyundai Verna FLUIDIC 1.4 VTVT Manual,6
+264,Automatic,1st Owner,Petrol,14171,1250599,Bengaluru,2020 Hyundai VENUE 1.0 TURBO GDI SX+ AT Automatic,2
+265,Automatic,2nd Owner,Petrol,49454,397299,Bengaluru,2013 Hyundai i10 SPORTZ 1.2 AT KAPPA2 Automatic,9
+266,Manual,1st Owner,Diesel,29899,1793499,Bengaluru,2019 Mahindra XUV500 W11 (O) Manual,3
+267,Manual,3rd Owner,Diesel,47240,526599,Bengaluru,2014 Hyundai i20 SPORTZ 1.4 CRDI Manual,8
+268,Manual,1st Owner,Diesel,66715,531199,Bengaluru,2018 Tata Tiago XZ 1.05 REVOTORQ Manual,4
+269,Manual,1st Owner,Petrol,17925,505999,Bengaluru,2016 Volkswagen Ameo TRENDLINE 1.2 Manual,6
+270,Manual,1st Owner,Petrol,86232,384699,Bengaluru,2014 Hyundai i10 SPORTZ 1.1 IRDE2 Manual,8
+271,Manual,1st Owner,Petrol,18906,658399,Bengaluru,2020 Renault TRIBER 1.0 RXL PETROL Manual,2
+272,Manual,3rd Owner,Petrol,38094,249199,Bengaluru,2012 Maruti Alto 800 LXI Manual,10
+273,Manual,1st Owner,Petrol,62844,704499,Bengaluru,2015 Hyundai Verna FLUIDIC 1.6 VTVT S (O)  MT Manual,7
+274,Automatic,2nd Owner,Petrol,13702,269199,Bengaluru,2016 Tata Nano TWIST XTA Automatic,6
+275,Manual,1st Owner,Petrol,34363,636099,Bengaluru,2019 Renault TRIBER 1.0 RXT Manual,3
+276,Manual,1st Owner,Diesel,96948,853099,Bengaluru,2017 Renault Duster RXZ DIESEL 110 Manual,5
+277,Automatic,1st Owner,Diesel,59680,872599,Bengaluru,2018 Maruti Swift ZDI plus AMT Automatic,4
+278,Manual,1st Owner,Diesel,130718,468499,Bengaluru,2012 Maruti Swift Dzire VDI BS IV Manual,10
+279,Manual,2nd Owner,Petrol,34036,337999,Bengaluru,2016 Renault Kwid RXL Manual,6
+280,Manual,1st Owner,Petrol,22029,507499,Bengaluru,2017 Tata Tiago XM 1.2 REVOTRON Manual,5
+281,Automatic,3rd Owner,Diesel,22475,1228299,Bengaluru,2017 Hyundai Creta 1.6 CRDI SX PLUS AUTO Automatic,5
+282,Manual,1st Owner,Petrol,71941,649399,Bengaluru,2016 Honda City SV MT PETROL Manual,6
+283,Automatic,2nd Owner,Petrol,76801,807899,Bengaluru,2016 Volkswagen Vento HIGHLINE 1.2 TSI AT Automatic,6
+284,Manual,2nd Owner,Petrol,23763,689599,Bengaluru,2019 Renault TRIBER 1.0 RXZ Manual,3
+285,Manual,2nd Owner,Petrol,83991,384799,Bengaluru,2011 Hyundai i20 ASTA 1.2 Manual,11
+286,Manual,1st Owner,Petrol,68473,560099,Bengaluru,2012 Honda City V MT PETROL Manual,10
+287,Manual,1st Owner,Petrol,9939,851499,Bengaluru,2020 Hyundai VENUE S MT 1.2 KAPPA Manual,2
+288,Manual,1st Owner,Petrol,32322,1121999,Bengaluru,2019 KIA SELTOS HTK 1.5 PETROL Manual,3
+289,Manual,1st Owner,Petrol,32714,673199,Bengaluru,2015 Honda City SV MT PETROL Manual,7
+290,Manual,1st Owner,Petrol,89706,441599,Bengaluru,2012 Toyota Etios V Manual,10
+291,Manual,2nd Owner,Diesel,61078,1214099,Bengaluru,2017 Mahindra XUV500 W6 4X2 Manual,5
+292,Manual,1st Owner,Diesel,75378,881799,Bengaluru,2014 Mahindra XUV500 W6 4X2 Manual,8
+293,Manual,1st Owner,Diesel,47593,1298399,Bengaluru,2019 KIA SELTOS HTK PLUS 1.5 DIESEL Manual,3
+294,Manual,2nd Owner,Petrol,49634,567399,Bengaluru,2013 Hyundai Verna FLUIDIC 1.6 SX VTVT Manual,9
+295,Manual,2nd Owner,Petrol,77748,474399,Bengaluru,2014 Hyundai i20 SPORTZ 1.2 VTVT Manual,8
+296,Manual,3rd Owner,Petrol,55277,525699,Bengaluru,2012 Honda City V MT PETROL Manual,10
+297,Manual,1st Owner,Petrol,23625,415999,Bengaluru,2016 Maruti Celerio VXI Manual,6
+298,Automatic,2nd Owner,Petrol,99426,1396499,Bengaluru,2016 Skoda Superb 1.8 TSI LK AT Automatic,6
+299,Manual,3rd Owner,Petrol,21739,335499,Bengaluru,2016 Renault Kwid RXL Manual,6
+300,Automatic,2nd Owner,Petrol,11731,561899,Bengaluru,2018 Maruti Celerio VXI (O) AMT Automatic,4
+301,Automatic,2nd Owner,Petrol,15196,551299,Bengaluru,2018 Maruti Celerio ZXI OPT AMT Automatic,4
+302,Manual,1st Owner,Petrol,12731,680999,Bengaluru,2019 Hyundai GRAND I10 NIOS SPORTZ PETROL Manual,3
+303,Manual,1st Owner,Petrol,14463,1114299,Bengaluru,2020 Hyundai VENUE SX 1.0 GDI IMT Manual,2
+304,Automatic,1st Owner,Petrol,34445,716999,Bengaluru,2018 Maruti Swift ZXI AMT Automatic,4
+305,Manual,1st Owner,Petrol,25881,486399,Bengaluru,2014 Hyundai Grand i10 ASTA 1.2 (O) VTVT Manual,8
+306,Manual,2nd Owner,Petrol,13862,396099,Bengaluru,2019 Renault Kwid RXL Manual,3
+307,Manual,1st Owner,Petrol,28391,780799,Bengaluru,2016 Hyundai Verna FLUIDIC 1.6 SX VTVT Manual,6
+308,Automatic,1st Owner,Petrol,32070,481999,Bengaluru,2017 Renault Kwid CLIMBER 1.0 AT Automatic,5
+309,Automatic,3rd Owner,Petrol,24378,471999,Bengaluru,2016 Maruti Celerio ZXI OPT AMT Automatic,6
+310,Manual,2nd Owner,Petrol,23457,599799,Bengaluru,2016 Hyundai Elite i20 SPORTZ 1.2 Manual,6
+311,Manual,1st Owner,Diesel,52728,1255399,Bengaluru,2017 Mahindra XUV500 W6 4X2 Manual,5
+312,Automatic,1st Owner,Petrol,48494,510999,Bengaluru,2013 Honda Brio 1.2 V AT Automatic,9
+313,Automatic,1st Owner,Petrol,25143,296299,Bengaluru,2016 Tata Nano TWIST XTA Automatic,6
+314,Manual,3rd Owner,Petrol,26341,516799,Bengaluru,2017 Tata Tiago XZ 1.2 REVOTRON Manual,5
+315,Manual,1st Owner,Petrol,6851,576799,Bengaluru,2018 Hyundai NEW SANTRO ASTA 1.1 MT Manual,4
+316,Manual,1st Owner,Petrol,19613,658699,Bengaluru,2016 Honda Jazz 1.2 S MT Manual,6
+317,Manual,2nd Owner,Petrol,22914,693999,Bengaluru,2016 Honda Jazz 1.2 V MT Manual,6
+318,Manual,2nd Owner,Petrol,44373,467099,Bengaluru,2014 Honda Amaze 1.2 EXMT I VTEC Manual,8
+319,Automatic,1st Owner,Petrol,21458,1178399,Bengaluru,2019 Hyundai VENUE 1.0 TURBO GDI SX+ AT Automatic,3
+320,Automatic,2nd Owner,Petrol,9782,595699,Bengaluru,2019 Hyundai NEW SANTRO 1.1 SPORTS AMT Automatic,3
+321,Manual,1st Owner,Petrol,32939,573399,Bengaluru,2015 Honda Jazz 1.2 V MT Manual,7
+322,Manual,1st Owner,Diesel,10258,1907999,Bengaluru,2019 MG HECTOR SHARP 2.0 DIESEL Manual,3
+323,Manual,1st Owner,Petrol,97516,591399,Bengaluru,2016 Hyundai Elite i20 SPORTZ 1.2 Manual,6
+324,Automatic,1st Owner,Diesel,93648,1452299,Bengaluru,2017 Mahindra XUV500 W10 AT FWD Automatic,5
+325,Manual,1st Owner,Diesel,67912,1350499,Bengaluru,2018 Mahindra XUV500 W7 FWD Manual,4
+326,Manual,1st Owner,Petrol,16256,727899,Bengaluru,2016 Honda Jazz 1.2 V MT Manual,6
+327,Automatic,3rd Owner,Petrol,77196,445199,Bengaluru,2016 Maruti Celerio ZXI AMT Automatic,6
+328,Automatic,1st Owner,Petrol,35193,714499,Bengaluru,2017 Honda Jazz 1.2 V AT Automatic,5
+329,Automatic,2nd Owner,Petrol,51791,442799,Bengaluru,2014 Nissan Micra XV CVT Automatic,8
+330,Manual,1st Owner,Petrol,43388,508699,Bengaluru,2016 Tata Tiago XM 1.2 REVOTRON Manual,6
+331,Automatic,2nd Owner,Petrol,31704,472799,Bengaluru,2017 Renault Kwid CLIMBER 1.0 AT Automatic,5
+332,Manual,1st Owner,Petrol,23360,593699,Bengaluru,2018 Maruti IGNIS ZETA 1.2 K12 Manual,4
+333,Manual,2nd Owner,Petrol,29343,472699,Bengaluru,2017 Maruti Celerio VXI Manual,5
+334,Manual,2nd Owner,Petrol,69295,515599,Bengaluru,2017 Tata Tiago XZ 1.2 REVOTRON Manual,5
+335,Manual,2nd Owner,Petrol,60696,363799,Bengaluru,2013 Honda Brio 1.2 V MT I VTEC Manual,9
+336,Manual,1st Owner,Petrol,35387,686199,Bengaluru,2016 Hyundai Elite i20 ASTA 1.2 Manual,6
+337,Manual,1st Owner,Petrol,17850,672799,Bengaluru,2018 Ford FREESTYLE TITANIUM 1.2 TI-VCT MT Manual,4
+338,Manual,2nd Owner,Petrol,19669,1189599,Bengaluru,2018 Hyundai Creta 1.6 SX VTVT Manual,4
+339,Manual,1st Owner,Petrol,50343,290799,Bengaluru,2011 Maruti Alto K10 VXI Manual,11
+340,Manual,1st Owner,Petrol,49655,741799,Bengaluru,2016 Honda City V MT PETROL Manual,6
+341,Manual,2nd Owner,Petrol,28693,674599,Bengaluru,2016 Hyundai Elite i20 ASTA 1.2 Manual,6
+342,Manual,1st Owner,Petrol,40344,800499,Bengaluru,2015 Honda City VX MT PETROL Manual,7
+343,Manual,1st Owner,Petrol,58724,535899,Bengaluru,2017 Tata Tiago XZ 1.2 REVOTRON Manual,5
+344,Manual,2nd Owner,Petrol,61156,454599,Bengaluru,2018 Maruti Celerio ZXI Manual,4
+345,Manual,1st Owner,Petrol,65391,430699,Bengaluru,2016 Maruti Celerio VXI Manual,6
+346,Manual,1st Owner,Petrol,62316,669199,Bengaluru,2016 Honda Jazz 1.2 V MT Manual,6
+347,Automatic,2nd Owner,Petrol,21790,474199,Bengaluru,2018 Renault Kwid CLIMBER 1.0 AT Automatic,4
+348,Manual,1st Owner,Petrol,56725,461399,Bengaluru,2016 Maruti Celerio VXI Manual,6
+349,Manual,1st Owner,Petrol,28777,976099,Bengaluru,2019 Maruti Ciaz ALPHA 1.5 MT VTVT SHVS Manual,3
+350,Automatic,1st Owner,Petrol,4682,791899,Bengaluru,2019 Maruti Dzire VXI AMT Automatic,3
+351,Manual,1st Owner,Petrol,5423,1140699,Bengaluru,2021 Maruti S Cross ZETA SHVS PETROL Manual,1
+352,Manual,1st Owner,Petrol,24316,771399,Bengaluru,2018 Hyundai Elite i20 ASTA 1.2 (O) Manual,4
+353,Manual,1st Owner,Petrol,37791,663399,Bengaluru,2018 Ford FREESTYLE TITANIUM 1.2 TI-VCT MT Manual,4
+354,Automatic,1st Owner,Petrol,84257,414399,Bengaluru,2015 Maruti Celerio VXI AMT Automatic,7
+355,Automatic,2nd Owner,Petrol,40687,444799,Bengaluru,2018 Renault Kwid CLIMBER 1.0 AT Automatic,4
+356,Manual,1st Owner,Diesel,28177,947599,Bengaluru,2018 Maruti Vitara Brezza ZDI PLUS Manual,4
+357,Manual,3rd Owner,Petrol,31225,589099,Bengaluru,2017 Hyundai Grand i10 ASTA 1.2 VTVT Manual,5
+358,Manual,1st Owner,Petrol,28074,495199,Bengaluru,2014 Hyundai Grand i10 ASTA 1.2 KAPPA VTVT Manual,8
+359,Manual,1st Owner,Petrol,59865,302399,Bengaluru,2011 Ford Figo 1.2 ZXI DURATEC Manual,11
+360,Automatic,1st Owner,Petrol,32760,747599,Bengaluru,2017 Honda Jazz 1.2 V AT Automatic,5
+361,Automatic,1st Owner,Petrol,81527,566199,Bengaluru,2015 Honda Jazz 1.2 S AT Automatic,7
+362,Manual,2nd Owner,Petrol,39323,315999,Bengaluru,2017 Maruti Alto 800 VXI Manual,5
+363,Manual,2nd Owner,Petrol,44580,670099,Bengaluru,2016 Hyundai Elite i20 ASTA 1.2 (O) Manual,6
+364,Manual,2nd Owner,Petrol,72706,508699,Bengaluru,2016 Maruti Swift VXI Manual,6
+365,Manual,2nd Owner,Petrol,46539,834499,Bengaluru,2017 Honda City VX MT PETROL Manual,5
+366,Manual,1st Owner,Petrol,8331,565499,Bengaluru,2018 Hyundai NEW SANTRO ASTA 1.1 MT Manual,4
+367,Manual,2nd Owner,Petrol,26721,674599,Bengaluru,2018 Ford FREESTYLE TITANIUM 1.2 TI-VCT MT Manual,4
+368,Automatic,1st Owner,Diesel,84534,1346099,Bengaluru,2017 Tata Hexa Varicor 400 XTA Automatic,5
+369,Manual,2nd Owner,Petrol,75937,573199,Bengaluru,2016 Honda Jazz 1.2 S MT Manual,6
+370,Manual,1st Owner,Petrol,19876,544199,Bengaluru,2017 Hyundai Grand i10 SPORTS 1.2 VTVT Manual,5
+371,Manual,1st Owner,Petrol,30381,493499,Bengaluru,2014 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,8
+372,Manual,1st Owner,Petrol,19659,614399,Bengaluru,2017 Hyundai Xcent SX 1.2 Manual,5
+373,Manual,1st Owner,Petrol,31020,740999,Bengaluru,2017 Maruti Baleno ALPHA 1.2 K12 Manual,5
+374,Manual,2nd Owner,Petrol,27651,771399,Bengaluru,2018 Hyundai Elite i20 ASTA 1.2 (O) Manual,4
+375,Manual,1st Owner,Petrol,54182,304099,Bengaluru,2015 Hyundai Eon D LITE PLUS Manual,7
+376,Manual,1st Owner,Petrol,27229,637599,Bengaluru,2020 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,2
+377,Automatic,1st Owner,Petrol,20352,640399,Bengaluru,2020 Hyundai NEW SANTRO 1.1 SPORTS AMT Automatic,2
+378,Manual,2nd Owner,Petrol,35352,501599,Bengaluru,2016 Hyundai Grand i10 SPORTS 1.2 VTVT Manual,6
+379,Manual,1st Owner,Petrol,58292,661899,Bengaluru,2015 Hyundai Elite i20 ASTA 1.2 Manual,7
+380,Automatic,2nd Owner,Diesel,40081,967299,Bengaluru,2018 Maruti Vitara Brezza ZDI + AMT Automatic,4
+381,Manual,2nd Owner,Petrol,44796,600499,Bengaluru,2017 Hyundai Xcent SX 1.2 Manual,5
+382,Manual,1st Owner,Petrol,6057,950999,Bengaluru,2018 Toyota YARIS V MT Manual,4
+383,Manual,1st Owner,Petrol,75118,569799,Bengaluru,2016 Hyundai Elite i20 SPORTZ 1.2 Manual,6
+384,Manual,1st Owner,Petrol,9351,717399,Bengaluru,2018 Ford FREESTYLE TITANIUM 1.2 TI-VCT MT Manual,4
+385,Manual,2nd Owner,Petrol,12518,505199,Bengaluru,2016 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,6
+386,Manual,1st Owner,Petrol,30842,900699,Bengaluru,2019 Ford Ecosport 1.5 TITANIUM TI VCT Manual,3
+387,Manual,1st Owner,Diesel,57431,853599,Bengaluru,2017 Maruti Vitara Brezza ZDI Manual,5
+388,Manual,1st Owner,Petrol,48066,434499,Bengaluru,2016 Hyundai i10 SPORTZ 1.1 IRDE2 Manual,6
+389,Manual,1st Owner,Petrol,63580,302099,Bengaluru,2012 Maruti Alto K10 VXI Manual,10
+390,Manual,1st Owner,Petrol,167730,346499,Bengaluru,2014 Maruti Celerio VXI Manual,8
+391,Manual,2nd Owner,Petrol,20631,497199,Bengaluru,2015 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,7
+392,Manual,3rd Owner,Petrol,27828,315999,Bengaluru,2017 Maruti Alto 800 VXI Manual,5
+393,Manual,1st Owner,Petrol,63216,323599,Bengaluru,2015 Hyundai Eon MAGNA PLUS Manual,7
+394,Manual,2nd Owner,Petrol,23413,496199,Bengaluru,2015 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,7
+395,Manual,3rd Owner,Petrol,56780,637499,Bengaluru,2016 Hyundai i20 Active 1.2 SX Manual,6
+396,Automatic,2nd Owner,Petrol,43353,755099,Bengaluru,2016 Ford Ecosport 1.5 TITANIUM TI VCT AT Automatic,6
+397,Manual,2nd Owner,Petrol,41252,385799,Bengaluru,2018 Renault Kwid RXL Manual,4
+398,Manual,2nd Owner,Petrol,30161,349599,Bengaluru,2014 Nissan Micra Active XV Manual,8
+399,Manual,1st Owner,Petrol,35949,708299,Bengaluru,2018 Maruti Dzire VXI Manual,4
+400,Manual,1st Owner,Petrol,21758,895299,Bengaluru,2017 Honda City V MT PETROL Manual,5
+401,Manual,1st Owner,Petrol,44982,476699,Bengaluru,2014 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,8
+402,Manual,1st Owner,Petrol,34071,520499,Bengaluru,2015 Hyundai Xcent S 1.2 Manual,7
+403,Manual,2nd Owner,Petrol,12657,623199,Bengaluru,2015 Hyundai i20 Active 1.2 S Manual,7
+404,Manual,2nd Owner,Petrol,22899,697099,Bengaluru,2018 Maruti Dzire VXI Manual,4
+405,Manual,1st Owner,Petrol,1073,510099,Bengaluru,2021 Maruti S PRESSO VXI Manual,1
+406,Manual,1st Owner,Petrol,29235,333699,Bengaluru,2017 Maruti Alto 800 LXI Manual,5
+407,Manual,1st Owner,Petrol,19532,522099,Bengaluru,2019 Hyundai NEW SANTRO SPORTZ 1.1 Manual,3
+408,Manual,2nd Owner,Petrol,38756,445299,Bengaluru,2016 Maruti Wagon R 1.0 VXI Manual,6
+409,Manual,1st Owner,Petrol,90192,612499,Bengaluru,2017 Maruti Dzire VXI Manual,5
+410,Manual,2nd Owner,Petrol,30170,676799,Bengaluru,2018 Maruti Dzire ZXI Manual,4
+411,Manual,1st Owner,Petrol,31187,419699,Bengaluru,2016 Maruti Wagon R 1.0 VXI Manual,6
+412,Automatic,2nd Owner,Petrol,21535,414899,Bengaluru,2016 Maruti Alto K10 VXI AMT Automatic,6
+413,Manual,1st Owner,Petrol,53732,470799,Bengaluru,2014 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,8
+414,Manual,1st Owner,Diesel,64010,1113599,Bengaluru,2017 Maruti S Cross ALPHA SHVS Manual,5
+415,Manual,1st Owner,Petrol,55122,309099,Bengaluru,2012 Maruti Alto K10 VXI Manual,10
+416,Manual,1st Owner,Petrol,29328,539099,Bengaluru,2016 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,6
+417,Manual,2nd Owner,Petrol,39231,638999,Bengaluru,2017 Hyundai i20 Active 1.2 S Manual,5
+418,Manual,1st Owner,Petrol,41287,697099,Bengaluru,2018 Maruti Dzire VXI Manual,4
+419,Manual,2nd Owner,Petrol,59043,635599,Bengaluru,2016 Maruti Baleno ZETA 1.2 K12 Manual,6
+420,Manual,1st Owner,Petrol,5937,1462399,Bengaluru,2021 Honda City ZX MT PETROL Manual,1
+421,Manual,2nd Owner,Diesel,147197,650199,Bengaluru,2016 Maruti S Cross ZETA 1.3 Manual,6
+422,Manual,1st Owner,Petrol,48418,356599,Bengaluru,2016 Maruti Alto K10 VXI Manual,6
+423,Manual,1st Owner,Petrol,44961,387999,Bengaluru,2013 Maruti Wagon R 1.0 VXI Manual,9
+424,Manual,1st Owner,Petrol,41590,517699,Bengaluru,2015 Hyundai Grand i10 ASTA 1.2 KAPPA VTVT Manual,7
+425,Manual,2nd Owner,Petrol,37149,510499,Bengaluru,2015 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,7
+426,Automatic,1st Owner,Petrol,5967,466299,Bengaluru,2018 Maruti Alto K10 VXI (O) AMT Automatic,4
+427,Manual,2nd Owner,Diesel,103993,310199,Bengaluru,2012 Ford Figo 1.4 EXI DURATORQ Manual,10
+428,Manual,1st Owner,Petrol,71937,657899,Bengaluru,2018 Maruti Dzire VXI Manual,4
+429,Automatic,3rd Owner,Petrol,27506,393399,Bengaluru,2016 Maruti Alto K10 VXI AMT Automatic,6
+430,Manual,2nd Owner,Petrol,38278,414599,Bengaluru,2016 Maruti Wagon R 1.0 VXI Manual,6
+431,Manual,1st Owner,Petrol,61184,486199,Bengaluru,2015 Hyundai Grand i10 ASTA 1.2 KAPPA VTVT Manual,7
+432,Manual,2nd Owner,Petrol,74625,372299,Bengaluru,2016 Maruti Wagon R 1.0 VXI Manual,6
+433,Manual,1st Owner,Petrol,72744,544499,Bengaluru,2016 Hyundai Grand i10 ASTA 1.2 (O) VTVT Manual,6
+434,Manual,2nd Owner,Petrol,34922,658999,Bengaluru,2017 Maruti Baleno DELTA 1.2 K12 Manual,5
+435,Manual,1st Owner,Petrol,21706,421699,Bengaluru,2015 Maruti Wagon R 1.0 VXI Manual,7
+436,Manual,1st Owner,Petrol,27380,372999,Bengaluru,2016 Maruti Alto K10 VXI Manual,6
+437,Manual,2nd Owner,Petrol,34568,535399,Bengaluru,2017 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,5
+438,Manual,1st Owner,Petrol,60859,354199,Bengaluru,2014 Maruti Alto K10 VXI Manual,8
+439,Manual,2nd Owner,Petrol,22694,345399,Bengaluru,2015 Maruti Alto K10 VXI Manual,7
+440,Manual,1st Owner,Petrol,13483,499399,Bengaluru,2018 Maruti Wagon R 1.0 VXI Manual,4
+441,Manual,3rd Owner,Petrol,35833,488199,Bengaluru,2018 Hyundai Grand i10 MAGNA 1.2 KAPPA VTVT Manual,4
+442,Automatic,2nd Owner,Petrol,39595,408299,Bengaluru,2016 Maruti Alto K10 VXI AMT Automatic,6
+443,Manual,1st Owner,Petrol,31238,449899,Bengaluru,2015 Maruti Wagon R 1.0 VXI Manual,7
+444,Manual,1st Owner,Petrol,30889,516799,Bengaluru,2018 Maruti Wagon R 1.0 VXI Manual,4
+445,Manual,2nd Owner,Petrol,15226,373399,Bengaluru,2019 Maruti Alto K10 VXI Manual,3
+446,Manual,1st Owner,Petrol,49166,332799,Bengaluru,2014 Maruti Alto K10 VXI Manual,8
+447,Manual,1st Owner,Petrol,39815,502599,Bengaluru,2020 Maruti S PRESSO VXI PLUS Manual,2
+448,Manual,2nd Owner,Petrol,30122,348399,Bengaluru,2017 Maruti Alto 800 LXI Manual,5
+449,Manual,1st Owner,Petrol,49896,360399,Bengaluru,2017 Maruti Alto K10 VXI Manual,5
+450,Manual,1st Owner,Petrol,10885,423599,Bengaluru,2018 Maruti Alto K10 VXI Manual,4
+451,Manual,1st Owner,Petrol,50444,433399,Bengaluru,2015 Maruti Wagon R 1.0 VXI Manual,7
+452,Manual,1st Owner,Petrol,32381,424799,Bengaluru,2018 Maruti Eeco 5 STR WITH AC PLUSHTR Manual,4
+453,Manual,1st Owner,Petrol,47077,428999,Bengaluru,2014 Maruti Wagon R 1.0 VXI Manual,8
+454,Automatic,1st Owner,Petrol,59673,887399,Bengaluru,2018 Toyota YARIS V CVT Automatic,4
+455,Manual,1st Owner,Petrol,8240,433399,Bengaluru,2020 Maruti Alto VXI PLUS Manual,2
+456,Manual,2nd Owner,Petrol,20218,400099,Bengaluru,2017 Maruti Alto K10 VXI OPT Manual,5
+457,Manual,2nd Owner,Petrol,51555,393899,Bengaluru,2014 Maruti Wagon R 1.0 VXI Manual,8
+458,Automatic,1st Owner,Petrol,15138,458799,Bengaluru,2017 Maruti Alto K10 VXI (O) AMT Automatic,5
+459,Manual,1st Owner,Petrol,38092,435199,Bengaluru,2018 Maruti Eeco 5 STR WITH AC PLUSHTR Manual,4
+460,Manual,1st Owner,Petrol,47744,408199,Bengaluru,2013 Maruti Wagon R 1.0 VXI Manual,9
+461,Manual,2nd Owner,Petrol,35560,349499,Bengaluru,2017 Maruti Alto 800 VXI Manual,5
+462,Manual,2nd Owner,Petrol,44771,422399,Bengaluru,2014 Maruti Wagon R 1.0 VXI Manual,8
+463,Automatic,1st Owner,Petrol,9025,509199,Bengaluru,2019 Maruti Alto K10 VXI AMT Automatic,3
+464,Manual,2nd Owner,Petrol,8673,428799,Bengaluru,2018 Maruti Alto K10 VXI Manual,4
+465,Manual,1st Owner,Petrol,37967,422499,Bengaluru,2019 Maruti S PRESSO VXI Manual,3
+466,Manual,2nd Owner,Petrol,70052,409999,Bengaluru,2015 Maruti Wagon R 1.0 VXI Manual,7
+467,Manual,1st Owner,Petrol,44090,333699,Bengaluru,2017 Maruti Alto 800 LXI Manual,5
+468,Manual,1st Owner,Petrol,30178,412199,Bengaluru,2018 Maruti Alto K10 VXI Manual,4
+469,Manual,2nd Owner,Petrol,37065,323199,Bengaluru,2018 Maruti Alto 800 VXI Manual,4
+470,Manual,1st Owner,Petrol,42804,345899,Bengaluru,2017 Maruti Alto 800 LXI Manual,5
+471,Manual,2nd Owner,Petrol,22085,473999,Bengaluru,2019 Maruti Eeco 5 STR WITH AC PLUSHTR Manual,3
+472,Manual,1st Owner,Petrol,12428,419799,Bengaluru,2020 Maruti Alto LXI Manual,2
+473,Manual,2nd Owner,Petrol,8062,460199,Bengaluru,2021 Maruti Alto VXI PLUS Manual,1
+474,Manual,1st Owner,Petrol,8920,485999,Bengaluru,2019 Maruti Eeco 7 STR Manual,3
+475,Manual,1st Owner,Petrol,21723,418699,Bengaluru,2018 Maruti Alto K10 VXI Manual,4

@@ -1,0 +1,530 @@
+,Transimission_Type,Ownership,Fuel_Used,km_driven,selling_price,Place of Origin,Complete_Info,Age
+0,Manual,2nd Owner,Petrol,64587,226499,Chennai,2009 Hyundai i10 MAGNA 1.2 Manual,13
+1,Manual,2nd Owner,Petrol,20572,639299,Chennai,2018 Volkswagen Polo COMFORTLINE 1.0 PETROL Manual,4
+2,Manual,2nd Owner,Petrol,32730,469099,Chennai,2016 Tata Tiago XZ 1.2 REVOTRON Manual,6
+3,Manual,1st Owner,Petrol,7238,708799,Chennai,2019 Honda Jazz VX  1.2 Manual,3
+4,Automatic,1st Owner,Petrol,4798,789899,Chennai,2021 Hyundai GRAND I10 NIOS SPORTZ 1.2 AT Automatic,1
+5,Manual,1st Owner,Petrol,20731,846599,Chennai,2020 Volkswagen Polo HIGH LINE PLUS 1.0 Manual,2
+6,Manual,1st Owner,Petrol,63251,338199,Chennai,2014 Hyundai i10 MAGNA 1.1 IRDE2 Manual,8
+7,Manual,1st Owner,Petrol,33754,718299,Chennai,2016 Honda City V MT PETROL Manual,6
+8,Manual,1st Owner,Petrol,25255,610499,Chennai,2017 Hyundai Elite i20 SPORTZ 1.2 Manual,5
+9,Manual,1st Owner,Petrol,7652,488299,Chennai,2020 Maruti Celerio Tour H2 Manual,2
+10,Manual,1st Owner,Petrol,4352,504299,Chennai,2021 Renault Kwid 1.0 RXT Opt Manual,1
+11,Manual,1st Owner,Petrol,69230,484899,Chennai,2016 Volkswagen Polo COMFORTLINE 1.2L PETROL Manual,6
+12,Manual,1st Owner,Petrol,24834,1019699,Chennai,2019 Hyundai VENUE 1.0L Turbo GDI SX(O) MT Manual,3
+13,Manual,1st Owner,Petrol,29838,762199,Chennai,2020 Tata ALTROZ XZ 1.2 Manual,2
+14,Manual,1st Owner,Petrol,8600,881199,Chennai,2020 Hyundai VENUE S MT 1.2 KAPPA Manual,2
+15,Manual,1st Owner,Petrol,32442,386299,Chennai,2014 Maruti Celerio VXI Manual,8
+16,Automatic,1st Owner,Petrol,32429,731899,Chennai,2019 Maruti Swift VXI AMT Automatic,3
+17,Automatic,1st Owner,Petrol,20618,493299,Chennai,2019 Renault Kwid CLIMBER 1.0 AT Automatic,3
+18,Manual,1st Owner,Petrol,11812,850099,Chennai,2017 Hyundai Verna 1.6 SX VTVT Manual,5
+19,Manual,1st Owner,Petrol,14656,848899,Chennai,2021 Hyundai VENUE S MT 1.2 KAPPA Manual,1
+20,Manual,1st Owner,Petrol,14365,562199,Chennai,2018 Maruti Swift LXI Manual,4
+21,Manual,1st Owner,Petrol,54157,589299,Chennai,2019 Maruti Swift LXI Manual,3
+22,Manual,1st Owner,Petrol,19953,562099,Chennai,2017 Maruti Swift VXI OPT Manual,5
+23,Manual,1st Owner,Petrol,7573,936499,Chennai,2021 Maruti Vitara Brezza VXI Manual,1
+24,Manual,1st Owner,Petrol,10732,688299,Chennai,2020 Hyundai GRAND I10 NIOS SPORTZ PETROL Manual,2
+25,Manual,2nd Owner,Diesel,87566,414099,Chennai,2014 Volkswagen Polo TRENDLINE 1.5L DIESEL Manual,8
+26,Manual,1st Owner,Petrol,43569,324999,Chennai,2012 Honda Brio 1.2 E MT I VTEC Manual,10
+27,Manual,1st Owner,Diesel,34502,2268199,Chennai,2019 Jeep Compass LIMITED PLUS 2.0 4*4 Manual,3
+28,Manual,1st Owner,Petrol,23338,574899,Chennai,2017 Honda Amaze 1.2 SMT I VTEC Manual,5
+29,Manual,1st Owner,Petrol,32620,565699,Chennai,2016 Maruti Swift VXI OPT Manual,6
+30,Manual,1st Owner,Petrol,15526,970599,Chennai,2019 Honda City V MT PETROL Manual,3
+31,Manual,1st Owner,Diesel,75846,580599,Chennai,2017 Maruti Swift VDI ABS Manual,5
+32,Automatic,1st Owner,Petrol,20417,1371399,Chennai,2020 Honda City VX CVT PETROL Automatic,2
+33,Manual,1st Owner,Petrol,25112,690099,Chennai,2016 Ford Ecosport 1.5 TITANIUM TI VCT Manual,6
+34,Automatic,1st Owner,Petrol,14372,671299,Chennai,2017 Maruti Dzire ZXI AMT Automatic,5
+35,Manual,2nd Owner,Petrol,34714,425599,Chennai,2014 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,8
+36,Manual,1st Owner,Diesel,277250,1504999,Chennai,2016 Toyota Innova Crysta 2.4 ZX 7 STR Manual,6
+37,Automatic,1st Owner,Petrol,73966,475499,Chennai,2016 Maruti Celerio ZXI OPT AMT Automatic,6
+38,Automatic,1st Owner,Diesel,58464,899099,Chennai,2018 Maruti Vitara Brezza ZDI + AMT Automatic,4
+39,Manual,2nd Owner,Diesel,85464,652899,Chennai,2016 Hyundai Elite i20 1.4 CRDI ASTA (O) Manual,6
+40,Manual,2nd Owner,Petrol,68194,528599,Chennai,2019 Tata Tiago XZ+ 1.2 Revotron Manual,3
+41,Manual,1st Owner,Diesel,120225,445299,Chennai,2013 Maruti Swift Dzire VDI BS IV Manual,9
+42,Manual,2nd Owner,Petrol,51079,464899,Chennai,2015 Maruti Swift VXI Manual,7
+43,Manual,1st Owner,Diesel,162740,432499,Chennai,2013 Maruti Swift Dzire VDI BS IV Manual,9
+44,Manual,1st Owner,Petrol,38695,562399,Chennai,2017 Maruti Swift VXI Manual,5
+45,Manual,1st Owner,Petrol,45838,294699,Chennai,2016 Hyundai Eon ERA PLUS (O) Manual,6
+46,Manual,1st Owner,Petrol,78914,362999,Chennai,2012 Honda Brio 1.2 V MT I VTEC Manual,10
+47,Manual,2nd Owner,Petrol,30007,560499,Chennai,2016 Maruti Swift VXI OPT Manual,6
+48,Manual,1st Owner,Petrol,38084,637099,Chennai,2020 Hyundai GRAND I10 NIOS 1.2 Kappa Sports MT Manual,2
+49,Manual,2nd Owner,Petrol,42875,291599,Chennai,2014 Hyundai Eon MAGNA PLUS Manual,8
+50,Manual,1st Owner,Petrol,16361,579499,Chennai,2018 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,4
+51,Manual,1st Owner,Petrol,57811,248099,Chennai,2014 Maruti Alto 800 LXI Manual,8
+52,Manual,1st Owner,Petrol,39895,274799,Chennai,2015 Maruti Alto 800 LXI Manual,7
+53,Manual,1st Owner,Petrol,10977,920499,Chennai,2020 Maruti Ciaz DELTA 1.5 SHVS VVT MT Manual,2
+54,Manual,1st Owner,Petrol,40077,292299,Chennai,2015 Maruti Alto 800 LXI Manual,7
+55,Manual,1st Owner,Diesel,68166,436499,Chennai,2013 Maruti Swift VDI Manual,9
+56,Manual,2nd Owner,Petrol,16179,446799,Chennai,2016 Hyundai Grand i10 MAGNA 1.2 KAPPA VTVT Manual,6
+57,Manual,2nd Owner,Petrol,42423,269399,Chennai,2015 Maruti Alto 800 VXI Manual,7
+58,Automatic,1st Owner,Petrol,130482,372999,Chennai,2015 Maruti Celerio VXI AMT Automatic,7
+59,Manual,1st Owner,Diesel,75080,605699,Chennai,2014 Hyundai Elite i20 ASTA 1.4 CRDI Manual,8
+60,Manual,3rd Owner,Petrol,62059,491599,Chennai,2016 Maruti Swift VXI Manual,6
+61,Manual,1st Owner,Diesel,85486,704699,Chennai,2016 Maruti Vitara Brezza VDI Manual,6
+62,Manual,1st Owner,Petrol,76710,440599,Chennai,2017 Maruti Celerio ZXI Manual,5
+63,Automatic,1st Owner,Petrol,51433,598499,Chennai,2016 Honda Jazz 1.2 V AT Automatic,6
+64,Automatic,1st Owner,Petrol,8950,1828499,Chennai,2020 MG HECTOR SHARP DCT PETROL Automatic,2
+65,Manual,1st Owner,Petrol,22713,774699,Chennai,2019 Honda Jazz 1.2 V MT Manual,3
+66,Manual,1st Owner,Petrol,29895,708999,Chennai,2018 Maruti Dzire ZXI Manual,4
+67,Manual,1st Owner,Petrol,51034,864299,Chennai,2017 Honda City V MT PETROL Manual,5
+68,Manual,3rd Owner,Petrol,58054,505399,Chennai,2015 Maruti Swift VXI Manual,7
+69,Manual,1st Owner,Petrol,12926,1035799,Chennai,2019 Ford Ecosport 1.0 ECOBOOST TITANIUM SPORTS(SUNROOF) Manual,3
+70,Manual,3rd Owner,Petrol,80042,545499,Chennai,2015 Honda City V MT PETROL Manual,7
+71,Manual,1st Owner,Diesel,52121,1415399,Chennai,2018 Jeep Compass 2.0 LIMITED Manual,4
+72,Manual,1st Owner,Petrol,38791,311499,Chennai,2015 Hyundai Eon ERA PLUS Manual,7
+73,Manual,2nd Owner,Petrol,36723,308199,Chennai,2017 Maruti Alto K10 VXI Manual,5
+74,Manual,1st Owner,Petrol,8486,565099,Chennai,2020 Hyundai NEW SANTRO SPORTZ 1.1 Manual,2
+75,Manual,2nd Owner,Petrol,47438,271499,Chennai,2015 Maruti Alto 800 LXI Manual,7
+76,Manual,1st Owner,Petrol,37837,610499,Chennai,2017 Hyundai Elite i20 SPORTZ 1.2 Manual,5
+77,Manual,1st Owner,Petrol,30457,389899,Chennai,2014 Maruti Wagon R 1.0 VXI Manual,8
+78,Manual,1st Owner,Petrol,9142,367499,Chennai,2018 Hyundai Eon ERA PLUS Manual,4
+79,Manual,1st Owner,Diesel,86672,755199,Chennai,2016 Maruti Ertiga VDI SHVS Manual,6
+80,Manual,1st Owner,Petrol,41068,580699,Chennai,2016 Maruti Baleno ZETA 1.2 K12 Manual,6
+81,Manual,1st Owner,Petrol,25303,601399,Chennai,2017 Honda Jazz 1.2 S MT Manual,5
+82,Manual,1st Owner,Petrol,41835,424599,Chennai,2015 Hyundai Grand i10 MAGNA 1.2 VTVT Manual,7
+83,Automatic,1st Owner,Diesel,51654,671099,Chennai,2017 Maruti Dzire VDI AMT Automatic,5
+84,Automatic,1st Owner,Diesel,18527,2314599,Chennai,2019 Hyundai Tucson New 2WD AT GL DIESEL Automatic,3
+85,Manual,2nd Owner,Diesel,32683,1118899,Chennai,2018 Mahindra MARAZZO M8 7 STR Manual,4
+86,Manual,1st Owner,Petrol,40578,691499,Chennai,2019 Honda Jazz 1.2 V MT Manual,3
+87,Manual,1st Owner,Petrol,13792,686299,Chennai,2018 Maruti Dzire VXI Manual,4
+88,Manual,2nd Owner,Petrol,20718,363099,Chennai,2016 Maruti Alto K10 VXI Manual,6
+89,Manual,1st Owner,Petrol,11255,701399,Chennai,2019 Maruti Baleno DELTA 1.2 K12 Manual,3
+90,Automatic,1st Owner,Petrol,47742,1569399,Chennai,2018 Jeep Compass LIMITED O 1.4 AT Automatic,4
+91,Manual,1st Owner,Petrol,38720,300099,Chennai,2019 Datsun Redi Go A Manual,3
+92,Manual,2nd Owner,Petrol,65341,446199,Chennai,2014 Hyundai Grand i10 ASTA 1.2 KAPPA VTVT Manual,8
+93,Manual,1st Owner,Petrol,20302,619299,Chennai,2019 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,3
+94,Manual,1st Owner,Petrol,31348,396299,Chennai,2014 Maruti Wagon R 1.0 VXI Manual,8
+95,Automatic,1st Owner,Petrol,60475,692299,Chennai,2020 Hyundai GRAND I10 NIOS MAGNA 1.2 AT Automatic,2
+96,Manual,3rd Owner,Petrol,64481,665699,Chennai,2016 Hyundai i20 Active 1.2 SX Manual,6
+97,Manual,1st Owner,Petrol,18811,418799,Chennai,2018 Maruti Eeco 5 STR WITH AC PLUSHTR Manual,4
+98,Automatic,2nd Owner,Petrol,17535,598299,Chennai,2019 Hyundai NEW SANTRO 1.1 SPORTS AMT Automatic,3
+99,Manual,1st Owner,Petrol,72412,325499,Chennai,2018 Maruti Alto 800 VXI Manual,4
+100,Manual,1st Owner,Petrol,43472,621699,Chennai,2017 Maruti Baleno ZETA 1.2 K12 Manual,5
+101,Manual,2nd Owner,Petrol,88557,446499,Chennai,2015 Hyundai Grand i10 ASTA 1.2 KAPPA VTVT Manual,7
+102,Automatic,1st Owner,Petrol,22941,606599,Chennai,2017 Hyundai Grand i10 SPORTZ (O) 1.2 AT VTVT Automatic,5
+103,Manual,1st Owner,Petrol,20453,830399,Chennai,2018 Ford Ecosport 1.5 TITANIUM TI VCT Manual,4
+104,Manual,1st Owner,Petrol,31841,466099,Chennai,2016 Maruti Wagon R 1.0 VXI Manual,6
+105,Manual,1st Owner,Diesel,84200,827699,Chennai,2017 Maruti Vitara Brezza ZDI PLUS DUAL TONE Manual,5
+106,Manual,2nd Owner,Petrol,23666,308799,Chennai,2016 Maruti Alto 800 LXI Manual,6
+107,Manual,1st Owner,Petrol,3105,542799,Chennai,2019 Maruti Celerio VXI Manual,3
+108,Manual,1st Owner,Petrol,56043,610499,Chennai,2017 Hyundai Elite i20 SPORTZ 1.2 Manual,5
+109,Manual,1st Owner,Petrol,22677,357899,Chennai,2017 Hyundai Eon ERA PLUS (O) Manual,5
+110,Manual,1st Owner,Petrol,23281,1182299,Chennai,2020 Toyota YARIS V MT Manual,2
+111,Automatic,1st Owner,Petrol,65905,723799,Chennai,2018 Honda Jazz 1.2 V AT Automatic,4
+112,Manual,2nd Owner,Diesel,43715,749699,Chennai,2017 Maruti S Cross ZETA 1.3 Manual,5
+113,Manual,1st Owner,Petrol,31355,349799,Chennai,2017 Hyundai Eon ERA PLUS Manual,5
+114,Manual,1st Owner,Petrol,19359,548699,Chennai,2018 Maruti IGNIS DELTA 1.2 K12 Manual,4
+115,Automatic,1st Owner,Petrol,88268,479699,Chennai,2017 Maruti Celerio ZXI AMT Automatic,5
+116,Automatic,2nd Owner,Petrol,78053,579299,Chennai,2017 Hyundai Grand i10 SPORTZ (O) 1.2 AT VTVT Automatic,5
+117,Automatic,2nd Owner,Petrol,37180,409899,Chennai,2015 Maruti Celerio VXI AMT Automatic,7
+118,Manual,1st Owner,Petrol,35038,310299,Chennai,2014 Maruti Alto K10 VXI Manual,8
+119,Manual,2nd Owner,Petrol,5310,461199,Chennai,2019 Maruti Eeco 5 STR WITH AC PLUSHTR Manual,3
+120,Manual,1st Owner,Petrol,41445,653199,Chennai,2017 Maruti Dzire VXI Manual,5
+121,Manual,2nd Owner,Petrol,41221,653199,Chennai,2017 Maruti Dzire VXI Manual,5
+122,Manual,1st Owner,Petrol,729,444399,Chennai,2021 Maruti Alto VXI Manual,1
+123,Manual,1st Owner,Petrol,17375,636899,Chennai,2017 Maruti Baleno DELTA 1.2 K12 Manual,5
+124,Manual,1st Owner,Petrol,21908,489599,Chennai,2019 Maruti Eeco 5 STR WITH AC PLUSHTR Manual,3
+125,Manual,1st Owner,Petrol,17625,557399,Chennai,2018 Hyundai NEW SANTRO ASTA 1.1 MT Manual,4
+126,Manual,1st Owner,Petrol,36814,355599,Chennai,2017 Hyundai Eon ERA PLUS Manual,5
+127,Manual,1st Owner,Petrol,53338,654899,Chennai,2016 Maruti Baleno ALPHA 1.2 K12 Manual,6
+128,Automatic,1st Owner,Petrol,24939,1879599,Chennai,2020 MG HECTOR SHARP DCT PETROL Automatic,2
+129,Automatic,1st Owner,Petrol,27426,910199,Chennai,2018 Ford Ecosport 1.5 TITANIUM PLUS TI VCT AT Automatic,4
+130,Automatic,1st Owner,Petrol,57825,518499,Chennai,2015 Hyundai Grand i10 ASTA 1.2 AT VTVT Automatic,7
+131,Manual,1st Owner,Petrol,35336,534299,Chennai,2019 Hyundai NEW SANTRO SPORTZ 1.1 Manual,3
+132,Manual,1st Owner,Petrol,41940,307999,Chennai,2017 Maruti Alto 800 VXI Manual,5
+133,Manual,1st Owner,Diesel,152097,561699,Chennai,2015 Maruti S Cross ZETA 1.3 Manual,7
+134,Manual,1st Owner,Petrol,67891,819599,Chennai,2018 Ford Ecosport 1.5 TITANIUM TI VCT Manual,4
+135,Manual,1st Owner,Petrol,37774,590799,Chennai,2018 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,4
+136,Manual,1st Owner,Petrol,114386,335699,Chennai,2014 Maruti Wagon R 1.0 VXI Manual,8
+137,Manual,1st Owner,Petrol,69280,339599,Chennai,2013 Maruti Wagon R 1.0 VXI Manual,9
+138,Manual,1st Owner,Petrol,58657,632799,Chennai,2018 Maruti Baleno DELTA 1.2 K12 Manual,4
+139,Manual,1st Owner,Petrol,22046,522199,Chennai,2018 Maruti Wagon R 1.0 VXI Manual,4
+140,Automatic,2nd Owner,Petrol,23386,430399,Chennai,2017 Maruti Alto K10 VXI (O) AMT Automatic,5
+141,Manual,1st Owner,Petrol,50588,604599,Chennai,2016 Maruti Baleno DELTA 1.2 K12 Manual,6
+142,Automatic,1st Owner,Petrol,33939,555699,Chennai,2018 Hyundai Grand i10 MAGNA AT 1.2 KAPPA VTVT Automatic,4
+143,Manual,1st Owner,Petrol,43585,401199,Chennai,2015 Maruti Wagon R 1.0 VXI Manual,7
+144,Manual,1st Owner,Petrol,21397,476199,Chennai,2020 Maruti S PRESSO VXI Manual,2
+145,Manual,1st Owner,Petrol,12367,471199,Chennai,2018 Maruti Eeco 5 STR WITH AC PLUSHTR Manual,4
+146,Manual,1st Owner,Petrol,61339,331899,Chennai,2017 Hyundai Eon MAGNA PLUS Manual,5
+147,Manual,2nd Owner,Petrol,51353,584299,Chennai,2017 Maruti Baleno RS 1.0 PETROL Manual,5
+148,Manual,1st Owner,Petrol,93189,679899,Chennai,2016 Maruti Baleno ALPHA 1.2 K12 Manual,6
+149,Manual,2nd Owner,Petrol,13835,363599,Chennai,2019 Maruti Alto VXI Manual,3
+150,Manual,1st Owner,Petrol,44664,620599,Chennai,2017 Maruti Baleno DELTA 1.2 K12 Manual,5
+151,Manual,1st Owner,Petrol,63433,669099,Chennai,2018 Maruti Baleno DELTA 1.2 K12 Manual,4
+152,Manual,1st Owner,Petrol,11586,471199,Chennai,2018 Maruti Eeco 5 STR WITH AC PLUSHTR Manual,4
+153,Manual,1st Owner,Petrol,29098,669099,Chennai,2018 Maruti Baleno DELTA 1.2 K12 Manual,4
+154,Manual,1st Owner,Petrol,64365,321299,Chennai,2017 Maruti Alto 800 LXI Manual,5
+155,Manual,1st Owner,Petrol,10757,493899,Chennai,2019 Maruti Eeco 5 STR WITH AC PLUSHTR Manual,3
+156,Manual,1st Owner,Petrol,61189,540299,Chennai,2019 Hyundai NEW SANTRO SPORTZ 1.1 Manual,3
+157,Manual,1st Owner,Petrol,40950,550399,Chennai,2017 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,5
+158,Manual,1st Owner,Petrol,78170,587399,Chennai,2016 Maruti Baleno DELTA 1.2 K12 Manual,6
+159,Manual,1st Owner,Petrol,20474,467399,Chennai,2018 Maruti IGNIS SIGMA 1.2 K12 Manual,4
+160,Manual,3rd Owner,Petrol,60285,539599,Chennai,2015 Hyundai i20 Active 1.2 S Manual,7
+161,Manual,1st Owner,Petrol,43737,407299,Chennai,2019 Maruti Alto K10 VXI OPT. MT Manual,3
+162,Manual,1st Owner,Petrol,40646,453999,Chennai,2019 Maruti Eeco 5 STR WITH AC PLUSHTR Manual,3
+163,Manual,1st Owner,Petrol,72429,755299,Chennai,2018 Honda WR-V 1.2 i-VTEC VX MT Manual,4
+164,Manual,1st Owner,Petrol,49741,484799,Chennai,2017 Maruti Wagon R 1.0 VXI Manual,5
+165,Manual,1st Owner,Petrol,75992,536999,Chennai,2017 Hyundai Grand i10 ASTA 1.2 VTVT Manual,5
+166,Manual,1st Owner,Petrol,75909,663099,Chennai,2017 Maruti Baleno ZETA 1.2 K12 Manual,5
+167,Automatic,1st Owner,Petrol,30353,477299,Chennai,2017 Maruti Wagon R 1.0 VXI AMT Automatic,5
+168,Manual,2nd Owner,Petrol,54919,642799,Chennai,2017 Maruti Baleno ZETA 1.2 K12 Manual,5
+169,Manual,1st Owner,Petrol,50453,550699,Chennai,2018 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,4
+170,Manual,1st Owner,Petrol,33612,361799,Chennai,2017 Maruti Alto K10 VXI Manual,5
+171,Manual,1st Owner,Petrol,40677,476999,Chennai,2017 Maruti IGNIS SIGMA 1.2 K12 Manual,5
+172,Automatic,1st Owner,Petrol,93724,529799,Chennai,2017 Maruti IGNIS ZETA 1.2 K12 AMT DUAL TONE Automatic,5
+173,Automatic,1st Owner,Petrol,50284,411599,Chennai,2018 Maruti Alto K10 VXI (O) AMT Automatic,4
+174,Manual,1st Owner,Petrol,54014,325199,Chennai,2017 Maruti Alto 800 LXI Manual,5
+175,Manual,1st Owner,Petrol,40902,463399,Chennai,2017 Maruti Wagon R 1.0 VXI Manual,5
+176,Automatic,1st Owner,Petrol,61912,500299,Chennai,2018 Maruti Wagon R 1.0 VXI AMT Automatic,4
+177,Manual,2nd Owner,Petrol,35182,341699,Chennai,2018 Maruti Alto 800 LXI Manual,4
+178,Manual,1st Owner,Petrol,27060,430499,Chennai,2021 Maruti Alto VXI PLUS Manual,1
+179,Manual,1st Owner,Petrol,37131,341699,Chennai,2018 Maruti Alto 800 LXI Manual,4
+180,Automatic,2nd Owner,Petrol,5916,544299,Chennai,2019 Maruti Celerio VXI (O) AMT Automatic,3
+181,Manual,1st Owner,Petrol,4017,605099,Chennai,2020 Maruti New  Wagon-R ZXI 1.2 Manual,2
+182,Manual,2nd Owner,Petrol,26327,507799,Chennai,2018 Hyundai Elite i20 ERA 1.2 Manual,4
+183,Automatic,1st Owner,Diesel,13690,1923499,Chennai,2020 Mahindra XUV500 W11 (O) AT Automatic,2
+184,Automatic,1st Owner,Diesel,65043,1027899,Chennai,2018 Skoda Rapid Style 1.5 TDI AT Automatic,4
+185,Automatic,1st Owner,Petrol,6802,798999,Chennai,2020 Tata TIGOR 1.2 XZA+ RTN Automatic,2
+186,Manual,1st Owner,Petrol,33387,400899,Chennai,2015 Hyundai i10 SPORTZ 1.1 IRDE2 Manual,7
+187,Manual,2nd Owner,Petrol,21935,496199,Chennai,2018 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,4
+188,Manual,2nd Owner,Petrol,14545,598399,Chennai,2018 Ford Figo Aspire 1.2 TITANIUM PETROL Manual,4
+189,Manual,1st Owner,Petrol,74055,387999,Chennai,2012 Hyundai i20 SPORTZ 1.2 VTVT Manual,10
+190,Manual,1st Owner,Petrol,9969,522699,Chennai,2015 Honda Amaze 1.2 SMT I VTEC Manual,7
+191,Manual,1st Owner,Petrol,60094,378599,Chennai,2016 Hyundai i10 MAGNA 1.1 IRDE2 Manual,6
+192,Manual,2nd Owner,Petrol,16515,664699,Chennai,2021 Renault TRIBER 1.0 RXL PETROL Manual,1
+193,Manual,2nd Owner,Petrol,160727,364899,Chennai,2012 Maruti Swift Dzire VXI 1.2 BS IV Manual,10
+194,Manual,2nd Owner,Petrol,45631,448799,Chennai,2016 Hyundai Grand i10 ASTA 1.2 KAPPA VTVT OPT Manual,6
+195,Automatic,2nd Owner,Diesel,74813,633599,Chennai,2016 Maruti Swift Dzire ZDI AMT Automatic,6
+196,Manual,2nd Owner,Petrol,9704,535999,Chennai,2019 Maruti New  Wagon-R VXI 1.2L Manual,3
+197,Manual,1st Owner,Petrol,28929,423799,Chennai,2014 Maruti Ritz ZXI Manual,8
+198,Manual,1st Owner,Petrol,2353,843099,Chennai,2019 Hyundai VENUE S MT Turbo GDI 1.0L Manual,3
+199,Automatic,1st Owner,Petrol,37642,582599,Chennai,2018 Nissan Micra XL CVT (PETROL) Automatic,4
+200,Manual,1st Owner,Petrol,5762,732899,Chennai,2020 Tata ALTROZ XZ 1.2 Manual,2
+201,Manual,2nd Owner,Petrol,16921,647999,Chennai,2017 Honda Jazz VX  1.2 Manual,5
+202,Manual,2nd Owner,Diesel,85996,395599,Chennai,2013 Maruti Swift Dzire VDI BS IV Manual,9
+203,Manual,2nd Owner,Petrol,16735,504299,Chennai,2017 Volkswagen Ameo COMFORTLINE 1.2 Manual,5
+204,Manual,2nd Owner,Petrol,74695,416699,Chennai,2013 Hyundai i20 ASTA 1.2 Manual,9
+205,Manual,1st Owner,Petrol,31836,427099,Chennai,2019 Renault Kwid RXL Manual,3
+206,Manual,2nd Owner,Diesel,74921,485899,Chennai,2017 Ford New Figo 1.5 TREND Manual,5
+207,Automatic,2nd Owner,Petrol,23852,984399,Chennai,2019 Volkswagen Vento 1.2 TSI HIGHLINE PLUS AT Automatic,3
+208,Manual,3rd Owner,Petrol,52480,355999,Chennai,2014 Hyundai i10 MAGNA 1.1 IRDE2 Manual,8
+209,Manual,1st Owner,Petrol,5842,542799,Chennai,2019 Maruti Celerio VXI Manual,3
+210,Manual,2nd Owner,Petrol,15270,534999,Chennai,2020 Maruti New  Wagon-R VXI 1.0 Manual,2
+211,Manual,2nd Owner,Petrol,35559,403399,Chennai,2015 Hyundai Grand i10 MAGNA 1.2 VTVT Manual,7
+212,Manual,1st Owner,Petrol,62316,337499,Chennai,2013 Nissan Micra XL PETROL Manual,9
+213,Manual,2nd Owner,Petrol,50230,349099,Chennai,2014 Hyundai i10 MAGNA 1.1 IRDE2 Manual,8
+214,Manual,1st Owner,Petrol,49574,355999,Chennai,2014 Hyundai i10 MAGNA 1.1 IRDE2 Manual,8
+215,Manual,2nd Owner,Petrol,72187,625699,Chennai,2014 Honda City VX MT PETROL Manual,8
+216,Manual,1st Owner,Petrol,20271,440999,Chennai,2019 Renault Kwid RXL Manual,3
+217,Manual,1st Owner,Petrol,24009,496299,Chennai,2018 Tata Tiago XT 1.2 REVOTRON Manual,4
+218,Manual,2nd Owner,Petrol,22961,541599,Chennai,2018 Tata Tiago XZ 1.2 REVOTRON Manual,4
+219,Manual,1st Owner,Petrol,29826,611799,Chennai,2019 Renault TRIBER 1.0 RXT Manual,3
+220,Manual,1st Owner,Diesel,159858,375599,Chennai,2012 Toyota Etios Liva GD Manual,10
+221,Manual,1st Owner,Petrol,21592,543299,Chennai,2019 Maruti New  Wagon-R VXI 1.2L Manual,3
+222,Manual,2nd Owner,Diesel,47174,2101599,Chennai,2016 Toyota Fortuner 3.0 MT 4X4 Manual,6
+223,Manual,2nd Owner,Petrol,73415,285599,Chennai,2011 Maruti Wagon R 1.0 VXI Manual,11
+224,Manual,1st Owner,Petrol,24722,518299,Chennai,2019 Tata Tiago XZ 1.2 REVOTRON Manual,3
+225,Manual,1st Owner,Petrol,17390,870299,Chennai,2020 Hyundai VENUE S MT 1.2 KAPPA Manual,2
+226,Automatic,1st Owner,Petrol,17296,1217999,Chennai,2020 Honda City V CVT Automatic,2
+227,Manual,1st Owner,Diesel,94602,901799,Chennai,2019 Hyundai Creta 1.4 E PLUS CRDI Manual,3
+228,Manual,1st Owner,Diesel,14736,1772499,Chennai,2019 MG HECTOR SHARP 2.0 DIESEL Manual,3
+229,Manual,2nd Owner,Petrol,18472,289499,Chennai,2016 Maruti Alto 800 LXI Manual,6
+230,Manual,1st Owner,Diesel,61004,814899,Chennai,2018 Hyundai Elite i20 1.4 CRDI ASTA (O) Manual,4
+231,Manual,1st Owner,Petrol,18908,587399,Chennai,2017 Maruti Swift VXI OPT Manual,5
+232,Manual,1st Owner,Petrol,16676,938399,Chennai,2018 Hyundai Verna 1.6 SX VTVT Manual,4
+233,Automatic,1st Owner,Petrol,61052,635599,Chennai,2019 Maruti Swift VXI AMT Automatic,3
+234,Manual,2nd Owner,Petrol,37093,476899,Chennai,2014 Maruti Swift VXI Manual,8
+235,Manual,1st Owner,Petrol,39249,555799,Chennai,2017 Volkswagen Polo COMFORTLINE 1.2L PETROL Manual,5
+236,Manual,1st Owner,Petrol,48333,481999,Chennai,2014 Honda Amaze 1.2 VXMT I VTEC Manual,8
+237,Manual,3rd Owner,Petrol,22851,262799,Chennai,2015 Maruti Alto 800 LXI Manual,7
+238,Automatic,2nd Owner,Petrol,18688,1024399,Chennai,2020 Hyundai VENUE 1.0 TURBO GDI SX+ AT Automatic,2
+239,Manual,3rd Owner,Petrol,14924,684799,Chennai,2019 Hyundai Elite i20 1.2 MAGNA PLUS VTVT Manual,3
+240,Automatic,1st Owner,Petrol,24921,464399,Chennai,2018 Renault Kwid RXT 1.0 EASY-R AT OPTION Automatic,4
+241,Manual,2nd Owner,Petrol,63258,432299,Chennai,2014 Honda Amaze 1.2 SMT I VTEC Manual,8
+242,Automatic,1st Owner,Petrol,16706,469499,Chennai,2018 Renault Kwid RXT 1.0 EASY-R AT OPTION Automatic,4
+243,Manual,1st Owner,Diesel,24777,1472599,Chennai,2017 Jeep Compass 2.0 LIMITED Manual,5
+244,Manual,1st Owner,Petrol,33051,593799,Chennai,2017 Maruti Swift VXI OPT Manual,5
+245,Manual,1st Owner,Diesel,62241,788999,Chennai,2016 Maruti Ertiga VDI SHVS Manual,6
+246,Manual,1st Owner,Petrol,11673,751899,Chennai,2019 Honda Jazz 1.2 V MT Manual,3
+247,Manual,2nd Owner,Petrol,45262,264699,Chennai,2014 Maruti Alto K10 VXI Manual,8
+248,Manual,2nd Owner,Petrol,50534,403399,Chennai,2013 Maruti Swift VXI Manual,9
+249,Manual,2nd Owner,Petrol,47412,546499,Chennai,2018 Volkswagen Polo Trendline 1.0 L Petrol Manual,4
+250,Manual,1st Owner,Petrol,59425,563299,Chennai,2017 Volkswagen Polo COMFORTLINE 1.2L PETROL Manual,5
+251,Manual,1st Owner,Petrol,26289,589499,Chennai,2017 Maruti Swift VXI OPT Manual,5
+252,Automatic,2nd Owner,Petrol,47589,427099,Chennai,2016 Maruti Celerio VXI AMT Automatic,6
+253,Manual,1st Owner,Petrol,82815,464799,Chennai,2014 Honda Amaze 1.2 SX MT I VTEC Manual,8
+254,Automatic,1st Owner,Petrol,44322,713999,Chennai,2018 Honda Amaze 1.2 V CVT I VTEC Automatic,4
+255,Manual,1st Owner,Petrol,60612,527799,Chennai,2017 Maruti Swift VXI Manual,5
+256,Manual,3rd Owner,Petrol,40462,250799,Chennai,2014 Maruti Alto 800 LXI Manual,8
+257,Automatic,1st Owner,Petrol,38593,396899,Chennai,2017 Renault Kwid RXT 1.0 EASY-R AT OPTION Automatic,5
+258,Manual,1st Owner,Petrol,26560,676599,Chennai,2019 Hyundai GRAND I10 NIOS Asta Petrol Manual,3
+259,Manual,3rd Owner,Petrol,54656,658399,Chennai,2016 Honda City V MT PETROL Manual,6
+260,Manual,1st Owner,Petrol,41300,562399,Chennai,2017 Maruti Swift VXI Manual,5
+261,Manual,1st Owner,Petrol,11190,736399,Chennai,2019 Hyundai GRAND I10 NIOS Asta Petrol Manual,3
+262,Automatic,1st Owner,Diesel,114177,680799,Chennai,2018 Maruti Swift ZDI AMT Automatic,4
+263,Manual,2nd Owner,Petrol,26238,470799,Chennai,2018 Maruti Celerio VXI (O) Manual,4
+264,Manual,1st Owner,Petrol,29112,544099,Chennai,2018 Tata Tiago XZ 1.2 REVOTRON Manual,4
+265,Manual,1st Owner,Petrol,64491,508799,Chennai,2015 Honda Amaze 1.2 SMT I VTEC Manual,7
+266,Manual,1st Owner,Petrol,40816,410299,Chennai,2016 Maruti Celerio VXI Manual,6
+267,Automatic,2nd Owner,Petrol,42648,417299,Chennai,2014 Honda Brio 1.2 VX AT I VTEC Automatic,8
+268,Automatic,1st Owner,Petrol,6129,598299,Chennai,2019 Hyundai NEW SANTRO 1.1 SPORTS AMT Automatic,3
+269,Manual,2nd Owner,Petrol,26340,507499,Chennai,2017 Volkswagen Ameo COMFORTLINE 1.2 Manual,5
+270,Manual,1st Owner,Petrol,54988,271799,Chennai,2014 Maruti Alto 800 LXI Manual,8
+271,Manual,1st Owner,Petrol,18214,783599,Chennai,2019 Honda Jazz VX  1.2 Manual,3
+272,Manual,1st Owner,Petrol,30424,956899,Chennai,2017 Honda City VX MT PETROL Manual,5
+273,Manual,1st Owner,Petrol,154154,410199,Chennai,2013 Maruti Swift Dzire VXI 1.2 BS IV Manual,9
+274,Manual,1st Owner,Petrol,36282,570899,Chennai,2016 Honda Jazz 1.2 SV MT Manual,6
+275,Manual,2nd Owner,Petrol,69205,538599,Chennai,2018 Volkswagen Polo COMFORTLINE 1.0 PETROL Manual,4
+276,Manual,1st Owner,Petrol,75081,290499,Chennai,2016 Maruti Alto 800 LXI Manual,6
+277,Manual,1st Owner,Petrol,7472,1657999,Chennai,2021 MG HECTOR SUPER HYBRID PETROL MT Manual,1
+278,Automatic,1st Owner,Petrol,30817,553399,Chennai,2017 Nissan Micra XL CVT (PETROL) Automatic,5
+279,Manual,2nd Owner,Petrol,24508,453399,Chennai,2015 Hyundai Grand i10 SPORTS 1.2 VTVT Manual,7
+280,Manual,1st Owner,Diesel,46581,1705799,Chennai,2019 Tata Hexa Varicor 400 XT Manual,3
+281,Manual,1st Owner,Petrol,57135,275799,Chennai,2014 Maruti Alto 800 LXI Manual,8
+282,Manual,1st Owner,Diesel,35739,1430399,Chennai,2018 Jeep Compass 2.0 LIMITED Manual,4
+283,Manual,1st Owner,Petrol,82670,554299,Chennai,2017 Volkswagen Polo HIGHLINE1.2L PETROL Manual,5
+284,Manual,1st Owner,Petrol,29317,660099,Chennai,2016 Hyundai Elite i20 ASTA 1.2 Manual,6
+285,Automatic,1st Owner,Petrol,51795,501699,Chennai,2017 Maruti Celerio ZXI OPT AMT Automatic,5
+286,Manual,2nd Owner,Petrol,52636,321499,Chennai,2013 Maruti Wagon R 1.0 VXI Manual,9
+287,Automatic,2nd Owner,Petrol,37619,813699,Chennai,2019 Hyundai Elite i20 1.2  ASTA (O) CVT Automatic,3
+288,Automatic,2nd Owner,Petrol,79905,572399,Chennai,2015 Ford Ecosport 1.5 TITANIUM TI VCT AT Automatic,7
+289,Automatic,1st Owner,Petrol,16877,535799,Chennai,2019 Renault Kwid 1.0 CLIMBER OPT AMT Automatic,3
+290,Manual,1st Owner,Petrol,15202,745499,Chennai,2018 Hyundai Elite i20 ASTA 1.2 (O) Manual,4
+291,Manual,2nd Owner,Petrol,18440,286899,Chennai,2016 Maruti Alto 800 LXI Manual,6
+292,Manual,1st Owner,Petrol,54626,598299,Chennai,2016 Hyundai Elite i20 ASTA 1.2 Manual,6
+293,Manual,1st Owner,Petrol,18666,305399,Chennai,2015 Hyundai Eon ERA PLUS Manual,7
+294,Manual,1st Owner,Petrol,51612,544099,Chennai,2018 Tata Tiago XZ 1.2 REVOTRON Manual,4
+295,Manual,1st Owner,Petrol,3927,476199,Chennai,2020 Maruti S PRESSO VXI Manual,2
+296,Manual,2nd Owner,Petrol,17926,493499,Chennai,2018 Hyundai Grand i10 SPORTS 1.2 VTVT Manual,4
+297,Manual,1st Owner,Petrol,64270,974499,Chennai,2019 Hyundai VENUE 1.0 SX TURBO GDI DUAL TONE Manual,3
+298,Automatic,1st Owner,Petrol,18502,533599,Chennai,2018 Hyundai NEW SANTRO 1.1 SPORTS AMT Automatic,4
+299,Manual,1st Owner,Petrol,22230,395299,Chennai,2018 Maruti Eeco 5 STR WITH AC PLUSHTR Manual,4
+300,Manual,1st Owner,Petrol,21215,725999,Chennai,2019 Hyundai GRAND I10 NIOS Asta Petrol Manual,3
+301,Manual,2nd Owner,Petrol,57544,480599,Chennai,2015 Maruti Swift ZXI Manual,7
+302,Manual,1st Owner,Petrol,39755,269199,Chennai,2016 Datsun Redi Go T (O) Manual,6
+303,Manual,1st Owner,Petrol,26779,335799,Chennai,2016 Hyundai Eon MAGNA PLUS Manual,6
+304,Manual,1st Owner,Diesel,48292,689299,Chennai,2018 Hyundai Elite i20 Magna Executive Diesel Manual,4
+305,Manual,1st Owner,Petrol,42487,387499,Chennai,2018 Renault Kwid 1.0 RXT Opt Manual,4
+306,Manual,2nd Owner,Petrol,39597,506199,Chennai,2015 Hyundai Elite i20 MAGNA 1.2 Manual,7
+307,Manual,2nd Owner,Petrol,50245,522399,Chennai,2016 Maruti Swift ZXI Manual,6
+308,Manual,1st Owner,Diesel,85996,674499,Chennai,2016 Ford Ecosport 1.5TITANIUM TDCI Manual,6
+309,Manual,1st Owner,Petrol,48273,285899,Chennai,2014 Hyundai Eon MAGNA PLUS Manual,8
+310,Manual,2nd Owner,Petrol,53917,304899,Chennai,2016 Hyundai Eon ERA PLUS Manual,6
+311,Automatic,1st Owner,Petrol,19635,536299,Chennai,2019 Renault Kwid 1.0 CLIMBER OPT AMT Automatic,3
+312,Manual,1st Owner,Petrol,22693,555399,Chennai,2018 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,4
+313,Manual,1st Owner,Petrol,95940,269099,Chennai,2016 Maruti Alto 800 LXI OPT Manual,6
+314,Manual,1st Owner,Diesel,34649,1854599,Chennai,2019 Tata Hexa Varicor 400 XT Manual,3
+315,Manual,1st Owner,Petrol,17714,655099,Chennai,2016 Maruti Baleno ALPHA 1.2 K12 Manual,6
+316,Manual,1st Owner,Petrol,6494,673099,Chennai,2018 Maruti Dzire VXI Manual,4
+317,Manual,2nd Owner,Diesel,81582,613499,Chennai,2016 Ford Ecosport 1.5TITANIUM TDCI Manual,6
+318,Automatic,1st Owner,Petrol,9004,591899,Chennai,2019 Hyundai NEW SANTRO 1.1 SPORTS AMT Automatic,3
+319,Automatic,1st Owner,Petrol,36654,1573699,Chennai,2018 Jeep Compass LIMITED O 1.4 AT Automatic,4
+320,Manual,1st Owner,Petrol,57701,683899,Chennai,2018 Maruti Dzire ZXI Manual,4
+321,Manual,1st Owner,Petrol,67121,487599,Chennai,2015 Maruti Swift VXI Manual,7
+322,Manual,2nd Owner,Petrol,33105,651499,Chennai,2018 Hyundai Elite i20 ASTA 1.2 DUAL TONE Manual,4
+323,Manual,1st Owner,Petrol,49887,530999,Chennai,2019 Maruti Celerio VXI Manual,3
+324,Manual,1st Owner,Diesel,101947,588099,Chennai,2016 Hyundai Elite i20 ASTA 1.4 CRDI Manual,6
+325,Manual,1st Owner,Petrol,23369,638899,Chennai,2017 Honda Jazz VX  1.2 Manual,5
+326,Automatic,1st Owner,Petrol,2238,538499,Chennai,2021 Maruti S PRESSO VXI PLUS AGS Automatic,1
+327,Manual,1st Owner,Petrol,28827,719099,Chennai,2019 Hyundai GRAND I10 NIOS Asta Petrol Manual,3
+328,Manual,1st Owner,Petrol,66192,808099,Chennai,2017 Honda City V MT PETROL Manual,5
+329,Manual,1st Owner,Petrol,10678,419799,Chennai,2016 Maruti Wagon R 1.0 VXI Manual,6
+330,Manual,1st Owner,Petrol,41523,650499,Chennai,2019 Hyundai Elite i20 1.2 MAGNA PLUS VTVT Manual,3
+331,Manual,1st Owner,Petrol,39984,317599,Chennai,2016 Hyundai Eon ERA PLUS Manual,6
+332,Automatic,1st Owner,Petrol,9926,570799,Chennai,2018 Hyundai NEW SANTRO 1.1 SPORTS AMT Automatic,4
+333,Manual,1st Owner,Petrol,27458,357899,Chennai,2016 Hyundai Eon MAGNA PLUS OPTIONAL Manual,6
+334,Manual,1st Owner,Diesel,90866,551999,Chennai,2014 Hyundai Elite i20 ASTA 1.4 CRDI Manual,8
+335,Manual,1st Owner,Petrol,22511,830399,Chennai,2018 Ford Ecosport 1.5 TITANIUM TI VCT Manual,4
+336,Automatic,1st Owner,Petrol,14765,584999,Chennai,2019 Hyundai NEW SANTRO 1.1 SPORTS AMT Automatic,3
+337,Manual,1st Owner,Petrol,35163,365999,Chennai,2018 Hyundai Eon ERA PLUS Manual,4
+338,Manual,1st Owner,Diesel,21076,1165199,Chennai,2018 Mahindra MARAZZO M8 7 STR Manual,4
+339,Manual,1st Owner,Petrol,42236,316399,Chennai,2016 Hyundai Eon ERA PLUS Manual,6
+340,Manual,1st Owner,Petrol,17350,575099,Chennai,2019 Maruti IGNIS DELTA 1.2 K12 Manual,3
+341,Manual,1st Owner,Petrol,40304,424599,Chennai,2015 Hyundai Grand i10 MAGNA 1.2 VTVT Manual,7
+342,Manual,1st Owner,Petrol,60370,604099,Chennai,2017 Maruti Baleno ZETA 1.2 K12 Manual,5
+343,Manual,2nd Owner,Petrol,30139,302299,Chennai,2015 Maruti Alto K10 VXI Manual,7
+344,Manual,1st Owner,Petrol,55196,643899,Chennai,2019 Maruti Baleno DELTA 1.2 K12 Manual,3
+345,Manual,2nd Owner,Petrol,13644,648799,Chennai,2017 Maruti Baleno ZETA 1.2 K12 Manual,5
+346,Automatic,2nd Owner,Petrol,24403,605099,Chennai,2017 Hyundai Grand i10 SPORTZ (O) 1.2 AT VTVT Automatic,5
+347,Manual,1st Owner,Petrol,75640,841499,Chennai,2017 Hyundai Creta 1.6 SX PLUS PETROL Manual,5
+348,Manual,1st Owner,Petrol,72327,593499,Chennai,2017 Honda Jazz 1.2 SV MT Manual,5
+349,Manual,1st Owner,Diesel,70577,464199,Chennai,2015 Hyundai Xcent S 1.1 CRDI Manual,7
+350,Manual,1st Owner,Diesel,61172,850499,Chennai,2018 Maruti Vitara Brezza ZDI Manual,4
+351,Manual,2nd Owner,Petrol,39961,488499,Chennai,2015 Hyundai Grand i10 ASTA 1.2 VTVT Manual,7
+352,Manual,1st Owner,Petrol,20048,324599,Chennai,2018 Maruti Alto 800 LXI Manual,4
+353,Manual,1st Owner,Petrol,31624,352799,Chennai,2016 Hyundai Eon MAGNA PLUS Manual,6
+354,Manual,1st Owner,Petrol,69381,310099,Chennai,2017 Hyundai Eon ERA PLUS Manual,5
+355,Manual,1st Owner,Petrol,7734,490799,Chennai,2020 Maruti Eeco 5 STR WITH AC PLUSHTR Manual,2
+356,Manual,1st Owner,Petrol,23246,414299,Chennai,2019 Maruti Eeco 5 STR WITH AC PLUSHTR Manual,3
+357,Manual,2nd Owner,Petrol,84541,477699,Chennai,2014 Hyundai Elite i20 MAGNA 1.2 Manual,8
+358,Manual,1st Owner,Petrol,7135,453199,Chennai,2019 Maruti Eeco 5 STR WITH AC PLUSHTR Manual,3
+359,Manual,1st Owner,Petrol,46572,229599,Chennai,2013 Maruti Alto 800 LXI Manual,9
+360,Manual,2nd Owner,Petrol,12080,367499,Chennai,2018 Hyundai Eon ERA PLUS Manual,4
+361,Manual,2nd Owner,Petrol,22539,313899,Chennai,2017 Hyundai Eon D LITE PLUS Manual,5
+362,Manual,2nd Owner,Petrol,20582,511799,Chennai,2016 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,6
+363,Manual,1st Owner,Petrol,17855,308799,Chennai,2016 Maruti Alto 800 LXI Manual,6
+364,Manual,1st Owner,Petrol,17442,455699,Chennai,2016 Maruti Wagon R 1.0 VXI Manual,6
+365,Manual,1st Owner,Petrol,6122,944699,Chennai,2021 Hyundai VENUE S Plus MT 1.2 Kappa Manual,1
+366,Manual,2nd Owner,Petrol,32805,498799,Chennai,2016 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,6
+367,Manual,1st Owner,Diesel,54549,848099,Chennai,2017 Maruti Vitara Brezza ZDI PLUS DUAL TONE Manual,5
+368,Automatic,1st Owner,Petrol,14894,404399,Chennai,2016 Maruti Alto K10 VXI AMT Automatic,6
+369,Manual,2nd Owner,Petrol,51886,295099,Chennai,2015 Maruti Alto K10 VXI Manual,7
+370,Manual,1st Owner,Petrol,14541,614999,Chennai,2017 Maruti Dzire VXI Manual,5
+371,Manual,1st Owner,Petrol,48553,562199,Chennai,2018 Maruti Swift LXI Manual,4
+372,Manual,2nd Owner,Diesel,45003,818099,Chennai,2018 Maruti Vitara Brezza ZDI Manual,4
+373,Manual,1st Owner,Petrol,59949,562399,Chennai,2017 Maruti Swift VXI Manual,5
+374,Manual,1st Owner,Petrol,63684,638699,Chennai,2016 Hyundai Elite i20 ASTA 1.2 (O) Manual,6
+375,Manual,1st Owner,Petrol,13138,464999,Chennai,2016 Maruti Wagon R 1.0 VXI Manual,6
+376,Manual,1st Owner,Petrol,43474,606299,Chennai,2017 Honda Jazz 1.2 V MT Manual,5
+377,Manual,1st Owner,Diesel,76944,910599,Chennai,2018 Maruti Vitara Brezza ZDI PLUS Manual,4
+378,Manual,1st Owner,Petrol,58146,308999,Chennai,2015 Maruti Alto K10 LXI Manual,7
+379,Manual,3rd Owner,Petrol,53536,677799,Chennai,2017 Maruti Ciaz ALPHA 1.4 VVT Manual,5
+380,Manual,1st Owner,Petrol,30221,617399,Chennai,2018 Maruti Baleno DELTA 1.2 K12 Manual,4
+381,Manual,1st Owner,Petrol,34411,401799,Chennai,2018 Maruti Eeco 5 STR WITH AC PLUSHTR Manual,4
+382,Manual,1st Owner,Petrol,15288,499499,Chennai,2017 Maruti Wagon R 1.0 VXI Manual,5
+383,Manual,1st Owner,Petrol,45416,310999,Chennai,2016 Hyundai Eon ERA PLUS Manual,6
+384,Manual,1st Owner,Petrol,26707,526199,Chennai,2016 Hyundai Grand i10 ASTA 1.2 (O) VTVT Manual,6
+385,Manual,1st Owner,Petrol,18899,441399,Chennai,2019 Maruti Eeco 5 STR WITH AC PLUSHTR Manual,3
+386,Manual,1st Owner,Petrol,5141,495799,Chennai,2021 Maruti S PRESSO VXI PLUS Manual,1
+387,Manual,1st Owner,Petrol,43472,323999,Chennai,2015 Hyundai Eon SPORTZ Manual,7
+388,Manual,1st Owner,Petrol,83440,444299,Chennai,2016 Hyundai Grand i10 SPORTS 1.2 VTVT Manual,6
+389,Automatic,2nd Owner,Petrol,18890,428799,Chennai,2016 Maruti Wagon R 1.0 VXI AMT Automatic,6
+390,Automatic,1st Owner,Diesel,93752,628399,Chennai,2017 Maruti Dzire VDI AMT Automatic,5
+391,Manual,1st Owner,Petrol,81508,758399,Chennai,2017 Honda City V MT PETROL Manual,5
+392,Manual,1st Owner,Petrol,35436,519499,Chennai,2016 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,6
+393,Manual,1st Owner,Petrol,24362,402599,Chennai,2017 Maruti Eeco 5 STR WITH AC PLUSHTR Manual,5
+394,Manual,2nd Owner,Petrol,69157,535099,Chennai,2014 Hyundai Elite i20 ASTA 1.2 Manual,8
+395,Manual,1st Owner,Petrol,16717,370099,Chennai,2018 Maruti Alto 800 VXI Manual,4
+396,Manual,1st Owner,Petrol,22208,562399,Chennai,2017 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,5
+397,Manual,1st Owner,Petrol,68061,296899,Chennai,2017 Maruti Alto 800 LXI Manual,5
+398,Manual,1st Owner,Petrol,31953,784899,Chennai,2019 Ford Ecosport 1.5 TITANIUM TI VCT Manual,3
+399,Manual,1st Owner,Petrol,22036,464399,Chennai,2016 Maruti Wagon R 1.0 VXI Manual,6
+400,Manual,1st Owner,Petrol,49956,666699,Chennai,2017 Hyundai Elite i20 ASTA 1.2 (O) Manual,5
+401,Manual,1st Owner,Petrol,19686,637799,Chennai,2018 Maruti Baleno DELTA 1.2 K12 Manual,4
+402,Automatic,1st Owner,Petrol,33350,389699,Chennai,2016 Maruti Alto K10 VXI AMT Automatic,6
+403,Automatic,2nd Owner,Petrol,49027,600499,Chennai,2017 Hyundai Grand i10 SPORTZ (O) 1.2 AT VTVT Automatic,5
+404,Manual,1st Owner,Petrol,30148,455799,Chennai,2016 Maruti Wagon R 1.0 VXI Manual,6
+405,Manual,1st Owner,Petrol,27336,424099,Chennai,2017 Maruti Eeco 5 STR WITH AC PLUSHTR Manual,5
+406,Manual,1st Owner,Petrol,81031,455999,Chennai,2015 Hyundai Grand i10 ASTA 1.2 VTVT Manual,7
+407,Manual,1st Owner,Petrol,48859,311499,Chennai,2015 Maruti Alto K10 VXI Manual,7
+408,Manual,1st Owner,Petrol,46862,439399,Chennai,2016 Maruti Wagon R 1.0 VXI Manual,6
+409,Manual,1st Owner,Petrol,85957,555399,Chennai,2015 Ford Ecosport 1.5AMBIENTE TI VCT Manual,7
+410,Manual,1st Owner,Petrol,63743,458699,Chennai,2016 Maruti Wagon R 1.0 VXI Manual,6
+411,Automatic,1st Owner,Petrol,154229,572699,Chennai,2016 Ford Ecosport 1.5 TITANIUM TI VCT AT Automatic,6
+412,Manual,1st Owner,Petrol,27952,308799,Chennai,2016 Maruti Alto 800 LXI Manual,6
+413,Manual,1st Owner,Petrol,29145,449099,Chennai,2019 Maruti Eeco 5 STR WITH AC PLUSHTR Manual,3
+414,Automatic,1st Owner,Petrol,45328,544699,Chennai,2019 Hyundai NEW SANTRO 1.1 SPORTS AMT Automatic,3
+415,Manual,1st Owner,Petrol,20529,698399,Chennai,2019 Maruti Baleno DELTA 1.2 K12 Manual,3
+416,Manual,1st Owner,Petrol,48953,372599,Chennai,2013 Maruti Wagon R 1.0 VXI Manual,9
+417,Manual,1st Owner,Petrol,15674,450899,Chennai,2019 Maruti Eeco 5 STR WITH AC PLUSHTR Manual,3
+418,Manual,1st Owner,Petrol,53083,1093299,Chennai,2019 Maruti XL6 ALPHA SHVS  MT Manual,3
+419,Manual,1st Owner,Petrol,60523,493399,Chennai,2016 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,6
+420,Automatic,1st Owner,Petrol,39704,573799,Chennai,2019 Hyundai NEW SANTRO 1.1 SPORTS AMT Automatic,3
+421,Manual,1st Owner,Petrol,15610,427999,Chennai,2019 Maruti Eeco 5 STR WITH AC PLUSHTR Manual,3
+422,Manual,1st Owner,Petrol,24039,347899,Chennai,2017 Hyundai Eon ERA PLUS Manual,5
+423,Manual,1st Owner,Petrol,117893,534799,Chennai,2016 Hyundai Elite i20 MAGNA 1.2 Manual,6
+424,Manual,1st Owner,Petrol,64507,439199,Chennai,2016 Maruti Wagon R 1.0 VXI Manual,6
+425,Manual,2nd Owner,Petrol,54613,349799,Chennai,2017 Hyundai Eon ERA PLUS Manual,5
+426,Manual,1st Owner,Petrol,28636,590799,Chennai,2018 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,4
+427,Automatic,1st Owner,Petrol,33604,572599,Chennai,2018 Hyundai Grand i10 Magna 1.2 AT  VTVT Automatic,4
+428,Manual,2nd Owner,Petrol,54684,364099,Chennai,2014 Maruti Wagon R 1.0 VXI Manual,8
+429,Automatic,2nd Owner,Petrol,13055,522199,Chennai,2020 Maruti S PRESSO VXI PLUS AGS Automatic,2
+430,Manual,1st Owner,Petrol,60516,355699,Chennai,2018 Hyundai Eon ERA PLUS Manual,4
+431,Automatic,1st Owner,Petrol,40948,384499,Chennai,2016 Maruti Alto K10 VXI AMT Automatic,6
+432,Manual,1st Owner,Petrol,18237,548699,Chennai,2018 Maruti IGNIS DELTA 1.2 K12 Manual,4
+433,Manual,2nd Owner,Petrol,12561,548699,Chennai,2018 Maruti IGNIS DELTA 1.2 K12 Manual,4
+434,Manual,1st Owner,Petrol,49494,415299,Chennai,2016 Maruti Wagon R 1.0 VXI OPT Manual,6
+435,Manual,1st Owner,Petrol,33655,493899,Chennai,2019 Maruti Eeco 5 STR WITH AC PLUSHTR Manual,3
+436,Manual,2nd Owner,Petrol,42959,438299,Chennai,2016 Maruti Wagon R 1.0 VXI Manual,6
+437,Automatic,3rd Owner,Petrol,16047,409899,Chennai,2017 Maruti Wagon R 1.0 VXI AMT Automatic,5
+438,Manual,1st Owner,Petrol,21285,621799,Chennai,2017 Maruti Baleno DELTA 1.2 K12 Manual,5
+439,Automatic,1st Owner,Petrol,77873,874399,Chennai,2019 Ford Ecosport 1.5 TITANIUM PLUS TI VCT AT Automatic,3
+440,Manual,1st Owner,Petrol,69645,523999,Chennai,2016 Hyundai Grand i10 ASTA 1.2 VTVT Manual,6
+441,Manual,2nd Owner,Petrol,56248,498199,Chennai,2016 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,6
+442,Manual,1st Owner,Petrol,60307,309799,Chennai,2015 Maruti Alto K10 VXI Manual,7
+443,Manual,1st Owner,Petrol,79648,403599,Chennai,2016 Maruti Wagon R 1.0 VXI Manual,6
+444,Manual,1st Owner,Petrol,36506,561799,Chennai,2017 Hyundai Grand i10 ASTA 1.2 KAPPA VTVT Manual,5
+445,Manual,1st Owner,Petrol,66417,399599,Chennai,2015 Maruti Wagon R 1.0 VXI Manual,7
+446,Manual,1st Owner,Petrol,54644,398899,Chennai,2015 Maruti Wagon R 1.0 VXI Manual,7
+447,Manual,2nd Owner,Petrol,17682,433399,Chennai,2018 Maruti Eeco 5 STR WITH AC PLUSHTR Manual,4
+448,Manual,1st Owner,Petrol,90204,413499,Chennai,2015 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,7
+449,Manual,2nd Owner,Petrol,84992,339399,Chennai,2013 Maruti Wagon R 1.0 VXI Manual,9
+450,Automatic,1st Owner,Petrol,96040,509699,Chennai,2016 Hyundai Grand i10 1.2 ASTA (O) AT Automatic,6
+451,Manual,2nd Owner,Petrol,59844,468099,Chennai,2017 Hyundai Grand i10 MAGNA 1.2 KAPPA VTVT Manual,5
+452,Automatic,2nd Owner,Petrol,50256,518499,Chennai,2015 Hyundai Grand i10 ASTA 1.2 AT VTVT Automatic,7
+453,Manual,1st Owner,Petrol,12580,443499,Chennai,2019 Maruti Eeco 5 STR WITH AC PLUSHTR Manual,3
+454,Manual,3rd Owner,Petrol,16691,486199,Chennai,2018 Maruti Wagon R 1.0 VXI Manual,4
+455,Manual,1st Owner,Petrol,13363,475099,Chennai,2017 Maruti Wagon R 1.0 VXI Manual,5
+456,Automatic,1st Owner,Petrol,25243,494199,Chennai,2017 Maruti Wagon R 1.0 VXI OPT AMT Automatic,5
+457,Manual,1st Owner,Petrol,42215,338899,Chennai,2017 Hyundai Eon ERA PLUS Manual,5
+458,Manual,1st Owner,Petrol,43071,349799,Chennai,2017 Hyundai Eon ERA PLUS Manual,5
+459,Manual,1st Owner,Petrol,26079,406199,Chennai,2017 Maruti Eeco 5 STR WITH AC PLUSHTR Manual,5
+460,Manual,2nd Owner,Petrol,32997,538299,Chennai,2017 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,5
+461,Manual,2nd Owner,Petrol,34824,608599,Chennai,2017 Maruti Baleno DELTA 1.2 K12 Manual,5
+462,Manual,1st Owner,Petrol,70238,391399,Chennai,2014 Maruti Wagon R 1.0 VXI Manual,8
+463,Manual,1st Owner,Petrol,76732,359699,Chennai,2015 Maruti Wagon R 1.0 VXI Manual,7
+464,Manual,1st Owner,Petrol,42461,506999,Chennai,2017 Hyundai Grand i10 SPORTS 1.2 VTVT Manual,5
+465,Automatic,2nd Owner,Petrol,20642,494199,Chennai,2017 Maruti Wagon R 1.0 VXI OPT AMT Automatic,5
+466,Manual,1st Owner,Petrol,96751,481499,Chennai,2017 Hyundai Grand i10 MAGNA 1.2 KAPPA VTVT Manual,5
+467,Manual,1st Owner,Petrol,24965,701399,Chennai,2019 Maruti Baleno DELTA 1.2 K12 Manual,3
+468,Manual,2nd Owner,Petrol,44240,503299,Chennai,2017 Hyundai Grand i10 SPORTS 1.2 VTVT Manual,5
+469,Manual,1st Owner,Petrol,7493,493899,Chennai,2019 Maruti Eeco 5 STR WITH AC PLUSHTR Manual,3
+470,Manual,1st Owner,Petrol,81935,449599,Chennai,2017 Maruti Wagon R 1.0 VXI OPT Manual,5
+471,Manual,1st Owner,Petrol,72963,448099,Chennai,2017 Maruti Wagon R 1.0 VXI Manual,5
+472,Manual,1st Owner,Petrol,75118,630099,Chennai,2016 Hyundai i20 Active 1.2 SX Manual,6
+473,Manual,1st Owner,Petrol,71126,349199,Chennai,2017 Maruti Alto K10 VXI Manual,5
+474,Manual,1st Owner,Petrol,54825,531699,Chennai,2018 Hyundai Grand i10 ASTA 1.2 KAPPA VTVT Manual,4
+475,Automatic,1st Owner,Petrol,35640,559299,Chennai,2018 Hyundai NEW SANTRO 1.1 SPORTS AMT Automatic,4
+476,Manual,2nd Owner,Petrol,17927,351499,Chennai,2017 Maruti Alto K10 VXI Manual,5
+477,Automatic,1st Owner,Petrol,47412,585099,Chennai,2017 Hyundai Grand i10 SPORTZ (O) 1.2 AT VTVT Automatic,5
+478,Manual,1st Owner,Petrol,51708,517099,Chennai,2017 Hyundai Grand i10 Sportz(O) 1.2 MT Manual,5
+479,Manual,2nd Owner,Petrol,42356,422699,Chennai,2017 Maruti Wagon R 1.0 VXI OPT Manual,5
+480,Manual,1st Owner,Petrol,44946,685399,Chennai,2017 Maruti Baleno ALPHA 1.2 K12 Manual,5
+481,Manual,1st Owner,Petrol,42116,700099,Chennai,2019 Maruti Baleno DELTA 1.2 K12 Manual,3
+482,Manual,1st Owner,Petrol,21087,412299,Chennai,2018 Maruti Eeco 5 STR WITH AC PLUSHTR Manual,4
+483,Manual,1st Owner,Petrol,11243,503599,Chennai,2017 Maruti Wagon R 1.0 VXI OPT Manual,5
+484,Manual,1st Owner,Petrol,73880,434299,Chennai,2017 Maruti Wagon R 1.0 VXI PLUS Manual,5
+485,Manual,1st Owner,Petrol,49848,583499,Chennai,2018 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,4
+486,Automatic,2nd Owner,Petrol,19815,478299,Chennai,2018 Maruti Wagon R 1.0 VXI OPT AMT Automatic,4
+487,Manual,1st Owner,Petrol,37804,702899,Chennai,2017 Maruti Baleno ALPHA 1.2 K12 Manual,5
+488,Manual,1st Owner,Petrol,61023,510999,Chennai,2017 Hyundai Grand i10 Sportz(O) 1.2 MT Manual,5
+489,Manual,1st Owner,Petrol,14636,325199,Chennai,2017 Maruti Alto 800 LXI Manual,5
+490,Automatic,1st Owner,Petrol,80221,480099,Chennai,2018 Maruti Wagon R 1.0 VXI PLUS AMT Automatic,4
+491,Manual,2nd Owner,Petrol,16645,325199,Chennai,2017 Maruti Alto 800 LXI Manual,5
+492,Manual,2nd Owner,Petrol,60629,529999,Chennai,2017 Hyundai Grand i10 ASTA 1.2 VTVT Manual,5
+493,Manual,1st Owner,Petrol,70250,443299,Chennai,2018 Maruti Wagon R 1.0 VXI Manual,4
+494,Automatic,1st Owner,Petrol,31837,494099,Chennai,2018 Maruti Wagon R 1.0 VXI AMT Automatic,4
+495,Manual,1st Owner,Petrol,79333,360799,Chennai,2015 Maruti Wagon R 1.0 VXI Manual,7
+496,Manual,1st Owner,Petrol,16049,498899,Chennai,2018 Maruti IGNIS SIGMA 1.2 K12 Manual,4
+497,Manual,1st Owner,Petrol,30695,467399,Chennai,2017 Maruti Wagon R 1.0 VXI Manual,5
+498,Manual,1st Owner,Petrol,14064,341699,Chennai,2018 Maruti Alto 800 LXI Manual,4
+499,Manual,1st Owner,Petrol,39001,482199,Chennai,2018 Maruti Wagon R 1.0 VXI Manual,4
+500,Manual,1st Owner,Petrol,68189,421299,Chennai,2017 Maruti Eeco 5 STR WITH AC PLUSHTR Manual,5
+501,Automatic,1st Owner,Petrol,26649,508199,Chennai,2018 Maruti Wagon R 1.0 VXI PLUS AMT Automatic,4
+502,Manual,2nd Owner,Petrol,69150,538699,Chennai,2017 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT Manual,5
+503,Manual,1st Owner,Petrol,31516,433799,Chennai,2018 Maruti Eeco 5 STR WITH AC PLUSHTR Manual,4
+504,Manual,1st Owner,Petrol,58510,602299,Chennai,2017 Maruti Baleno DELTA 1.2 K12 Manual,5
+505,Automatic,1st Owner,Petrol,47785,494199,Chennai,2017 Maruti Wagon R 1.0 VXI OPT AMT Automatic,5
+506,Manual,1st Owner,Petrol,22798,468099,Chennai,2019 Maruti Eeco 5 STR WITH AC PLUSHTR Manual,3
+507,Manual,1st Owner,Petrol,101847,547299,Chennai,2015 Hyundai i20 Active 1.2 S Manual,7
+508,Manual,1st Owner,Petrol,39484,644899,Chennai,2018 Maruti Baleno DELTA 1.2 K12 Manual,4
+509,Manual,1st Owner,Petrol,32316,479199,Chennai,2019 Maruti Eeco 5 STR WITH AC PLUSHTR Manual,3
+510,Manual,1st Owner,Petrol,75920,341699,Chennai,2018 Maruti Alto 800 LXI Manual,4
+511,Manual,1st Owner,Petrol,25534,469499,Chennai,2019 Maruti Eeco 5 STR WITH AC PLUSHTR Manual,3
+512,Manual,1st Owner,Petrol,63508,524399,Chennai,2018 Maruti IGNIS DELTA 1.2 K12 Manual,4
+513,Manual,1st Owner,Petrol,42378,325199,Chennai,2017 Maruti Alto 800 LXI Manual,5
+514,Manual,1st Owner,Petrol,38068,495099,Chennai,2018 Maruti Wagon R 1.0 VXI Manual,4
+515,Manual,1st Owner,Petrol,25639,341699,Chennai,2018 Maruti Alto 800 LXI Manual,4
+516,Manual,1st Owner,Petrol,26302,474799,Chennai,2020 Maruti Eeco 5 STR WITH AC PLUSHTR Manual,2
+517,Manual,1st Owner,Petrol,32470,488499,Chennai,2019 Maruti Eeco 5 STR WITH AC PLUSHTR Manual,3
+518,Manual,1st Owner,Petrol,25509,485399,Chennai,2019 Maruti Eeco 5 STR WITH AC PLUSHTR Manual,3
+519,Automatic,1st Owner,Petrol,48809,513699,Chennai,2018 Maruti Wagon R 1.0 VXI AMT Automatic,4
+520,Manual,1st Owner,Petrol,61478,358199,Chennai,2019 Maruti Alto 800 LXI Manual,3
+521,Manual,1st Owner,Petrol,36384,341699,Chennai,2018 Maruti Alto 800 LXI Manual,4
+522,Manual,1st Owner,Petrol,27625,497099,Chennai,2018 Maruti Wagon R 1.0 VXI Manual,4
+523,Manual,1st Owner,Petrol,25873,493899,Chennai,2019 Maruti Eeco 5 STR WITH AC PLUSHTR Manual,3
+524,Manual,1st Owner,Petrol,10439,589299,Chennai,2019 Maruti Swift LXI Manual,3
+525,Manual,1st Owner,Petrol,23854,476299,Chennai,2018 Tata Tiago XT 1.2 REVOTRON Manual,4
+526,Manual,1st Owner,Petrol,21028,544099,Chennai,2018 Tata Tiago XZ 1.2 REVOTRON Manual,4
+527,Manual,1st Owner,Petrol,20161,512799,Chennai,2018 Maruti Celerio VXI Manual,4
+528,Manual,1st Owner,Petrol,43419,681399,Chennai,2016 Maruti Baleno ALPHA 1.2 K12 Manual,6
