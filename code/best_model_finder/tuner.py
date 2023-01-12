@@ -27,7 +27,6 @@ class Model_Finder:
                                         Output: The model with the best parameters
                                         On Failure: Raise Exception
 
-                                        Written By: iNeuron Intelligence
                                         Version: 1.0
                                         Revisions: None
 
