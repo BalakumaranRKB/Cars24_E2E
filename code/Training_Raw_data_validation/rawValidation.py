@@ -104,9 +104,7 @@ class Raw_Data_validation:
                                                     after validating the training data.
 
                                       Output: None
-                                      On Failure: OSError
-
-                                       Written By: iNeuron Intelligence
+                                      On Failure: OSError 
                                       Version: 1.0
                                       Revisions: None
 
