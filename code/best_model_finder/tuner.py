@@ -6,8 +6,7 @@ import numpy as np
 
 class Model_Finder:
     """
-                This class shall  be used to find the model with best accuracy and AUC score.
-                Written By: iNeuron Intelligence
+                This class shall  be used to find the model with best accuracy and RMSE score.
                 Version: 1.0
                 Revisions: None
 
