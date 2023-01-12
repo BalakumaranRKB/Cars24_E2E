@@ -82,7 +82,7 @@ class Model_Finder:
                                                 Output: The best model name and the model object
                                                 On Failure: Raise Exception
 
-                                                Written By: iNeuron Intelligence
+                                                
                                                 Version: 1.0
                                                 Revisions: None
 
