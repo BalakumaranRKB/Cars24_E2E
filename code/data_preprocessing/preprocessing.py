@@ -4,8 +4,6 @@ from sklearn.impute import KNNImputer
 class Preprocessor:
     """
         This class shall  be used to clean and transform the data before training.
-
-
         Version: 1.0
         Revisions: None
 
